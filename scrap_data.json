@@ -1,0 +1,8144 @@
+[
+ {
+  "count": 1,
+  "name": "Netaji Subhas University of Technology (West Campus)",
+  "place": "Delhi - Other",
+  "type": "Govt"
+ },
+ {
+  "count": 2,
+  "name": "HMR Institute of Technology and Management",
+  "place": "Delhi - Other",
+  "type": "Pvt"
+ },
+ {
+  "count": 3,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 4,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 5,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 6,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 7,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 8,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 9,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 10,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 11,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 12,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 13,
+  "name": "Netaji Subhas University of Technology (West Campus)",
+  "place": "Delhi - Other",
+  "type": "Govt"
+ },
+ {
+  "count": 14,
+  "name": "G.B. Pant Delhi Skill and Entrepreneurship University - Okhla: I Campus",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 15,
+  "name": "HMR Institute of Technology and Management",
+  "place": "Delhi - Other",
+  "type": "Pvt"
+ },
+ {
+  "count": 16,
+  "name": "DIT University - Admission Office",
+  "place": "East Of Kailash",
+  "type": "Pvt"
+ },
+ {
+  "count": 17,
+  "name": "IITM - Indraprastha Institute of Technology and Management",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 18,
+  "name": "Delhi Skill and Entrepreneurship University - Pusa Campus",
+  "place": "Pusa Road",
+  "type": "Govt"
+ },
+ {
+  "count": 19,
+  "name": "Delhi Maritime Academy",
+  "place": "Kalkaji",
+  "type": "Pvt"
+ },
+ {
+  "count": 20,
+  "name": "Aryabhatta Degree College",
+  "place": "Tughlakabad",
+  "type": "Pvt"
+ },
+ {
+  "count": 21,
+  "name": "Delhi Skill and Entrepreneurship University - Okhla II Campus",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 22,
+  "name": "Delhi Skill and Entrepreneurship University (DSEU)- Dwarka Campus",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 23,
+  "name": "Aryabhatt Delhi Skill and Entrepreneurship University - Ashok Vihar Campus",
+  "place": "Ashok Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 24,
+  "name": "Guru Nanak Dev Polytechnic College,Delhi",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 25,
+  "name": "Guru Nanak Dev DSEU - Rohini Campus",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 26,
+  "name": "Indian Agricultural Research Institute - IARI",
+  "place": "Karol Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 27,
+  "name": "ICRI - Jagannath University, Delhi",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 28,
+  "name": "GB Pant  Delhi Skill and Entrepreneurship University - Okhla: III Campus",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 29,
+  "name": "Ambedkar Delhi Skill and Entrepreneurship University - Shakarpur Campus- I",
+  "place": "Shakarpur",
+  "type": "Govt"
+ },
+ {
+  "count": 30,
+  "name": "Indian Institution of Engineers",
+  "place": "R.K Puram",
+  "type": ""
+ },
+ {
+  "count": 31,
+  "name": "Delhi Institute of Aeronautical Sciences",
+  "place": "Mehrauli Badarpur Road",
+  "type": "Pvt"
+ },
+ {
+  "count": 32,
+  "name": "ILAM - Sushant University, Gurgaon",
+  "place": "Nehru Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 33,
+  "name": "Delhi Institute of Fire Engineering",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 34,
+  "name": "Teri School of Advanced Studies (TSAS)",
+  "place": "Vasant Kunj",
+  "type": "Pvt"
+ },
+ {
+  "count": 35,
+  "name": "Aditya Institute of Technology",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 36,
+  "name": "Kasturba Delhi Skill and Entrepreneurship University - Pitampura Campus",
+  "place": "Pitampura",
+  "type": "Govt"
+ },
+ {
+  "count": 37,
+  "name": "Tritya Maritime Academy",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 38,
+  "name": "LBSIM - Lal Bahadur Shastri Institute of Management",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 39,
+  "name": "Chhotu Ram Rural Institute of Technology",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 40,
+  "name": "Delhi Skill and Entrepreneurship University - Wazirpur Campus",
+  "place": "Wazirpur",
+  "type": "Govt"
+ },
+ {
+  "count": 41,
+  "name": "Netaji Subhas University of Technology (West Campus)",
+  "place": "Delhi - Other",
+  "type": "Govt"
+ },
+ {
+  "count": 42,
+  "name": "G.B. Pant Delhi Skill and Entrepreneurship University - Okhla: I Campus",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 43,
+  "name": "HMR Institute of Technology and Management",
+  "place": "Delhi - Other",
+  "type": "Pvt"
+ },
+ {
+  "count": 44,
+  "name": "DIT University - Admission Office",
+  "place": "East Of Kailash",
+  "type": "Pvt"
+ },
+ {
+  "count": 45,
+  "name": "IITM - Indraprastha Institute of Technology and Management",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 46,
+  "name": "Delhi Skill and Entrepreneurship University - Pusa Campus",
+  "place": "Pusa Road",
+  "type": "Govt"
+ },
+ {
+  "count": 47,
+  "name": "Delhi Maritime Academy",
+  "place": "Kalkaji",
+  "type": "Pvt"
+ },
+ {
+  "count": 48,
+  "name": "Aryabhatta Degree College",
+  "place": "Tughlakabad",
+  "type": "Pvt"
+ },
+ {
+  "count": 49,
+  "name": "Delhi Skill and Entrepreneurship University - Okhla II Campus",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 50,
+  "name": "Delhi Skill and Entrepreneurship University (DSEU)- Dwarka Campus",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 51,
+  "name": "Aryabhatt Delhi Skill and Entrepreneurship University - Ashok Vihar Campus",
+  "place": "Ashok Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 52,
+  "name": "Guru Nanak Dev Polytechnic College,Delhi",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 53,
+  "name": "Guru Nanak Dev DSEU - Rohini Campus",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 54,
+  "name": "Indian Agricultural Research Institute - IARI",
+  "place": "Karol Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 55,
+  "name": "ICRI - Jagannath University, Delhi",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 56,
+  "name": "GB Pant  Delhi Skill and Entrepreneurship University - Okhla: III Campus",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 57,
+  "name": "Ambedkar Delhi Skill and Entrepreneurship University - Shakarpur Campus- I",
+  "place": "Shakarpur",
+  "type": "Govt"
+ },
+ {
+  "count": 58,
+  "name": "Indian Institution of Engineers",
+  "place": "R.K Puram",
+  "type": ""
+ },
+ {
+  "count": 59,
+  "name": "Delhi Institute of Aeronautical Sciences",
+  "place": "Mehrauli Badarpur Road",
+  "type": "Pvt"
+ },
+ {
+  "count": 60,
+  "name": "ILAM - Sushant University, Gurgaon",
+  "place": "Nehru Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 61,
+  "name": "Delhi Institute of Fire Engineering",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 62,
+  "name": "Teri School of Advanced Studies (TSAS)",
+  "place": "Vasant Kunj",
+  "type": "Pvt"
+ },
+ {
+  "count": 63,
+  "name": "Aditya Institute of Technology",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 64,
+  "name": "Kasturba Delhi Skill and Entrepreneurship University - Pitampura Campus",
+  "place": "Pitampura",
+  "type": "Govt"
+ },
+ {
+  "count": 65,
+  "name": "Tritya Maritime Academy",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 66,
+  "name": "LBSIM - Lal Bahadur Shastri Institute of Management",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 67,
+  "name": "Chhotu Ram Rural Institute of Technology",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 68,
+  "name": "Delhi Skill and Entrepreneurship University - Wazirpur Campus",
+  "place": "Wazirpur",
+  "type": "Govt"
+ },
+ {
+  "count": 69,
+  "name": "JRN Institute of Aviation Technology",
+  "place": "Mundka",
+  "type": "Pvt"
+ },
+ {
+  "count": 70,
+  "name": "Vivekananda College, University of Delhi",
+  "place": "Vivek Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 71,
+  "name": "Delhi Skill and Entrepreneurship University - Rajokri Campus",
+  "place": "Rajokri",
+  "type": "Govt"
+ },
+ {
+  "count": 72,
+  "name": "Guru Tegh Bahadur 4th Centenary Engineering College",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 73,
+  "name": "Trishna College of Paramedical and Polytechnic",
+  "place": "Dilshad Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 74,
+  "name": "Aimfill International",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 75,
+  "name": "Ambedkar Institute",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 76,
+  "name": "Shrim Maritime Academy",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 77,
+  "name": "R\u0026R Education Foundation",
+  "place": "Rani Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 78,
+  "name": "Gobind Ballabh Pant Polytechnic College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 79,
+  "name": "Shyama Prasad Mukherji College for Women, University of Delhi",
+  "place": "Punjabi Bagh",
+  "type": "Govt"
+ },
+ {
+  "count": 80,
+  "name": "NIELIT Delhi - National Institute of Electronics and Information Technology",
+  "place": "Shastri Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 81,
+  "name": "Jagannath Community College",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 82,
+  "name": "Agra College of Management and Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 83,
+  "name": "Aditi Mahavidyalaya, University of Delhi",
+  "place": "Bawana",
+  "type": "Govt"
+ },
+ {
+  "count": 84,
+  "name": "Sri Sai Group of Institutes - Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 85,
+  "name": "Om Paramedical and Technical Education",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 86,
+  "name": "Polytechnic for Women",
+  "place": "South Ex 1",
+  "type": ""
+ },
+ {
+  "count": 87,
+  "name": "Ashok Institute of Hospitality and Tourism Management",
+  "place": "Chanakya Puri",
+  "type": "Pvt"
+ },
+ {
+  "count": 88,
+  "name": "Guru Tegh Bahadur Polytechnic Institute",
+  "place": "Delhi - Other",
+  "type": "Pvt"
+ },
+ {
+  "count": 89,
+  "name": "Lakshmibai College, University of Delhi",
+  "place": "Ashok Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 90,
+  "name": "Samalkha Group of Institutions - Admission Office",
+  "place": "Shalimar Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 91,
+  "name": "Meerabai Delhi Skill and Entrepreneurship University - Maharani Bagh Campus",
+  "place": "Maharani Bagh",
+  "type": "Govt"
+ },
+ {
+  "count": 92,
+  "name": "Pearl Academy, New Friends Colony",
+  "place": "New Friends Colony",
+  "type": ""
+ },
+ {
+  "count": 93,
+  "name": "Saroj Educational Group",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 94,
+  "name": "New Delhi YMCA, Institute for Office Management",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 95,
+  "name": "Ch. Brahm Prakash Government. Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 96,
+  "name": "Advance Electrical Design \u0026 Engineering Institute",
+  "place": "Lakshmi Nagar",
+  "type": ""
+ },
+ {
+  "count": 97,
+  "name": "JRN Institute of Aviation Technology",
+  "place": "Mundka",
+  "type": "Pvt"
+ },
+ {
+  "count": 98,
+  "name": "Vivekananda College, University of Delhi",
+  "place": "Vivek Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 99,
+  "name": "Delhi Skill and Entrepreneurship University - Rajokri Campus",
+  "place": "Rajokri",
+  "type": "Govt"
+ },
+ {
+  "count": 100,
+  "name": "Guru Tegh Bahadur 4th Centenary Engineering College",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 101,
+  "name": "Trishna College of Paramedical and Polytechnic",
+  "place": "Dilshad Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 102,
+  "name": "Aimfill International",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 103,
+  "name": "Ambedkar Institute",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 104,
+  "name": "Shrim Maritime Academy",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 105,
+  "name": "R\u0026R Education Foundation",
+  "place": "Rani Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 106,
+  "name": "Gobind Ballabh Pant Polytechnic College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 107,
+  "name": "Shyama Prasad Mukherji College for Women, University of Delhi",
+  "place": "Punjabi Bagh",
+  "type": "Govt"
+ },
+ {
+  "count": 108,
+  "name": "NIELIT Delhi - National Institute of Electronics and Information Technology",
+  "place": "Shastri Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 109,
+  "name": "Jagannath Community College",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 110,
+  "name": "Agra College of Management and Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 111,
+  "name": "Aditi Mahavidyalaya, University of Delhi",
+  "place": "Bawana",
+  "type": "Govt"
+ },
+ {
+  "count": 112,
+  "name": "Sri Sai Group of Institutes - Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 113,
+  "name": "Om Paramedical and Technical Education",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 114,
+  "name": "Polytechnic for Women",
+  "place": "South Ex 1",
+  "type": ""
+ },
+ {
+  "count": 115,
+  "name": "Ashok Institute of Hospitality and Tourism Management",
+  "place": "Chanakya Puri",
+  "type": "Pvt"
+ },
+ {
+  "count": 116,
+  "name": "Guru Tegh Bahadur Polytechnic Institute",
+  "place": "Delhi - Other",
+  "type": "Pvt"
+ },
+ {
+  "count": 117,
+  "name": "Lakshmibai College, University of Delhi",
+  "place": "Ashok Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 118,
+  "name": "Samalkha Group of Institutions - Admission Office",
+  "place": "Shalimar Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 119,
+  "name": "Meerabai Delhi Skill and Entrepreneurship University - Maharani Bagh Campus",
+  "place": "Maharani Bagh",
+  "type": "Govt"
+ },
+ {
+  "count": 120,
+  "name": "Pearl Academy, New Friends Colony",
+  "place": "New Friends Colony",
+  "type": ""
+ },
+ {
+  "count": 121,
+  "name": "Saroj Educational Group",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 122,
+  "name": "New Delhi YMCA, Institute for Office Management",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 123,
+  "name": "Ch. Brahm Prakash Government. Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 124,
+  "name": "Advance Electrical Design \u0026 Engineering Institute",
+  "place": "Lakshmi Nagar",
+  "type": ""
+ },
+ {
+  "count": 125,
+  "name": "JRN Institute of Aviation Technology",
+  "place": "Mundka",
+  "type": "Pvt"
+ },
+ {
+  "count": 126,
+  "name": "Vivekananda College, University of Delhi",
+  "place": "Vivek Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 127,
+  "name": "Delhi Skill and Entrepreneurship University - Rajokri Campus",
+  "place": "Rajokri",
+  "type": "Govt"
+ },
+ {
+  "count": 128,
+  "name": "Guru Tegh Bahadur 4th Centenary Engineering College",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 129,
+  "name": "Trishna College of Paramedical and Polytechnic",
+  "place": "Dilshad Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 130,
+  "name": "Aimfill International",
+  "place": "Delhi",
+  "type": "Pvt"
+ },
+ {
+  "count": 131,
+  "name": "Ambedkar Institute",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 132,
+  "name": "Shrim Maritime Academy",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 133,
+  "name": "R\u0026R Education Foundation",
+  "place": "Rani Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 134,
+  "name": "Gobind Ballabh Pant Polytechnic College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 135,
+  "name": "Shyama Prasad Mukherji College for Women, University of Delhi",
+  "place": "Punjabi Bagh",
+  "type": "Govt"
+ },
+ {
+  "count": 136,
+  "name": "NIELIT Delhi - National Institute of Electronics and Information Technology",
+  "place": "Shastri Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 137,
+  "name": "Jagannath Community College",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 138,
+  "name": "Agra College of Management and Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 139,
+  "name": "Aditi Mahavidyalaya, University of Delhi",
+  "place": "Bawana",
+  "type": "Govt"
+ },
+ {
+  "count": 140,
+  "name": "Sri Sai Group of Institutes - Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 141,
+  "name": "Om Paramedical and Technical Education",
+  "place": "Dwarka",
+  "type": "Pvt"
+ },
+ {
+  "count": 142,
+  "name": "Polytechnic for Women",
+  "place": "South Ex 1",
+  "type": ""
+ },
+ {
+  "count": 143,
+  "name": "Ashok Institute of Hospitality and Tourism Management",
+  "place": "Chanakya Puri",
+  "type": "Pvt"
+ },
+ {
+  "count": 144,
+  "name": "Guru Tegh Bahadur Polytechnic Institute",
+  "place": "Delhi - Other",
+  "type": "Pvt"
+ },
+ {
+  "count": 145,
+  "name": "Lakshmibai College, University of Delhi",
+  "place": "Ashok Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 146,
+  "name": "Samalkha Group of Institutions - Admission Office",
+  "place": "Shalimar Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 147,
+  "name": "Meerabai Delhi Skill and Entrepreneurship University - Maharani Bagh Campus",
+  "place": "Maharani Bagh",
+  "type": "Govt"
+ },
+ {
+  "count": 148,
+  "name": "Pearl Academy, New Friends Colony",
+  "place": "New Friends Colony",
+  "type": ""
+ },
+ {
+  "count": 149,
+  "name": "Saroj Educational Group",
+  "place": "Lajpat Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 150,
+  "name": "New Delhi YMCA, Institute for Office Management",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 151,
+  "name": "Ch. Brahm Prakash Government. Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 152,
+  "name": "Advance Electrical Design \u0026 Engineering Institute",
+  "place": "Lakshmi Nagar",
+  "type": ""
+ },
+ {
+  "count": 153,
+  "name": "Institute of Professional Education \u0026 Entrepreneurship",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 154,
+  "name": "TGC Animation and Multimedia",
+  "place": "South Ex 1",
+  "type": "Pvt"
+ },
+ {
+  "count": 155,
+  "name": "AeroEngineers Vidyapeeth Private Limited",
+  "place": "Tilak Nagar",
+  "type": ""
+ },
+ {
+  "count": 156,
+  "name": "Legal Immigration Group",
+  "place": "Delhi",
+  "type": ""
+ },
+ {
+  "count": 157,
+  "name": "Inter Institute of Education and Skill Training (IIEST, Dwarka)",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 158,
+  "name": "H.R. CAD Centre",
+  "place": "Maharani Bagh",
+  "type": ""
+ },
+ {
+  "count": 159,
+  "name": "Navodaya Education",
+  "place": "Uttam Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 160,
+  "name": "Global Institute of Intellectual Property",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 161,
+  "name": "Ahimsa Women's Polytechnic",
+  "place": "New Rajendra Nagar",
+  "type": ""
+ },
+ {
+  "count": 162,
+  "name": "Oxford Software Institute",
+  "place": "Preet Vihar",
+  "type": ""
+ },
+ {
+  "count": 163,
+  "name": "School of Aviation Science \u0026 Technology",
+  "place": "Safdarjang Enclave",
+  "type": "Pvt"
+ },
+ {
+  "count": 164,
+  "name": "Infonet Computer Education",
+  "place": "Green Park",
+  "type": ""
+ },
+ {
+  "count": 165,
+  "name": "Centre for Development of Advanced Computing, Delhi",
+  "place": "Hauz khas",
+  "type": ""
+ },
+ {
+  "count": 166,
+  "name": "Career Schemer",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 167,
+  "name": "National Power Training Institute, Badarpur",
+  "place": "Badarpur",
+  "type": ""
+ },
+ {
+  "count": 168,
+  "name": "Delhi College of Advanced Studies",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 169,
+  "name": "International Academy for Studies",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 170,
+  "name": "Pentocrat India Private Limited",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 171,
+  "name": "Aptech Aviation and Hospitality Academy, Rajouri Garden",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 172,
+  "name": "Directorate of Open and Distance Learning, Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": ""
+ },
+ {
+  "count": 173,
+  "name": "Institute of Professional Education \u0026 Entrepreneurship",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 174,
+  "name": "TGC Animation and Multimedia",
+  "place": "South Ex 1",
+  "type": "Pvt"
+ },
+ {
+  "count": 175,
+  "name": "AeroEngineers Vidyapeeth Private Limited",
+  "place": "Tilak Nagar",
+  "type": ""
+ },
+ {
+  "count": 176,
+  "name": "Legal Immigration Group",
+  "place": "Delhi",
+  "type": ""
+ },
+ {
+  "count": 177,
+  "name": "Inter Institute of Education and Skill Training (IIEST, Dwarka)",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 178,
+  "name": "H.R. CAD Centre",
+  "place": "Maharani Bagh",
+  "type": ""
+ },
+ {
+  "count": 179,
+  "name": "Navodaya Education",
+  "place": "Uttam Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 180,
+  "name": "Global Institute of Intellectual Property",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 181,
+  "name": "Ahimsa Women's Polytechnic",
+  "place": "New Rajendra Nagar",
+  "type": ""
+ },
+ {
+  "count": 182,
+  "name": "Oxford Software Institute",
+  "place": "Preet Vihar",
+  "type": ""
+ },
+ {
+  "count": 183,
+  "name": "School of Aviation Science \u0026 Technology",
+  "place": "Safdarjang Enclave",
+  "type": "Pvt"
+ },
+ {
+  "count": 184,
+  "name": "Infonet Computer Education",
+  "place": "Green Park",
+  "type": ""
+ },
+ {
+  "count": 185,
+  "name": "Centre for Development of Advanced Computing, Delhi",
+  "place": "Hauz khas",
+  "type": ""
+ },
+ {
+  "count": 186,
+  "name": "Career Schemer",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 187,
+  "name": "National Power Training Institute, Badarpur",
+  "place": "Badarpur",
+  "type": ""
+ },
+ {
+  "count": 188,
+  "name": "Delhi College of Advanced Studies",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 189,
+  "name": "International Academy for Studies",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 190,
+  "name": "Pentocrat India Private Limited",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 191,
+  "name": "Aptech Aviation and Hospitality Academy, Rajouri Garden",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 192,
+  "name": "Directorate of Open and Distance Learning, Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": ""
+ },
+ {
+  "count": 193,
+  "name": "Institute of Professional Education \u0026 Entrepreneurship",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 194,
+  "name": "TGC Animation and Multimedia",
+  "place": "South Ex 1",
+  "type": "Pvt"
+ },
+ {
+  "count": 195,
+  "name": "AeroEngineers Vidyapeeth Private Limited",
+  "place": "Tilak Nagar",
+  "type": ""
+ },
+ {
+  "count": 196,
+  "name": "Legal Immigration Group",
+  "place": "Delhi",
+  "type": ""
+ },
+ {
+  "count": 197,
+  "name": "Inter Institute of Education and Skill Training (IIEST, Dwarka)",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 198,
+  "name": "H.R. CAD Centre",
+  "place": "Maharani Bagh",
+  "type": ""
+ },
+ {
+  "count": 199,
+  "name": "Navodaya Education",
+  "place": "Uttam Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 200,
+  "name": "Global Institute of Intellectual Property",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 201,
+  "name": "Ahimsa Women's Polytechnic",
+  "place": "New Rajendra Nagar",
+  "type": ""
+ },
+ {
+  "count": 202,
+  "name": "Oxford Software Institute",
+  "place": "Preet Vihar",
+  "type": ""
+ },
+ {
+  "count": 203,
+  "name": "School of Aviation Science \u0026 Technology",
+  "place": "Safdarjang Enclave",
+  "type": "Pvt"
+ },
+ {
+  "count": 204,
+  "name": "Infonet Computer Education",
+  "place": "Green Park",
+  "type": ""
+ },
+ {
+  "count": 205,
+  "name": "Centre for Development of Advanced Computing, Delhi",
+  "place": "Hauz khas",
+  "type": ""
+ },
+ {
+  "count": 206,
+  "name": "Career Schemer",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 207,
+  "name": "National Power Training Institute, Badarpur",
+  "place": "Badarpur",
+  "type": ""
+ },
+ {
+  "count": 208,
+  "name": "Delhi College of Advanced Studies",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 209,
+  "name": "International Academy for Studies",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 210,
+  "name": "Pentocrat India Private Limited",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 211,
+  "name": "Aptech Aviation and Hospitality Academy, Rajouri Garden",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 212,
+  "name": "Directorate of Open and Distance Learning, Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": ""
+ },
+ {
+  "count": 213,
+  "name": "Institute of Professional Education \u0026 Entrepreneurship",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 214,
+  "name": "TGC Animation and Multimedia",
+  "place": "South Ex 1",
+  "type": "Pvt"
+ },
+ {
+  "count": 215,
+  "name": "AeroEngineers Vidyapeeth Private Limited",
+  "place": "Tilak Nagar",
+  "type": ""
+ },
+ {
+  "count": 216,
+  "name": "Legal Immigration Group",
+  "place": "Delhi",
+  "type": ""
+ },
+ {
+  "count": 217,
+  "name": "Inter Institute of Education and Skill Training (IIEST, Dwarka)",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 218,
+  "name": "H.R. CAD Centre",
+  "place": "Maharani Bagh",
+  "type": ""
+ },
+ {
+  "count": 219,
+  "name": "Navodaya Education",
+  "place": "Uttam Nagar",
+  "type": "Pvt"
+ },
+ {
+  "count": 220,
+  "name": "Global Institute of Intellectual Property",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 221,
+  "name": "Ahimsa Women's Polytechnic",
+  "place": "New Rajendra Nagar",
+  "type": ""
+ },
+ {
+  "count": 222,
+  "name": "Oxford Software Institute",
+  "place": "Preet Vihar",
+  "type": ""
+ },
+ {
+  "count": 223,
+  "name": "School of Aviation Science \u0026 Technology",
+  "place": "Safdarjang Enclave",
+  "type": "Pvt"
+ },
+ {
+  "count": 224,
+  "name": "Infonet Computer Education",
+  "place": "Green Park",
+  "type": ""
+ },
+ {
+  "count": 225,
+  "name": "Centre for Development of Advanced Computing, Delhi",
+  "place": "Hauz khas",
+  "type": ""
+ },
+ {
+  "count": 226,
+  "name": "Career Schemer",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 227,
+  "name": "National Power Training Institute, Badarpur",
+  "place": "Badarpur",
+  "type": ""
+ },
+ {
+  "count": 228,
+  "name": "Delhi College of Advanced Studies",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 229,
+  "name": "International Academy for Studies",
+  "place": "Dwarka",
+  "type": ""
+ },
+ {
+  "count": 230,
+  "name": "Pentocrat India Private Limited",
+  "place": "Janakpuri",
+  "type": ""
+ },
+ {
+  "count": 231,
+  "name": "Aptech Aviation and Hospitality Academy, Rajouri Garden",
+  "place": "Rajouri Garden",
+  "type": ""
+ },
+ {
+  "count": 232,
+  "name": "Directorate of Open and Distance Learning, Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": ""
+ },
+ {
+  "count": 233,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 234,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 235,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 236,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 237,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 238,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 239,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 240,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 241,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 242,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 243,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 244,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 245,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 246,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 247,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 248,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 249,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 250,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 251,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 252,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 253,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 254,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 255,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 256,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 257,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 258,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 259,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 260,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 261,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 262,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 263,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 264,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 265,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 266,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 267,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 268,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 269,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 270,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 271,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 272,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 273,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 274,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 275,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 276,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 277,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 278,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 279,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 280,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 281,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 282,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 283,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 284,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 285,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 286,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 287,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 288,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 289,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 290,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 291,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 292,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 293,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 294,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 295,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 296,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 297,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 298,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 299,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 300,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 301,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 302,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 303,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 304,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 305,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 306,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 307,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 308,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 309,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 310,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 311,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 312,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 313,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 314,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 315,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 316,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 317,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 318,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 319,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 320,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 321,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 322,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 323,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 324,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 325,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 326,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 327,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 328,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 329,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 330,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 331,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 332,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 333,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 334,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 335,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 336,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 337,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 338,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 339,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 340,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 341,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 342,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 343,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 344,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 345,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 346,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 347,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 348,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 349,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 350,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 351,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 352,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 353,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 354,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 355,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 356,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 357,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 358,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 359,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 360,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 361,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 362,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 363,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 364,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 365,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 366,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 367,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 368,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 369,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 370,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 371,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 372,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 373,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 374,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 375,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 376,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 377,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 378,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 379,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 380,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 381,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 382,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 383,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 384,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 385,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 386,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 387,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 388,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 389,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 390,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 391,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 392,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 393,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 394,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 395,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 396,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 397,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 398,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 399,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 400,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 401,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 402,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 403,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 404,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 405,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 406,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 407,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 408,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 409,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 410,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 411,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 412,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 413,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 414,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 415,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 416,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 417,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 418,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 419,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 420,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 421,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 422,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 423,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 424,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 425,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 426,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 427,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 428,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 429,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 430,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 431,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 432,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 433,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 434,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 435,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 436,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 437,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 438,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 439,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 440,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 441,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 442,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 443,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 444,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 445,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 446,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 447,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 448,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 449,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 450,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 451,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 452,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 453,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 454,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 455,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 456,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 457,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 458,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 459,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 460,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 461,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 462,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 463,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 464,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 465,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 466,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 467,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 468,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 469,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 470,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 471,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 472,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 473,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 474,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 475,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 476,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 477,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 478,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 479,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 480,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 481,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 482,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 483,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 484,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 485,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 486,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 487,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 488,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 489,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 490,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 491,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 492,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 493,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 494,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 495,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 496,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 497,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 498,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 499,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 500,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 501,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 502,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 503,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 504,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 505,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 506,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 507,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 508,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 509,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 510,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 511,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 512,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 513,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 514,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 515,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 516,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 517,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 518,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 519,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 520,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 521,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 522,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 523,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 524,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 525,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 526,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 527,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 528,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 529,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 530,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 531,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 532,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 533,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 534,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 535,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 536,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 537,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 538,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 539,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 540,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 541,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 542,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 543,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 544,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 545,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 546,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 547,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 548,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 549,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 550,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 551,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 552,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 553,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 554,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 555,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 556,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 557,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 558,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 559,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 560,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 561,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 562,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 563,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 564,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 565,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 566,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 567,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 568,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 569,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 570,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 571,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 572,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 573,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 574,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 575,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 576,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 577,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 578,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 579,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 580,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 581,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 582,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 583,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 584,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 585,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 586,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 587,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 588,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 589,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 590,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 591,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 592,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 593,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 594,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 595,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 596,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 597,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 598,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 599,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 600,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 601,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 602,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 603,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 604,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 605,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 606,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 607,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 608,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 609,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 610,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 611,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 612,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 613,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 614,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 615,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 616,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 617,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 618,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 619,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 620,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 621,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 622,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 623,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 624,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 625,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 626,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 627,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 628,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 629,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 630,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 631,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 632,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 633,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 634,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 635,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 636,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 637,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 638,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 639,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 640,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 641,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 642,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 643,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 644,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 645,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 646,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 647,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 648,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 649,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 650,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 651,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 652,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 653,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 654,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 655,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 656,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 657,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 658,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 659,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 660,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 661,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 662,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 663,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 664,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 665,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 666,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 667,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 668,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 669,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 670,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 671,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 672,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 673,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 674,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 675,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 676,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 677,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 678,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 679,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 680,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 681,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 682,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 683,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 684,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 685,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 686,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 687,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 688,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 689,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 690,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 691,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 692,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 693,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 694,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 695,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 696,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 697,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 698,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 699,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 700,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 701,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 702,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 703,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 704,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 705,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 706,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 707,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 708,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 709,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 710,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 711,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 712,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 713,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 714,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 715,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 716,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 717,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 718,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 719,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 720,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 721,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 722,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 723,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 724,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 725,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 726,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 727,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 728,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 729,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 730,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 731,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 732,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 733,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 734,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 735,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 736,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 737,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 738,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 739,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 740,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 741,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 742,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 743,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 744,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 745,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 746,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 747,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 748,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 749,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 750,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 751,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 752,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 753,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 754,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 755,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 756,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 757,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 758,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 759,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 760,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 761,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 762,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 763,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 764,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 765,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 766,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 767,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 768,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 769,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 770,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 771,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 772,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 773,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 774,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 775,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 776,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 777,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 778,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 779,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 780,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 781,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 782,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 783,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 784,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 785,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 786,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 787,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 788,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 789,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 790,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 791,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 792,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 793,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 794,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 795,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 796,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 797,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 798,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 799,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 800,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 801,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 802,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 803,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 804,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 805,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 806,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 807,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 808,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 809,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 810,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 811,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 812,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 813,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 814,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 815,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 816,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 817,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 818,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 819,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 820,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 821,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 822,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 823,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 824,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 825,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 826,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 827,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 828,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 829,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 830,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 831,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 832,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 833,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 834,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 835,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 836,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 837,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 838,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 839,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 840,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 841,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 842,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 843,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 844,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 845,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 846,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 847,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 848,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 849,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 850,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 851,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 852,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 853,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 854,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 855,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 856,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 857,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 858,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 859,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 860,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 861,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 862,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 863,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 864,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 865,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 866,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 867,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 868,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 869,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 870,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 871,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 872,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 873,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 874,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 875,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 876,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 877,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 878,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 879,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 880,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 881,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 882,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 883,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 884,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 885,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 886,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 887,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 888,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 889,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 890,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 891,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 892,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 893,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 894,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 895,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 896,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 897,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 898,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 899,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 900,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 901,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 902,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 903,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 904,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 905,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 906,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 907,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 908,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 909,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 910,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 911,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 912,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 913,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 914,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 915,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 916,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 917,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 918,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 919,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 920,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 921,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 922,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 923,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 924,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 925,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 926,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 927,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 928,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 929,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 930,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 931,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 932,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 933,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 934,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 935,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 936,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 937,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 938,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 939,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 940,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 941,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 942,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 943,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 944,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 945,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 946,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 947,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 948,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 949,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 950,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 951,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 952,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 953,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 954,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 955,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 956,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 957,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 958,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 959,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 960,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 961,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 962,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 963,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 964,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 965,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 966,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 967,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 968,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 969,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 970,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 971,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 972,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 973,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 974,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 975,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 976,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 977,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 978,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 979,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 980,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 981,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 982,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 983,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 984,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 985,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 986,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 987,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 988,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 989,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 990,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 991,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 992,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 993,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 994,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 995,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 996,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 997,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 998,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 999,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1000,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1001,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1002,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1003,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1004,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1005,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1006,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1007,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1008,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1009,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1010,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1011,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1012,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1013,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1014,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1015,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1016,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1017,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1018,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1019,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1020,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1021,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1022,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1023,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1024,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1025,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1026,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1027,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1028,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1029,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1030,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1031,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1032,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1033,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1034,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1035,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1036,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1037,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1038,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1039,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1040,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1041,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1042,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1043,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1044,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1045,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1046,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1047,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1048,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1049,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1050,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1051,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1052,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1053,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1054,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1055,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1056,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1057,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1058,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1059,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1060,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1061,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1062,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1063,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1064,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1065,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1066,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1067,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1068,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1069,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1070,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1071,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1072,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1073,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1074,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1075,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1076,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1077,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1078,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1079,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1080,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1081,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1082,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1083,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1084,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1085,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1086,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1087,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1088,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1089,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1090,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1091,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1092,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1093,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1094,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1095,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1096,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1097,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1098,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1099,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1100,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1101,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1102,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1103,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1104,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1105,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1106,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1107,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1108,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1109,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1110,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1111,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1112,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1113,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1114,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1115,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1116,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1117,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1118,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1119,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1120,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1121,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1122,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1123,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1124,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1125,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1126,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1127,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1128,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1129,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1130,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1131,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1132,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1133,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1134,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1135,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1136,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1137,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1138,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1139,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1140,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1141,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1142,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1143,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1144,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1145,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1146,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1147,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1148,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1149,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1150,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1151,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1152,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1153,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1154,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1155,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1156,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1157,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1158,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1159,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1160,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1161,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1162,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1163,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1164,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1165,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1166,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1167,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1168,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1169,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1170,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1171,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1172,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1173,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1174,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1175,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1176,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1177,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1178,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1179,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1180,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1181,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1182,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1183,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1184,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1185,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1186,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1187,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1188,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1189,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1190,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1191,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1192,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1193,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1194,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1195,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1196,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1197,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1198,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1199,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1200,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1201,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1202,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1203,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1204,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1205,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1206,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1207,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1208,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1209,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1210,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1211,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1212,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1213,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1214,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1215,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1216,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1217,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1218,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1219,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1220,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1221,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1222,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1223,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1224,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1225,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1226,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1227,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1228,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1229,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1230,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1231,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1232,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1233,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1234,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1235,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1236,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1237,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1238,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1239,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1240,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1241,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1242,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1243,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1244,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1245,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1246,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1247,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1248,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1249,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1250,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1251,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1252,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1253,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1254,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1255,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1256,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1257,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1258,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1259,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1260,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1261,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1262,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1263,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1264,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1265,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1266,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1267,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1268,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1269,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1270,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1271,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1272,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1273,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1274,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1275,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1276,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1277,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1278,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1279,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1280,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1281,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1282,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1283,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1284,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1285,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1286,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1287,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1288,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1289,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1290,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1291,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1292,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1293,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1294,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1295,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1296,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1297,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1298,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1299,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1300,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1301,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1302,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1303,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1304,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1305,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1306,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1307,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1308,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1309,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1310,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1311,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1312,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1313,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1314,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1315,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1316,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1317,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1318,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1319,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1320,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1321,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1322,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1323,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1324,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1325,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1326,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1327,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1328,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1329,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1330,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1331,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1332,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1333,
+  "name": "IIT Delhi - Indian Institute of Technology",
+  "place": "Hauz khas",
+  "type": "Govt"
+ },
+ {
+  "count": 1334,
+  "name": "DTU - Delhi Technological University",
+  "place": "Rohini",
+  "type": "Govt"
+ },
+ {
+  "count": 1335,
+  "name": "Jamia Millia Islamia [JMI]",
+  "place": "Jamia Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1336,
+  "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+  "place": "Okhla",
+  "type": "Govt"
+ },
+ {
+  "count": 1337,
+  "name": "Netaji Subhas University of Technology",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1338,
+  "name": "Guru Gobind Singh Indraprastha University",
+  "place": "Dwarka",
+  "type": "Govt"
+ },
+ {
+  "count": 1339,
+  "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "place": "Kashmere Gate",
+  "type": "Govt"
+ },
+ {
+  "count": 1340,
+  "name": "NIT Delhi - National Institute of Technology",
+  "place": "Narela",
+  "type": "Govt"
+ },
+ {
+  "count": 1341,
+  "name": "Maharaja Agrasen Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1342,
+  "name": "Maharaja Surajmal Institute of Technology",
+  "place": "Janakpuri",
+  "type": "Pvt"
+ },
+ {
+  "count": 1343,
+  "name": "Jamia Hamdard",
+  "place": "Hamdard Nagar",
+  "type": "Govt"
+ },
+ {
+  "count": 1344,
+  "name": "Bhagwan Parshuram Institute of Technology",
+  "place": "Rohini",
+  "type": "Pvt"
+ },
+ {
+  "count": 1345,
+  "name": "G.B. Pant Government Engineering College",
+  "place": "Delhi",
+  "type": "Govt"
+ },
+ {
+  "count": 1346,
+  "name": "Jawaharlal Nehru University",
+  "place": "Mehrauli",
+  "type": "Govt"
+ },
+ {
+  "count": 1347,
+  "name": "Netaji Subhas University of Technology (East Campus)",
+  "place": "Geeta Colony",
+  "type": "Govt"
+ },
+ {
+  "count": 1348,
+  "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+  "place": "Paschim Vihar",
+  "type": "Pvt"
+ },
+ {
+  "count": 1349,
+  "name": "Dr. Akhilesh Das Gupta Institute of Technology and Management (Formerly Northern India Engineering College)",
+  "place": "Shastri Park",
+  "type": "Pvt"
+ },
+ {
+  "count": 1350,
+  "name": "Lovely Professional University, Admission Office",
+  "place": "Connaught Place",
+  "type": "Pvt"
+ },
+ {
+  "count": 1351,
+  "name": "Delhi University (DU)",
+  "place": "North Campus",
+  "type": "Govt"
+ },
+ {
+  "count": 1352,
+  "name": "Guru Tegh Bahadur Institute of Technology",
+  "place": "Rajouri Garden",
+  "type": "Pvt"
+ },
+ {
+  "count": 1353,
+  "name": "UPES (Admission Office)",
+  "place": "Okhla",
+  "type": "Pvt"
+ },
+ {
+  "count": 1354,
+  "name": "VIPS - Vivekananda Institute of Professional Studies",
+  "place": "Pitampura",
+  "type": "Pvt"
+ },
+ {
+  "count": 1355,
+  "name": "Guru Gobind Singh Indraprastha University - East Delhi Campus",
+  "place": "Surajmal Vihar",
+  "type": "Govt"
+ },
+ {
+  "count": 1356,
+  "name": "Ganga Institute of Technology and Management - Admission Office",
+  "place": "Punjabi Bagh",
+  "type": "Pvt"
+ },
+ {
+  "count": 1357,
+  "name": "Cluster Innovation Centre, University of Delhi",
+  "place": "North Campus",
+  "type": "Govt"
+ }
+]
