@@ -23,7 +23,7 @@ type item struct {
 var (
 	count      int
 	datas      []item
-	totalPages = 10
+	totalPages = 4
 	// visitLink  = "https://www.shiksha.com/engineering/colleges/b-tech-colleges-kerala"
 	visitLink = "https://www.shiksha.com/engineering/colleges/b-tech-colleges-delhi-other"
 	tailLink  = "?ct[]=74&ct[]=10653&ed[]=et_20&uaf[]=base_course&uaf[]=city&rf=filters"
@@ -36,53 +36,53 @@ func main() {
 		colly.AllowedDomains("www.shiksha.com"),
 		colly.AllowURLRevisit(),
 	)
+	c.OnRequest(func(r *colly.Request) {
+		fmt.Println("visiting :", r.URL.String())
+	})
+	c.OnError(func(r *colly.Response, e error) {
+		fmt.Println("on error :", e.Error())
+	})
+	c.OnResponse(func(r *colly.Response) {
+		fmt.Println("Response Code :", r.StatusCode)
+	})
+	c.OnHTML("._8165 ", func(h *colly.HTMLElement) {
+
+		count++
+		clgName := h.ChildText("h3[title]")
+		place := h.ChildText("span._5588")
+		types := h.ChildText("span")
+
+		if strings.Contains(types, "Govt") {
+			types = "Govt"
+		} else if strings.Contains(types, "Pvt") {
+			types = "Pvt"
+		} else {
+			types = ""
+		}
+
+		item := item{
+			Count: count,
+			Name:  clgName,
+			Place: place,
+			Type:  types,
+		}
+		datas = append(datas, item)
+
+	})
+
 	for i := 0; i < totalPages; i++ {
 		if i != 0 {
 			params = strconv.Itoa(i + 1)
 			params = "-" + params + tailLink
+		}else{
+			params = params + tailLink
 		}
-
-		c.OnRequest(func(r *colly.Request) {
-			fmt.Println("visiting :", r.URL.String())
-		})
-		c.OnError(func(r *colly.Response, e error) {
-			fmt.Println("on error :", e.Error())
-		})
-		c.OnResponse(func(r *colly.Response) {
-			fmt.Println("Response Code :", r.StatusCode)
-		})
-		c.OnHTML("._8165 ", func(h *colly.HTMLElement) {
-			
-			count++
-			clgName := h.ChildText("h3[title]")
-			place := h.ChildText("span._5588")
-			types := h.ChildText("span")
-
-			if strings.Contains(types,"Govt"){
-				types = "Govt"
-			}else if strings.Contains(types,"Pvt"){
-				types = "Pvt"
-			}else {
-				types = ""
-			}
-
-			item := item{
-				Count: count,
-				Name:  clgName,
-				Place: place,
-				Type:  types,
-			}
-			datas = append(datas, item)
-
-		})
-		fmt.Println("reached")
-
 		err := c.Visit(visitLink + params)
 		if err != nil {
 			fmt.Println("error in visit :", err.Error())
 		}
-
 	}
+
 	writeJSON(datas)
 	writeXLSX(datas)
 	writeTEXT(datas)
