@@ -84,8 +84,8 @@ func main() {
 
 	}
 	writeJSON(datas)
-	// writeXLSX(datas)
-	// writeTEXT(datas)
+	writeXLSX(datas)
+	writeTEXT(datas)
 }
 
 func writeJSON(data []item) {
