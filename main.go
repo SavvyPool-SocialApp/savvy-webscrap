@@ -23,9 +23,10 @@ type item struct {
 }
 
 var (
+	initial    string
 	count      int
 	datas      []item
-	totalPages = 1
+	totalPages = 100
 	sheetName  = "sheet1"
 	fileName   = "data"
 	// visitLink  = "https://www.shiksha.com/engineering/colleges/b-tech-colleges-kerala"
@@ -45,8 +46,6 @@ func main() {
 	if tailLink == "0" {
 		tailLink = ""
 	}
-	fmt.Println("Number of pages :")
-	fmt.Scan(&totalPages)
 	fmt.Println("File Name :")
 	fmt.Scan(&fileName)
 	fmt.Println("Sheet Name :")
@@ -95,6 +94,10 @@ func main() {
 
 		count++
 		clgName := h.ChildText("h3[title]")
+		if initial == clgName {
+			WriteAll(datas)
+			os.Exit(0)
+		}
 		place := h.ChildText("span._5588")
 		types := h.ChildText("span")
 		link := h.ChildAttr("a.ripple", "href")
@@ -105,6 +108,11 @@ func main() {
 		} else {
 			types = ""
 		}
+
+		if count == 1 {
+			initial = clgName
+		}
+
 		err := c2.Visit("https://www.shiksha.com" + link)
 		if err != nil {
 			fmt.Println("error in visiting subpage :", err.Error())
@@ -136,7 +144,9 @@ func main() {
 
 		}
 	}
+}
 
+func WriteAll(data []item) {
 	writeJSON(datas)
 	writeXLSX(datas)
 	writeTEXT(datas)
