@@ -23,18 +23,19 @@ type item struct {
 }
 
 var (
+	flag       bool
 	initial    string
 	count      int
 	datas      []item
 	totalPages = 100
 	sheetName  = "sheet1"
 	fileName   = "data"
+	visitLink  string
+	tailLink   string
+	params     string
 	// visitLink  = "https://www.shiksha.com/engineering/colleges/b-tech-colleges-kerala"
 	// visitLink = "https://www.shiksha.com/engineering/colleges/b-tech-colleges-delhi-other"
-	visitLink string
 	// tailLink  = "?ct[]=74&ct[]=10653&ed[]=et_20&uaf[]=base_course&uaf[]=city&rf=filters"
-	tailLink string
-	params   string
 )
 
 func main() {
@@ -127,6 +128,10 @@ func main() {
 			Contact: contact,
 		}
 		datas = append(datas, item)
+		clgName = ""
+		place = ""
+		types = ""
+		contact = ""
 
 	})
 
@@ -140,9 +145,11 @@ func main() {
 		err := c.Visit(visitLink + params)
 		if err != nil {
 			fmt.Println("error in visit :", err.Error())
-			os.Exit(0)
-
+			// os.Exit(0)
 		}
+	}
+	if !flag {
+		WriteAll(datas)
 	}
 }
 
