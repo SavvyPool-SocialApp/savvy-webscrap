@@ -1,8 +1,6 @@
 package main
 
 import (
-	"bufio"
-	"encoding/json"
 	"fmt"
 	"log"
 	"os"
@@ -96,7 +94,7 @@ func main() {
 		count++
 		clgName := h.ChildText("h3[title]")
 		if initial == clgName {
-			WriteAll(datas)
+			writeXLSX(datas)
 			os.Exit(0)
 		}
 		place := h.ChildText("span._5588")
@@ -149,25 +147,20 @@ func main() {
 		}
 	}
 	if !flag {
-		WriteAll(datas)
+		writeXLSX(datas)
 	}
 }
 
-func WriteAll(data []item) {
-	writeJSON(datas)
-	writeXLSX(datas)
-	writeTEXT(datas)
-}
+// func writeJSON(data []item) {
+// 	file, err := json.MarshalIndent(data, "", " ")
+// 	if err != nil {
+// 		log.Println("Unable to create json file")
+// 		return
+// 	}
 
-func writeJSON(data []item) {
-	file, err := json.MarshalIndent(data, "", " ")
-	if err != nil {
-		log.Println("Unable to create json file")
-		return
-	}
+// 	os.WriteFile(fileName+".json", file, 0644)
+// }
 
-	os.WriteFile(fileName+".json", file, 0644)
-}
 func writeXLSX(data []item) {
 	file := xlsx.NewFile()
 	sheet, err := file.AddSheet(sheetName)
@@ -196,24 +189,24 @@ func writeXLSX(data []item) {
 	}
 }
 
-func writeTEXT(data []item) {
-	file, err := os.Create(fileName + ".txt")
-	if err != nil {
-		fmt.Println("Error creating file:", err)
-		return
-	}
-	defer file.Close()
-	writer := bufio.NewWriter(file)
+// func writeTEXT(data []item) {
+// 	file, err := os.Create(fileName + ".txt")
+// 	if err != nil {
+// 		fmt.Println("Error creating file:", err)
+// 		return
+// 	}
+// 	defer file.Close()
+// 	writer := bufio.NewWriter(file)
 
-	for _, r := range data {
-		writer.WriteString("Name :" + r.Name + "\n")
-		writer.WriteString("District :" + r.Place + "\n")
-		writer.WriteString("Type :" + r.Type + "\n \n")
-	}
+// 	for _, r := range data {
+// 		writer.WriteString("Name :" + r.Name + "\n")
+// 		writer.WriteString("District :" + r.Place + "\n")
+// 		writer.WriteString("Type :" + r.Type + "\n \n")
+// 	}
 
-	err = writer.Flush()
-	if err != nil {
-		fmt.Println("Error flushing writer:", err)
-		return
-	}
-}
+// 	err = writer.Flush()
+// 	if err != nil {
+// 		fmt.Println("Error flushing writer:", err)
+// 		return
+// 	}
+// /}
