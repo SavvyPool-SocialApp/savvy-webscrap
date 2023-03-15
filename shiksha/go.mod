@@ -1,8 +1,11 @@
-module github.com/xxauthorr/savvy_data_scrap
+module github.com/xxauthorr/savvy-webscrap/shiksha
 
 go 1.19
 
-require github.com/gocolly/colly v1.2.0
+require (
+	github.com/gocolly/colly v1.2.0
+	github.com/tealeg/xlsx v1.0.5
+)
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
@@ -15,7 +18,6 @@ require (
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/kennygrant/sanitize v1.2.4 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
-	github.com/tealeg/xlsx v1.0.5 // indirect
 	github.com/temoto/robotstxt v1.1.2 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/text v0.8.0 // indirect
