@@ -41,7 +41,7 @@ func main() {
 	})
 
 	c.OnHTML("tr", func(h *colly.HTMLElement) {
-		var aff, state, district, name, principal, phone, email, website string
+		var aff, state, district, school, principal, phone, email, website string
 		h.ForEach("td", func(i int, c1 *colly.HTMLElement) {
 			switch i {
 			case 1:
@@ -67,9 +67,9 @@ func main() {
 				schoolName := strings.TrimSpace(name[namePrefixPos+len("Name :") : headPrefixPos])
 				principalName := strings.TrimSpace(name[headPrefixPos+len("Head/Principal Name:"):])
 
-				name = schoolName
+				school = schoolName
 				principal = principalName
-				fmt.Println("School Name:", name, "\nPrincipal Name:", principal)
+				fmt.Println("School Name:", school, "\nPrincipal Name:", principal)
 				fmt.Println()
 				fmt.Println()
 			case 5:
@@ -91,11 +91,16 @@ func main() {
 				fmt.Print()
 			}
 		})
+		// if name == "" {
+		// 	fmt.Println("no name")
+		// 	os.Exit(0)
+		// }
 		data := details{
 			Aff:      aff,
-			Name:     name,
+			Name:     school,
 			District: district,
 			State:    state,
+			Principal: principal,
 			Phone:    phone,
 			Email:    email,
 			Website:  website,
@@ -119,6 +124,7 @@ func writeXLSX(data []details) {
 	row.AddCell().SetValue("Affiliation No")
 	row.AddCell().SetValue("Name")
 	row.AddCell().SetValue("District")
+	row.AddCell().SetValue("Principal")
 	row.AddCell().SetValue("State")
 	row.AddCell().SetValue("Phone")
 	row.AddCell().SetValue("Email")
@@ -129,6 +135,7 @@ func writeXLSX(data []details) {
 		row.AddCell().SetValue(r.Aff)
 		row.AddCell().SetValue(r.Name)
 		row.AddCell().SetValue(r.District)
+		row.AddCell().SetValue(r.Principal)
 		row.AddCell().SetValue(r.State)
 		row.AddCell().SetValue(r.Phone)
 		row.AddCell().SetValue(r.Email)
