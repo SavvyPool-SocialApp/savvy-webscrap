@@ -9,6 +9,8 @@ import (
 	"github.com/tealeg/xlsx"
 )
 
+var region = []string{"G", "A", "C", "D", "R", "P", "B", "T", "U", "K", "L", "N", "E", "H", "W"}
+
 var filename, sheetname string
 
 type details struct {
@@ -30,10 +32,6 @@ func main() {
 	url := "https://saras.cbse.gov.in/saras/AffiliatedList/ListOfSchdirReport"
 
 	// Define the form data to be sent
-	formData := map[string]string{
-		"MainRadioValue": "Region_wise",
-		"region":         "Trivendram",
-	}
 
 	// Attach a callback function to the OnResponse event
 	c.OnResponse(func(r *colly.Response) {
@@ -96,20 +94,26 @@ func main() {
 		// 	os.Exit(0)
 		// }
 		data := details{
-			Aff:      aff,
-			Name:     school,
-			District: district,
-			State:    state,
+			Aff:       aff,
+			Name:      school,
+			District:  district,
+			State:     state,
 			Principal: principal,
-			Phone:    phone,
-			Email:    email,
-			Website:  website,
+			Phone:     phone,
+			Email:     email,
+			Website:   website,
 		}
 		Data = append(Data, data)
 	})
 
 	// Send the form value request using the Post method
-	c.Post(url, formData)
+	for i := range region {
+		formData := map[string]string{
+			"MainRadioValue": "Region_wise",
+			"Region":         region[i],
+		}
+		c.Post(url, formData)
+	}
 	writeXLSX(Data)
 }
 
