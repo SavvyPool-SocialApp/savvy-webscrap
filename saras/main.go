@@ -9,7 +9,7 @@ import (
 	"github.com/tealeg/xlsx"
 )
 
-var region = []string{"G", "A", "C", "D", "R", "P", "B", "T", "U", "K", "L", "N", "E", "H", "W"}
+var region = []string{"M", "G", "A", "C", "D", "R", "P", "B", "T", "U", "K", "L", "N", "E", "H", "W"}
 
 var filename, sheetname string
 
@@ -113,6 +113,18 @@ func main() {
 			"Region":         region[i],
 		}
 		c.Post(url, formData)
+		// leave space after each region
+		data := details{
+			Aff:       "",
+			Name:      "",
+			District:  "",
+			State:     "",
+			Principal: "",
+			Phone:     "",
+			Email:     "",
+			Website:   "",
+		}
+		Data = append(Data, data)
 	}
 	writeXLSX(Data)
 }

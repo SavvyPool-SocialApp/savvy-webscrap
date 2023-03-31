@@ -1,0 +1,8772 @@
+[
+ {
+  "college": "Massachusetts Institute of Technology",
+  "place": "Cambridge",
+  "link": "https://www.mit.edu"
+ },
+ {
+  "college": "Harvard University",
+  "place": "Cambridge",
+  "link": "https://www.harvard.edu"
+ },
+ {
+  "college": "Stanford University",
+  "place": "Stanford ...",
+  "link": "https://www.stanford.edu"
+ },
+ {
+  "college": "Cornell University",
+  "place": "Ithaca",
+  "link": "https://www.cornell.edu"
+ },
+ {
+  "college": "University of California, Berkeley",
+  "place": "Berkeley ...",
+  "link": "https://www.berkeley.edu"
+ },
+ {
+  "college": "University of Michigan",
+  "place": "Ann Arbor ...",
+  "link": "https://umich.edu"
+ },
+ {
+  "college": "University of Washington",
+  "place": "Seattle ...",
+  "link": "http://www.washington.edu"
+ },
+ {
+  "college": "Columbia University in the City of New York",
+  "place": "New York City",
+  "link": "https://www.columbia.edu"
+ },
+ {
+  "college": "University of Pennsylvania",
+  "place": "Philadelphia",
+  "link": "https://www.upenn.edu"
+ },
+ {
+  "college": "Yale University",
+  "place": "New Haven",
+  "link": "https://www.yale.edu"
+ },
+ {
+  "college": "University of Minnesota-Twin Cities",
+  "place": "Minneapolis ...",
+  "link": "https://www.umn.edu"
+ },
+ {
+  "college": "The University of Texas at Austin",
+  "place": "Austin",
+  "link": "https://www.utexas.edu"
+ },
+ {
+  "college": "University of California, Los Angeles",
+  "place": "Los Angeles ...",
+  "link": "https://www.ucla.edu"
+ },
+ {
+  "college": "University of Wisconsin-Madison",
+  "place": "Madison",
+  "link": "https://www.wisc.edu"
+ },
+ {
+  "college": "University of Chicago",
+  "place": "Chicago",
+  "link": "https://www.uchicago.edu"
+ },
+ {
+  "college": "Purdue University",
+  "place": "West Lafayette",
+  "link": "https://www.purdue.edu"
+ },
+ {
+  "college": "Princeton University",
+  "place": "Princeton",
+  "link": "https://www.princeton.edu"
+ },
+ {
+  "college": "Johns Hopkins University",
+  "place": "Baltimore ...",
+  "link": "https://www.jhu.edu"
+ },
+ {
+  "college": "New York University",
+  "place": "New York City ...",
+  "link": "https://www.nyu.edu"
+ },
+ {
+  "college": "University of Southern California",
+  "place": "Los Angeles",
+  "link": "https://www.usc.edu"
+ },
+ {
+  "college": "University of North Carolina at Chapel Hill",
+  "place": "Chapel Hill",
+  "link": "https://www.unc.edu"
+ },
+ {
+  "college": "Michigan State University",
+  "place": "East Lansing",
+  "link": "https://msu.edu"
+ },
+ {
+  "college": "University of California, San Diego",
+  "place": "San Diego ...",
+  "link": "https://www.ucsd.edu"
+ },
+ {
+  "college": "Arizona State University",
+  "place": "Tempe ...",
+  "link": "https://www.asu.edu"
+ },
+ {
+  "college": "Carnegie Mellon University",
+  "place": "Pittsburgh ...",
+  "link": "https://www.cmu.edu"
+ },
+ {
+  "college": "University of Florida",
+  "place": "Gainesville",
+  "link": "https://www.ufl.edu"
+ },
+ {
+  "college": "University of California, Davis",
+  "place": "Davis ...",
+  "link": "https://www.ucdavis.edu"
+ },
+ {
+  "college": "University of Illinois at Urbana-Champaign",
+  "place": "Champaign ...",
+  "link": "https://illinois.edu"
+ },
+ {
+  "college": "Duke University",
+  "place": "Durham",
+  "link": "https://duke.edu"
+ },
+ {
+  "college": "Rutgers, The State University of New Jersey",
+  "place": "New Brunswick ...",
+  "link": "https://www.rutgers.edu"
+ },
+ {
+  "college": "Penn State University",
+  "place": "University Park ...",
+  "link": "https://www.psu.edu"
+ },
+ {
+  "college": "The University of Arizona",
+  "place": "Tucson",
+  "link": "https://www.arizona.edu"
+ },
+ {
+  "college": "University of Virginia",
+  "place": "Charlottesville ...",
+  "link": "https://www.virginia.edu"
+ },
+ {
+  "college": "University of Colorado Boulder",
+  "place": "Boulder",
+  "link": "https://www.colorado.edu"
+ },
+ {
+  "college": "University of Maryland",
+  "place": "College Park",
+  "link": "https://www.umd.edu"
+ },
+ {
+  "college": "Northwestern University",
+  "place": "Evanston ...",
+  "link": "https://www.northwestern.edu"
+ },
+ {
+  "college": "Texas A\u0026M University",
+  "place": "College Station",
+  "link": "https://www.tamu.edu"
+ },
+ {
+  "college": "University of California, Irvine",
+  "place": "Irvine ...",
+  "link": "https://uci.edu"
+ },
+ {
+  "college": "Boston University",
+  "place": "Boston ...",
+  "link": "http://www.bu.edu"
+ },
+ {
+  "college": "The Ohio State University",
+  "place": "Columbus ...",
+  "link": "https://www.osu.edu"
+ },
+ {
+  "college": "North Carolina State University",
+  "place": "Raleigh",
+  "link": "https://www.ncsu.edu"
+ },
+ {
+  "college": "The University of Utah",
+  "place": "Salt Lake City",
+  "link": "https://www.utah.edu"
+ },
+ {
+  "college": "Indiana University Bloomington",
+  "place": "Bloomington",
+  "link": "https://www.indiana.edu"
+ },
+ {
+  "college": "University of Pittsburgh",
+  "place": "Pittsburgh ...",
+  "link": "https://www.pitt.edu"
+ },
+ {
+  "college": "Tufts University",
+  "place": "Medford",
+  "link": "https://www.tufts.edu"
+ },
+ {
+  "college": "Georgetown University",
+  "place": "Washington",
+  "link": "https://www.georgetown.edu"
+ },
+ {
+  "college": "Georgia Institute of Technology",
+  "place": "Atlanta",
+  "link": "https://www.gatech.edu"
+ },
+ {
+  "college": "University of California, Santa Barbara",
+  "place": "Santa Barbara ...",
+  "link": "https://www.ucsb.edu"
+ },
+ {
+  "college": "Washington University in St. Louis",
+  "place": "St. Louis",
+  "link": "https://wustl.edu"
+ },
+ {
+  "college": "Virginia Polytechnic Institute and State University",
+  "place": "Blacksburg",
+  "link": "https://vt.edu"
+ },
+ {
+  "college": "University of Nebraska-Lincoln",
+  "place": "Lincoln",
+  "link": "https://www.unl.edu"
+ },
+ {
+  "college": "University of Georgia",
+  "place": "Athens",
+  "link": "https://www.uga.edu"
+ },
+ {
+  "college": "California Institute of Technology",
+  "place": "Pasadena",
+  "link": "https://www.caltech.edu"
+ },
+ {
+  "college": "University of Rochester",
+  "place": "Rochester",
+  "link": "https://www.rochester.edu"
+ },
+ {
+  "college": "Brown University",
+  "place": "Providence",
+  "link": "https://www.brown.edu"
+ },
+ {
+  "college": "Brigham Young University",
+  "place": "Provo",
+  "link": "https://www.byu.edu"
+ },
+ {
+  "college": "Oregon State University",
+  "place": "Corvallis ...",
+  "link": "https://oregonstate.edu"
+ },
+ {
+  "college": "Iowa State University",
+  "place": "Ames",
+  "link": "https://www.iastate.edu"
+ },
+ {
+  "college": "University of Iowa",
+  "place": "Iowa City ...",
+  "link": "https://uiowa.edu"
+ },
+ {
+  "college": "University of Massachusetts Amherst",
+  "place": "Amherst",
+  "link": "https://www.umass.edu"
+ },
+ {
+  "college": "University of South Florida",
+  "place": "Tampa ...",
+  "link": "https://www.usf.edu"
+ },
+ {
+  "college": "Vanderbilt University",
+  "place": "Nashville",
+  "link": "https://www.vanderbilt.edu"
+ },
+ {
+  "college": "Washington State University",
+  "place": "Pullman",
+  "link": "https://wsu.edu"
+ },
+ {
+  "college": "George Mason University",
+  "place": "Fairfax",
+  "link": "https://www.gmu.edu"
+ },
+ {
+  "college": "George Washington University",
+  "place": "Washington ...",
+  "link": "https://www.gwu.edu"
+ },
+ {
+  "college": "Colorado State University",
+  "place": "Fort Collins",
+  "link": "https://www.colostate.edu"
+ },
+ {
+  "college": "Syracuse University",
+  "place": "Syracuse",
+  "link": "https://www.syracuse.edu"
+ },
+ {
+  "college": "William Marsh Rice University",
+  "place": "Houston",
+  "link": "https://www.rice.edu"
+ },
+ {
+  "college": "Dartmouth College",
+  "place": "Hanover",
+  "link": "https://dartmouth.edu"
+ },
+ {
+  "college": "University at Buffalo, State University of New York",
+  "place": "Buffalo ...",
+  "link": "https://www.buffalo.edu"
+ },
+ {
+  "college": "University of California, San Francisco",
+  "place": "San Francisco ...",
+  "link": "https://www.ucsf.edu"
+ },
+ {
+  "college": "Florida State University",
+  "place": "Tallahassee ...",
+  "link": "https://www.fsu.edu"
+ },
+ {
+  "college": "University of Notre Dame",
+  "place": "Notre Dame",
+  "link": "https://www.nd.edu"
+ },
+ {
+  "college": "University of Oregon",
+  "place": "Eugene ...",
+  "link": "https://www.uoregon.edu"
+ },
+ {
+  "college": "University of California, Santa Cruz",
+  "place": "Santa Cruz ...",
+  "link": "https://www.ucsc.edu"
+ },
+ {
+  "college": "University of Illinois at Chicago",
+  "place": "Chicago ...",
+  "link": "https://www.uic.edu"
+ },
+ {
+  "college": "University of Connecticut",
+  "place": "Storrs ...",
+  "link": "https://uconn.edu"
+ },
+ {
+  "college": "University of Houston",
+  "place": "Houston",
+  "link": "https://uh.edu"
+ },
+ {
+  "college": "Emory University",
+  "place": "Atlanta",
+  "link": "https://www.emory.edu"
+ },
+ {
+  "college": "University of California, Riverside",
+  "place": "Riverside ...",
+  "link": "https://www.ucr.edu"
+ },
+ {
+  "college": "University of Kentucky",
+  "place": "Lexington",
+  "link": "https://www.uky.edu"
+ },
+ {
+  "college": "University of Delaware",
+  "place": "Newark",
+  "link": "https://www.udel.edu"
+ },
+ {
+  "college": "Georgia State University",
+  "place": "Atlanta",
+  "link": "https://www.gsu.edu"
+ },
+ {
+  "college": "University of Missouri",
+  "place": "Columbia",
+  "link": "https://missouri.edu"
+ },
+ {
+  "college": "University of Kansas",
+  "place": "Lawrence ...",
+  "link": "https://www.ku.edu"
+ },
+ {
+  "college": "University of Central Florida",
+  "place": "Orlando ...",
+  "link": "https://www.ucf.edu"
+ },
+ {
+  "college": "Northeastern University",
+  "place": "Boston ...",
+  "link": "https://www.northeastern.edu"
+ },
+ {
+  "college": "University of New Mexico",
+  "place": "Albuquerque ...",
+  "link": "http://www.unm.edu"
+ },
+ {
+  "college": "The University of Tennessee, Knoxville",
+  "place": "Knoxville ...",
+  "link": "https://www.utk.edu"
+ },
+ {
+  "college": "Rochester Institute of Technology",
+  "place": "Rochester",
+  "link": "https://www.rit.edu"
+ },
+ {
+  "college": "Fordham University",
+  "place": "The Bronx ...",
+  "link": "https://www.fordham.edu"
+ },
+ {
+  "college": "University of South Carolina",
+  "place": "Columbia ...",
+  "link": "https://sc.edu"
+ },
+ {
+  "college": "Boston College",
+  "place": "Chestnut Hill",
+  "link": "https://www.bc.edu"
+ },
+ {
+  "college": "Louisiana State University",
+  "place": "Baton Rouge",
+  "link": "https://www.lsu.edu"
+ },
+ {
+  "college": "Temple University",
+  "place": "Philadelphia ...",
+  "link": "https://www.temple.edu"
+ },
+ {
+  "college": "University of Miami",
+  "place": "Coral Gables ...",
+  "link": "https://www.miami.edu"
+ },
+ {
+  "college": "Clemson University",
+  "place": "Clemson",
+  "link": "http://www.clemson.edu"
+ },
+ {
+  "college": "University of North Texas",
+  "place": "Denton ...",
+  "link": "https://www.unt.edu"
+ },
+ {
+  "college": "Drexel University",
+  "place": "Philadelphia",
+  "link": "https://drexel.edu"
+ },
+ {
+  "college": "San Diego State University",
+  "place": "San Diego ...",
+  "link": "https://www.sdsu.edu"
+ },
+ {
+  "college": "University of Vermont",
+  "place": "Burlington",
+  "link": "https://www.uvm.edu"
+ },
+ {
+  "college": "University of New Hampshire",
+  "place": "Durham ...",
+  "link": "https://www.unh.edu"
+ },
+ {
+  "college": "The University of Oklahoma",
+  "place": "Norman ...",
+  "link": "https://www.ou.edu"
+ },
+ {
+  "college": "Florida International University",
+  "place": "Miami",
+  "link": "https://www.fiu.edu"
+ },
+ {
+  "college": "Virginia Commonwealth University",
+  "place": "Richmond",
+  "link": "https://www.vcu.edu"
+ },
+ {
+  "college": "University of Cincinnati",
+  "place": "Cincinnati",
+  "link": "https://www.uc.edu"
+ },
+ {
+  "college": "Case Western Reserve University",
+  "place": "Cleveland",
+  "link": "https://case.edu"
+ },
+ {
+  "college": "The University of Alabama",
+  "place": "Tuscaloosa",
+  "link": "https://www.ua.edu"
+ },
+ {
+  "college": "American University",
+  "place": "Washington",
+  "link": "https://www.american.edu"
+ },
+ {
+  "college": "Utah State University",
+  "place": "Logan ...",
+  "link": "https://www.usu.edu"
+ },
+ {
+  "college": "Rensselaer Polytechnic Institute",
+  "place": "Troy ...",
+  "link": "https://www.rpi.edu"
+ },
+ {
+  "college": "The University of Tennessee at Martin",
+  "place": "Martin ...",
+  "link": "https://www.utm.edu"
+ },
+ {
+  "college": "Baylor University",
+  "place": "Waco",
+  "link": "https://www.baylor.edu"
+ },
+ {
+  "college": "Oklahoma State University",
+  "place": "Stillwater ...",
+  "link": "https://okstate.edu"
+ },
+ {
+  "college": "Auburn University",
+  "place": "Auburn",
+  "link": "https://www.auburn.edu"
+ },
+ {
+  "college": "West Virginia University",
+  "place": "Morgantown ...",
+  "link": "https://www.wvu.edu"
+ },
+ {
+  "college": "Portland State University",
+  "place": "Portland",
+  "link": "https://www.pdx.edu"
+ },
+ {
+  "college": "Tulane University",
+  "place": "New Orleans",
+  "link": "https://tulane.edu"
+ },
+ {
+  "college": "University of Alabama at Birmingham",
+  "place": "Birmingham",
+  "link": "https://www.uab.edu"
+ },
+ {
+  "college": "San José State University",
+  "place": "San José",
+  "link": "https://www.sjsu.edu"
+ },
+ {
+  "college": "University of Arkansas",
+  "place": "Fayetteville",
+  "link": "https://www.uark.edu"
+ },
+ {
+  "college": "Southern Methodist University",
+  "place": "Dallas",
+  "link": "https://www.smu.edu"
+ },
+ {
+  "college": "Stony Brook University",
+  "place": "Stony Brook",
+  "link": "https://www.stonybrook.edu"
+ },
+ {
+  "college": "Wayne State University",
+  "place": "Detroit",
+  "link": "https://wayne.edu"
+ },
+ {
+  "college": "California State University, Northridge",
+  "place": "Northridge",
+  "link": "https://www.csun.edu"
+ },
+ {
+  "college": "University of Maryland, Baltimore County",
+  "place": "Baltimore",
+  "link": "https://umbc.edu"
+ },
+ {
+  "college": "University of Wisconsin-Milwaukee",
+  "place": "Milwaukee",
+  "link": "https://uwm.edu"
+ },
+ {
+  "college": "Brandeis University",
+  "place": "Waltham",
+  "link": "https://www.brandeis.edu"
+ },
+ {
+  "college": "San Francisco State University",
+  "place": "San Francisco",
+  "link": "https://www.sfsu.edu"
+ },
+ {
+  "college": "University at Albany, State University of New York",
+  "place": "Albany",
+  "link": "https://www.albany.edu"
+ },
+ {
+  "college": "Kent State University",
+  "place": "Kent ...",
+  "link": "https://www.kent.edu"
+ },
+ {
+  "college": "Texas Tech University",
+  "place": "Lubbock",
+  "link": "https://www.ttu.edu"
+ },
+ {
+  "college": "The University of Texas at Dallas",
+  "place": "Richardson",
+  "link": "https://www.utdallas.edu"
+ },
+ {
+  "college": "Mississippi State University",
+  "place": "Mississippi State ...",
+  "link": "https://www.msstate.edu"
+ },
+ {
+  "college": "University of Denver",
+  "place": "Denver",
+  "link": "https://www.du.edu"
+ },
+ {
+  "college": "Indiana University - Purdue University Indianapolis",
+  "place": "Indianapolis",
+  "link": "https://www.iupui.edu"
+ },
+ {
+  "college": "Northern Illinois University",
+  "place": "DeKalb",
+  "link": "https://www.niu.edu"
+ },
+ {
+  "college": "College of William \u0026 Mary",
+  "place": "Williamsburg",
+  "link": "https://www.wm.edu"
+ },
+ {
+  "college": "DePaul University",
+  "place": "Chicago",
+  "link": "https://www.depaul.edu"
+ },
+ {
+  "college": "University of North Carolina at Charlotte",
+  "place": "Charlotte",
+  "link": "https://www.charlotte.edu"
+ },
+ {
+  "college": "Michigan Technological University",
+  "place": "Houghton",
+  "link": "https://www.mtu.edu"
+ },
+ {
+  "college": "Northern Arizona University",
+  "place": "Flagstaff ...",
+  "link": "https://nau.edu"
+ },
+ {
+  "college": "Marquette University",
+  "place": "Milwaukee",
+  "link": "https://www.marquette.edu"
+ },
+ {
+  "college": "University of Nevada, Reno",
+  "place": "Reno",
+  "link": "https://www.unr.edu"
+ },
+ {
+  "college": "University of Rhode Island",
+  "place": "Kingston ...",
+  "link": "https://www.uri.edu"
+ },
+ {
+  "college": "Florida Atlantic University",
+  "place": "Boca Raton ...",
+  "link": "https://www.fau.edu"
+ },
+ {
+  "college": "New Mexico State University",
+  "place": "Las Cruces",
+  "link": "https://www.nmsu.edu"
+ },
+ {
+  "college": "Santa Clara University",
+  "place": "Santa Clara",
+  "link": "https://www.scu.edu"
+ },
+ {
+  "college": "Loyola University Chicago",
+  "place": "Chicago",
+  "link": "https://www.luc.edu"
+ },
+ {
+  "college": "Montana State University",
+  "place": "Bozeman",
+  "link": "https://www.montana.edu"
+ },
+ {
+  "college": "University of Idaho",
+  "place": "Moscow",
+  "link": "https://www.uidaho.edu"
+ },
+ {
+  "college": "Kansas State University",
+  "place": "Manhattan ...",
+  "link": "https://www.k-state.edu"
+ },
+ {
+  "college": "Binghamton University, State University of New York",
+  "place": "Vestal",
+  "link": "https://www.binghamton.edu"
+ },
+ {
+  "college": "Liberty University",
+  "place": "Lynchburg",
+  "link": "https://www.liberty.edu"
+ },
+ {
+  "college": "University of Nevada, Las Vegas",
+  "place": "Las Vegas",
+  "link": "https://www.unlv.edu"
+ },
+ {
+  "college": "Quinnipiac University",
+  "place": "Hamden",
+  "link": "https://www.qu.edu"
+ },
+ {
+  "college": "University of Wyoming",
+  "place": "Laramie",
+  "link": "http://www.uwyo.edu"
+ },
+ {
+  "college": "Western Michigan University",
+  "place": "Kalamazoo",
+  "link": "https://wmich.edu"
+ },
+ {
+  "college": "The New School",
+  "place": "New York City",
+  "link": "https://www.newschool.edu"
+ },
+ {
+  "college": "Swarthmore College",
+  "place": "Swarthmore",
+  "link": "https://www.swarthmore.edu"
+ },
+ {
+  "college": "University of Missouri-Kansas City",
+  "place": "Kansas City",
+  "link": "https://www.umkc.edu"
+ },
+ {
+  "college": "The University of Maine",
+  "place": "Orono",
+  "link": "https://umaine.edu"
+ },
+ {
+  "college": "Southern New Hampshire University",
+  "place": "Manchester",
+  "link": "https://www.snhu.edu"
+ },
+ {
+  "college": "California Polytechnic State University, San Luis Obispo",
+  "place": "San Luis Obispo",
+  "link": "https://www.calpoly.edu"
+ },
+ {
+  "college": "Middle Tennessee State University",
+  "place": "Murfreesboro",
+  "link": "https://www.mtsu.edu"
+ },
+ {
+  "college": "The University of Texas MD Anderson Cancer Center",
+  "place": "Houston",
+  "link": "https://www.mdanderson.org"
+ },
+ {
+  "college": "California State University, Long Beach",
+  "place": "Long Beach",
+  "link": "https://www.csulb.edu"
+ },
+ {
+  "college": "United States Military Academy",
+  "place": "West Point",
+  "link": "https://www.westpoint.edu"
+ },
+ {
+  "college": "Illinois Institute of Technology",
+  "place": "Chicago",
+  "link": "https://www.iit.edu"
+ },
+ {
+  "college": "Oregon Health \u0026 Science University",
+  "place": "Portland ...",
+  "link": "https://www.ohsu.edu"
+ },
+ {
+  "college": "California State University, Fullerton",
+  "place": "Fullerton ...",
+  "link": "http://www.fullerton.edu"
+ },
+ {
+  "college": "University of Mississippi",
+  "place": "University",
+  "link": "https://olemiss.edu"
+ },
+ {
+  "college": "Wake Forest University",
+  "place": "Winston-Salem",
+  "link": "https://www.wfu.edu"
+ },
+ {
+  "college": "The University of Texas at Arlington",
+  "place": "Arlington",
+  "link": "https://www.uta.edu"
+ },
+ {
+  "college": "Bowling Green State University",
+  "place": "Bowling Green ...",
+  "link": "https://www.bgsu.edu"
+ },
+ {
+  "college": "Worcester Polytechnic Institute",
+  "place": "Worcester",
+  "link": "https://www.wpi.edu"
+ },
+ {
+  "college": "University of Alaska Fairbanks",
+  "place": "Fairbanks ...",
+  "link": "https://www.uaf.edu"
+ },
+ {
+  "college": "Middlebury College",
+  "place": "Middlebury",
+  "link": "https://www.middlebury.edu"
+ },
+ {
+  "college": "Saint Louis University",
+  "place": "St. Louis ...",
+  "link": "https://www.slu.edu"
+ },
+ {
+  "college": "Lehigh University",
+  "place": "Bethlehem",
+  "link": "https://www1.lehigh.edu"
+ },
+ {
+  "college": "University of Louisville",
+  "place": "Louisville ...",
+  "link": "https://louisville.edu"
+ },
+ {
+  "college": "The University of Montana",
+  "place": "Missoula",
+  "link": "https://www.umt.edu"
+ },
+ {
+  "college": "The University of Texas at San Antonio",
+  "place": "San Antonio",
+  "link": "https://www.utsa.edu"
+ },
+ {
+  "college": "University of Richmond",
+  "place": "Richmond",
+  "link": "https://www.richmond.edu"
+ },
+ {
+  "college": "Nova Southeastern University",
+  "place": "Fort Lauderdale ...",
+  "link": "https://www.nova.edu"
+ },
+ {
+  "college": "James Madison University",
+  "place": "Harrisonburg",
+  "link": "https://www.jmu.edu"
+ },
+ {
+  "college": "Ohio University",
+  "place": "Athens ...",
+  "link": "https://www.ohio.edu"
+ },
+ {
+  "college": "Carleton College",
+  "place": "Northfield",
+  "link": "https://www.carleton.edu"
+ },
+ {
+  "college": "Old Dominion University",
+  "place": "Norfolk",
+  "link": "https://www.odu.edu"
+ },
+ {
+  "college": "Williams College",
+  "place": "Williamstown",
+  "link": "https://www.williams.edu"
+ },
+ {
+  "college": "University of Maryland, Baltimore",
+  "place": "Baltimore",
+  "link": "https://www.umaryland.edu"
+ },
+ {
+  "college": "Southern Illinois University Carbondale",
+  "place": "Carbondale ...",
+  "link": "https://siu.edu"
+ },
+ {
+  "college": "Wesleyan University",
+  "place": "Middletown",
+  "link": "https://www.wesleyan.edu"
+ },
+ {
+  "college": "Boise State University",
+  "place": "Boise",
+  "link": "https://www.boisestate.edu"
+ },
+ {
+  "college": "Western Washington University",
+  "place": "Bellingham",
+  "link": "https://www.wwu.edu"
+ },
+ {
+  "college": "Texas State University",
+  "place": "San Marcos ...",
+  "link": "https://www.txst.edu"
+ },
+ {
+  "college": "California State University, Chico",
+  "place": "Chico",
+  "link": "https://www.csuchico.edu"
+ },
+ {
+  "college": "University of North Carolina at Greensboro",
+  "place": "Greensboro",
+  "link": "https://www.uncg.edu"
+ },
+ {
+  "college": "New Jersey Institute of Technology",
+  "place": "Newark",
+  "link": "https://www.njit.edu"
+ },
+ {
+  "college": "Appalachian State University",
+  "place": "Boone",
+  "link": "https://www.appstate.edu"
+ },
+ {
+  "college": "Baylor College of Medicine",
+  "place": "Houston",
+  "link": "https://www.bcm.edu"
+ },
+ {
+  "college": "University of Massachusetts Boston",
+  "place": "Boston",
+  "link": "https://www.umb.edu"
+ },
+ {
+  "college": "Vassar College",
+  "place": "Poughkeepsie",
+  "link": "https://www.vassar.edu"
+ },
+ {
+  "college": "Smith College",
+  "place": "Northampton",
+  "link": "https://www.smith.edu"
+ },
+ {
+  "college": "University of San Francisco",
+  "place": "San Francisco",
+  "link": "https://www.usfca.edu"
+ },
+ {
+  "college": "Kennesaw State University",
+  "place": "Kennesaw ...",
+  "link": "https://www.kennesaw.edu"
+ },
+ {
+  "college": "University of Dayton",
+  "place": "Dayton",
+  "link": "https://udayton.edu"
+ },
+ {
+  "college": "Bryn Mawr College",
+  "place": "Bryn Mawr",
+  "link": "https://www.brynmawr.edu"
+ },
+ {
+  "college": "The University of Memphis",
+  "place": "Memphis ...",
+  "link": "https://www.memphis.edu"
+ },
+ {
+  "college": "Grand Valley State University",
+  "place": "Allendale ...",
+  "link": "https://www.gvsu.edu"
+ },
+ {
+  "college": "Howard University",
+  "place": "Washington",
+  "link": "https://howard.edu"
+ },
+ {
+  "college": "Calvin University",
+  "place": "Grand Rapids",
+  "link": "https://calvin.edu"
+ },
+ {
+  "college": "Pace University",
+  "place": "New York City ...",
+  "link": "https://www.pace.edu"
+ },
+ {
+  "college": "Marist College",
+  "place": "Poughkeepsie",
+  "link": "https://www.marist.edu"
+ },
+ {
+  "college": "Bard College",
+  "place": "Annandale-on-Hudson",
+  "link": "https://www.bard.edu"
+ },
+ {
+  "college": "Berklee College of Music",
+  "place": "Boston",
+  "link": "https://www.berklee.edu"
+ },
+ {
+  "college": "Pepperdine University",
+  "place": "Malibu ...",
+  "link": "https://www.pepperdine.edu"
+ },
+ {
+  "college": "Villanova University",
+  "place": "Villanova",
+  "link": "https://www1.villanova.edu"
+ },
+ {
+  "college": "Wellesley College",
+  "place": "Wellesley",
+  "link": "https://www.wellesley.edu"
+ },
+ {
+  "college": "Clark University",
+  "place": "Worcester",
+  "link": "https://www.clarku.edu"
+ },
+ {
+  "college": "East Carolina University",
+  "place": "Greenville",
+  "link": "https://www.ecu.edu"
+ },
+ {
+  "college": "Mount Holyoke College",
+  "place": "South Hadley",
+  "link": "https://www.mtholyoke.edu"
+ },
+ {
+  "college": "Miami University",
+  "place": "Oxford ...",
+  "link": "http://miamioh.edu"
+ },
+ {
+  "college": "Amherst College",
+  "place": "Amherst",
+  "link": "https://www.amherst.edu"
+ },
+ {
+  "college": "The Catholic University of America",
+  "place": "Washington",
+  "link": "https://www.catholic.edu"
+ },
+ {
+  "college": "The University of Texas at El Paso",
+  "place": "El Paso",
+  "link": "https://www.utep.edu"
+ },
+ {
+  "college": "University of Colorado Denver",
+  "place": "Denver",
+  "link": "https://www.ucdenver.edu"
+ },
+ {
+  "college": "University of Massachusetts Lowell",
+  "place": "Lowell",
+  "link": "https://www.uml.edu"
+ },
+ {
+  "college": "North Dakota State University",
+  "place": "Fargo",
+  "link": "https://www.ndsu.edu"
+ },
+ {
+  "college": "University of Akron",
+  "place": "Akron ...",
+  "link": "https://www.uakron.edu"
+ },
+ {
+  "college": "Chapman University",
+  "place": "Orange",
+  "link": "https://www.chapman.edu"
+ },
+ {
+  "college": "California State University, Sacramento",
+  "place": "Sacramento",
+  "link": "https://www.csus.edu"
+ },
+ {
+  "college": "Bucknell University",
+  "place": "Lewisburg",
+  "link": "https://www.bucknell.edu"
+ },
+ {
+  "college": "Illinois State University",
+  "place": "Normal",
+  "link": "https://illinoisstate.edu"
+ },
+ {
+  "college": "University of San Diego",
+  "place": "San Diego",
+  "link": "https://www.sandiego.edu"
+ },
+ {
+  "college": "University of Toledo",
+  "place": "Toledo",
+  "link": "https://www.utoledo.edu"
+ },
+ {
+  "college": "Creighton University",
+  "place": "Omaha",
+  "link": "https://www.creighton.edu"
+ },
+ {
+  "college": "California State Polytechnic University, Pomona",
+  "place": "Pomona",
+  "link": "https://www.cpp.edu"
+ },
+ {
+  "college": "University of North Dakota",
+  "place": "Grand Forks",
+  "link": "https://und.edu"
+ },
+ {
+  "college": "Thomas Jefferson University",
+  "place": "Philadelphia",
+  "link": "https://www.jefferson.edu"
+ },
+ {
+  "college": "Ball State University",
+  "place": "Muncie",
+  "link": "https://www.bsu.edu"
+ },
+ {
+  "college": "Central Michigan University",
+  "place": "Mount Pleasant",
+  "link": "https://www.cmich.edu"
+ },
+ {
+  "college": "Western Kentucky University",
+  "place": "Bowling Green",
+  "link": "https://www.wku.edu"
+ },
+ {
+  "college": "University of Southern Mississippi",
+  "place": "Hattiesburg",
+  "link": "https://www.usm.edu"
+ },
+ {
+  "college": "Montclair State University",
+  "place": "Montclair",
+  "link": "https://www.montclair.edu"
+ },
+ {
+  "college": "Seton Hall University",
+  "place": "South Orange",
+  "link": "https://www.shu.edu"
+ },
+ {
+  "college": "Hofstra University",
+  "place": "Hempstead",
+  "link": "https://www.hofstra.edu"
+ },
+ {
+  "college": "Yeshiva University",
+  "place": "New York City",
+  "link": "https://www.yu.edu"
+ },
+ {
+  "college": "Loyola Marymount University",
+  "place": "Los Angeles",
+  "link": "https://www.lmu.edu"
+ },
+ {
+  "college": "Wright State University",
+  "place": "Dayton ...",
+  "link": "http://www.wright.edu"
+ },
+ {
+  "college": "University of Northern Iowa",
+  "place": "Cedar Falls",
+  "link": "https://uni.edu"
+ },
+ {
+  "college": "Medical University of South Carolina",
+  "place": "Charleston",
+  "link": "https://web.musc.edu"
+ },
+ {
+  "college": "Embry-Riddle Aeronautical University",
+  "place": "Daytona Beach ...",
+  "link": "https://erau.edu"
+ },
+ {
+  "college": "Humboldt State University",
+  "place": "Arcata",
+  "link": "https://www.humboldt.edu"
+ },
+ {
+  "college": "Wichita State University",
+  "place": "Wichita",
+  "link": "https://www.wichita.edu"
+ },
+ {
+  "college": "Oberlin College",
+  "place": "Oberlin",
+  "link": "https://www.oberlin.edu"
+ },
+ {
+  "college": "University of Massachusetts Medical School",
+  "place": "Worcester",
+  "link": "https://www.umassmed.edu"
+ },
+ {
+  "college": "University of Nebraska at Omaha",
+  "place": "Omaha",
+  "link": "https://www.unomaha.edu"
+ },
+ {
+  "college": "Colby College",
+  "place": "Waterville",
+  "link": "https://www.colby.edu"
+ },
+ {
+  "college": "Missouri State University",
+  "place": "Springfield ...",
+  "link": "https://www.missouristate.edu"
+ },
+ {
+  "college": "University of Texas Southwestern Medical Center",
+  "place": "Dallas",
+  "link": "https://www.utsouthwestern.edu"
+ },
+ {
+  "college": "Grand Canyon University",
+  "place": "Phoenix",
+  "link": "https://www.gcu.edu"
+ },
+ {
+  "college": "Ithaca College",
+  "place": "Ithaca",
+  "link": "https://www.ithaca.edu"
+ },
+ {
+  "college": "California State University, Fresno",
+  "place": "Fresno",
+  "link": "http://www.fresnostate.edu"
+ },
+ {
+  "college": "University of Missouri-St. Louis",
+  "place": "St. Louis",
+  "link": "http://www.umsl.edu"
+ },
+ {
+  "college": "Sonoma State University",
+  "place": "Rohnert Park",
+  "link": "http://www.sonoma.edu"
+ },
+ {
+  "college": "Bowdoin College",
+  "place": "Brunswick",
+  "link": "https://www.bowdoin.edu"
+ },
+ {
+  "college": "Oakland University",
+  "place": "Rochester",
+  "link": "https://www.oakland.edu"
+ },
+ {
+  "college": "California State University, San Bernardino",
+  "place": "San Bernardino ...",
+  "link": "https://www.csusb.edu"
+ },
+ {
+  "college": "Idaho State University",
+  "place": "Pocatello ...",
+  "link": "https://www.isu.edu"
+ },
+ {
+  "college": "Cleveland State University",
+  "place": "Cleveland",
+  "link": "https://www.csuohio.edu"
+ },
+ {
+  "college": "College of Charleston",
+  "place": "Charleston",
+  "link": "https://cofc.edu"
+ },
+ {
+  "college": "Texas Christian University",
+  "place": "Fort Worth",
+  "link": "https://www.tcu.edu"
+ },
+ {
+  "college": "Monmouth University",
+  "place": "West Long Branch",
+  "link": "https://www.monmouth.edu"
+ },
+ {
+  "college": "Towson University",
+  "place": "Towson",
+  "link": "https://www.towson.edu"
+ },
+ {
+  "college": "Kenyon College",
+  "place": "Gambier",
+  "link": "https://www.kenyon.edu"
+ },
+ {
+  "college": "The Rockefeller University",
+  "place": "New York City",
+  "link": "https://www.rockefeller.edu"
+ },
+ {
+  "college": "Elon University",
+  "place": "Elon",
+  "link": "https://www.elon.edu"
+ },
+ {
+  "college": "Ferris State University",
+  "place": "Big Rapids",
+  "link": "https://www.ferris.edu"
+ },
+ {
+  "college": "Duquesne University",
+  "place": "Pittsburgh",
+  "link": "https://www.duq.edu"
+ },
+ {
+  "college": "Marshall University",
+  "place": "Huntington",
+  "link": "https://www.marshall.edu"
+ },
+ {
+  "college": "Dickinson College",
+  "place": "Carlisle",
+  "link": "https://www.dickinson.edu"
+ },
+ {
+  "college": "East Tennessee State University",
+  "place": "Johnson City ...",
+  "link": "https://www.etsu.edu"
+ },
+ {
+  "college": "Florida Institute of Technology",
+  "place": "Melbourne",
+  "link": "https://www.fit.edu"
+ },
+ {
+  "college": "Southern Illinois University Edwardsville",
+  "place": "Edwardsville ...",
+  "link": "https://www.siue.edu"
+ },
+ {
+  "college": "University of North Florida",
+  "place": "Jacksonville",
+  "link": "https://www.unf.edu"
+ },
+ {
+  "college": "Georgia Southern University",
+  "place": "Statesboro ...",
+  "link": "https://www.georgiasouthern.edu"
+ },
+ {
+  "college": "Washington and Lee University",
+  "place": "Lexington",
+  "link": "https://www.wlu.edu"
+ },
+ {
+  "college": "The University of Texas Health Science Center at San Antonio",
+  "place": "San Antonio",
+  "link": "https://uthscsa.edu"
+ },
+ {
+  "college": "Harvey Mudd College",
+  "place": "Claremont ...",
+  "link": "https://www.hmc.edu"
+ },
+ {
+  "college": "Sam Houston State University",
+  "place": "Huntsville",
+  "link": "https://www.shsu.edu"
+ },
+ {
+  "college": "Babson College",
+  "place": "Babson Park",
+  "link": "https://www.babson.edu"
+ },
+ {
+  "college": "University of North Carolina Wilmington",
+  "place": "Wilmington",
+  "link": "https://uncw.edu"
+ },
+ {
+  "college": "Suffolk University",
+  "place": "Boston ...",
+  "link": "https://www.suffolk.edu"
+ },
+ {
+  "college": "Rowan University",
+  "place": "Glassboro ...",
+  "link": "https://www.rowan.edu"
+ },
+ {
+  "college": "Missouri University of Science and Technology",
+  "place": "Rolla",
+  "link": "https://www.mst.edu"
+ },
+ {
+  "college": "University of California, Merced",
+  "place": "Merced ...",
+  "link": "https://www.ucmerced.edu"
+ },
+ {
+  "college": "University of St. Thomas",
+  "place": "Saint Paul ...",
+  "link": "https://www.stthomas.edu"
+ },
+ {
+  "college": "The University of Texas Medical Branch at Galveston",
+  "place": "Galveston",
+  "link": "https://www.utmb.edu"
+ },
+ {
+  "college": "Reed College",
+  "place": "Portland",
+  "link": "https://www.reed.edu"
+ },
+ {
+  "college": "Lewis \u0026 Clark College",
+  "place": "Portland",
+  "link": "https://www.lclark.edu"
+ },
+ {
+  "college": "Colorado School of Mines",
+  "place": "Golden",
+  "link": "https://www.mines.edu"
+ },
+ {
+  "college": "Eastern Kentucky University",
+  "place": "Richmond",
+  "link": "https://www.eku.edu"
+ },
+ {
+  "college": "Seattle University",
+  "place": "Seattle",
+  "link": "https://www.seattleu.edu"
+ },
+ {
+  "college": "The University of Texas Health Science Center at Houston",
+  "place": "Houston",
+  "link": "https://www.uth.edu"
+ },
+ {
+  "college": "Pomona College",
+  "place": "Claremont",
+  "link": "https://www.pomona.edu"
+ },
+ {
+  "college": "Davidson College",
+  "place": "Davidson",
+  "link": "https://www.davidson.edu"
+ },
+ {
+  "college": "The University of Alabama in Huntsville",
+  "place": "Huntsville",
+  "link": "https://www.uah.edu"
+ },
+ {
+  "college": "Earlham College",
+  "place": "Richmond",
+  "link": "https://earlham.edu"
+ },
+ {
+  "college": "Savannah College of Art and Design",
+  "place": "Savannah ...",
+  "link": "https://www.scad.edu"
+ },
+ {
+  "college": "Barnard College",
+  "place": "New York City",
+  "link": "https://barnard.edu"
+ },
+ {
+  "college": "University of Wisconsin-Stevens Point",
+  "place": "Stevens Point",
+  "link": "https://www.uwsp.edu"
+ },
+ {
+  "college": "Willamette University",
+  "place": "Salem",
+  "link": "https://willamette.edu"
+ },
+ {
+  "college": "University of Wisconsin-Eau Claire",
+  "place": "Eau Claire",
+  "link": "https://www.uwec.edu"
+ },
+ {
+  "college": "Trinity College",
+  "place": "Hartford",
+  "link": "https://www.trincoll.edu"
+ },
+ {
+  "college": "Indiana State University",
+  "place": "Terre Haute",
+  "link": "https://www.indstate.edu"
+ },
+ {
+  "college": "University of South Dakota",
+  "place": "Vermillion",
+  "link": "https://www.usd.edu"
+ },
+ {
+  "college": "University of Massachusetts Dartmouth",
+  "place": "North Dartmouth",
+  "link": "https://www.umassd.edu"
+ },
+ {
+  "college": "St. John's University",
+  "place": "Queens ...",
+  "link": "https://www.stjohns.edu"
+ },
+ {
+  "college": "Medical College of Wisconsin",
+  "place": "Milwaukee",
+  "link": "https://www.mcw.edu"
+ },
+ {
+  "college": "Rasmussen College",
+  "place": "St. Cloud ...",
+  "link": "https://www.rasmussen.edu"
+ },
+ {
+  "college": "Biola University",
+  "place": "La Mirada",
+  "link": "https://www.biola.edu"
+ },
+ {
+  "college": "Lamar University",
+  "place": "Beaumont",
+  "link": "https://www.lamar.edu"
+ },
+ {
+  "college": "University of Colorado Colorado Springs",
+  "place": "Colorado Springs",
+  "link": "https://www.uccs.edu"
+ },
+ {
+  "college": "Minnesota State University, Mankato",
+  "place": "Mankato ...",
+  "link": "https://www.mnsu.edu"
+ },
+ {
+  "college": "University of Baltimore",
+  "place": "Baltimore",
+  "link": "http://www.ubalt.edu"
+ },
+ {
+  "college": "Hanover College",
+  "place": "Hanover",
+  "link": "https://www.hanover.edu"
+ },
+ {
+  "college": "Wheaton College",
+  "place": "Wheaton",
+  "link": "https://www.wheaton.edu"
+ },
+ {
+  "college": "United States Naval Academy",
+  "place": "Annapolis",
+  "link": "https://www.usna.edu"
+ },
+ {
+  "college": "Colgate University",
+  "place": "Hamilton",
+  "link": "https://www.colgate.edu"
+ },
+ {
+  "college": "Eastern Michigan University",
+  "place": "Ypsilanti ...",
+  "link": "https://www.emich.edu"
+ },
+ {
+  "college": "Maryville University",
+  "place": "St. Louis",
+  "link": "https://www.maryville.edu"
+ },
+ {
+  "college": "Furman University",
+  "place": "Greenville",
+  "link": "https://www.furman.edu"
+ },
+ {
+  "college": "The Evergreen State College",
+  "place": "Olympia",
+  "link": "https://www.evergreen.edu"
+ },
+ {
+  "college": "New Mexico Institute of Mining and Technology",
+  "place": "Socorro",
+  "link": "http://www.nmt.edu"
+ },
+ {
+  "college": "Fashion Institute of Technology",
+  "place": "New York City",
+  "link": "https://www.fitnyc.edu"
+ },
+ {
+  "college": "Central Washington University",
+  "place": "Ellensburg ...",
+  "link": "http://www.cwu.edu"
+ },
+ {
+  "college": "Simmons University",
+  "place": "Boston",
+  "link": "https://www.simmons.edu"
+ },
+ {
+  "college": "Gallaudet University",
+  "place": "Washington",
+  "link": "https://www.gallaudet.edu"
+ },
+ {
+  "college": "Stevens Institute of Technology",
+  "place": "Hoboken",
+  "link": "https://www.stevens.edu"
+ },
+ {
+  "college": "California State University, Los Angeles",
+  "place": "Los Angeles",
+  "link": "https://www.calstatela.edu"
+ },
+ {
+  "college": "Hamilton College",
+  "place": "Clinton",
+  "link": "https://www.hamilton.edu"
+ },
+ {
+  "college": "The University of Tulsa",
+  "place": "Tulsa",
+  "link": "https://utulsa.edu"
+ },
+ {
+  "college": "University of Texas Rio Grande Valley",
+  "place": "Edinburg ...",
+  "link": "https://www.utrgv.edu"
+ },
+ {
+  "college": "Augusta University",
+  "place": "Augusta",
+  "link": "https://www.augusta.edu"
+ },
+ {
+  "college": "Radford University",
+  "place": "Radford",
+  "link": "https://www.radford.edu"
+ },
+ {
+  "college": "Rhode Island School of Design",
+  "place": "Providence",
+  "link": "https://www.risd.edu"
+ },
+ {
+  "college": "University of Nebraska Medical Center",
+  "place": "Omaha",
+  "link": "https://www.unmc.edu"
+ },
+ {
+  "college": "Weber State University",
+  "place": "Ogden ...",
+  "link": "https://www.weber.edu"
+ },
+ {
+  "college": "Grinnell College",
+  "place": "Grinnell",
+  "link": "https://www.grinnell.edu"
+ },
+ {
+  "college": "South Dakota State University",
+  "place": "Brookings",
+  "link": "https://www.sdstate.edu"
+ },
+ {
+  "college": "Brigham Young University-Idaho",
+  "place": "Rexburg",
+  "link": "https://www.byui.edu"
+ },
+ {
+  "college": "Stetson University",
+  "place": "DeLand",
+  "link": "https://www.stetson.edu"
+ },
+ {
+  "college": "College of the Holy Cross",
+  "place": "Worcester",
+  "link": "https://www.holycross.edu"
+ },
+ {
+  "college": "Haverford College",
+  "place": "Haverford",
+  "link": "https://www.haverford.edu"
+ },
+ {
+  "college": "Gonzaga University",
+  "place": "Spokane",
+  "link": "https://www.gonzaga.edu"
+ },
+ {
+  "college": "Webster University",
+  "place": "St. Louis",
+  "link": "https://webster.edu"
+ },
+ {
+  "college": "Hillsdale College",
+  "place": "Hillsdale",
+  "link": "https://www.hillsdale.edu"
+ },
+ {
+  "college": "Macalester College",
+  "place": "Saint Paul",
+  "link": "https://www.macalester.edu"
+ },
+ {
+  "college": "California State University, Dominguez Hills",
+  "place": "Carson ...",
+  "link": "https://www.csudh.edu"
+ },
+ {
+  "college": "Gettysburg College",
+  "place": "Gettysburg",
+  "link": "https://www.gettysburg.edu"
+ },
+ {
+  "college": "State University of New York at Oswego",
+  "place": "Oswego",
+  "link": "https://www.oswego.edu"
+ },
+ {
+  "college": "University of the Pacific",
+  "place": "Stockton ...",
+  "link": "https://www.pacific.edu"
+ },
+ {
+  "college": "University of Wisconsin-Green Bay",
+  "place": "Green Bay",
+  "link": "https://www.uwgb.edu"
+ },
+ {
+  "college": "Northern Michigan University",
+  "place": "Marquette",
+  "link": "https://nmu.edu"
+ },
+ {
+  "college": "University of Arkansas at Little Rock",
+  "place": "Little Rock",
+  "link": "https://ualr.edu"
+ },
+ {
+  "college": "Saint Joseph's University",
+  "place": "Philadelphia",
+  "link": "https://www.sju.edu"
+ },
+ {
+  "college": "Central Connecticut State University",
+  "place": "New Britain",
+  "link": "https://www.ccsu.edu"
+ },
+ {
+  "college": "Trinity University",
+  "place": "San Antonio",
+  "link": "https://www.trinity.edu"
+ },
+ {
+  "college": "College of Saint Benedict/Saint John's University",
+  "place": "St. Joseph ...",
+  "link": "https://www.csbsju.edu"
+ },
+ {
+  "college": "California State University San Marcos",
+  "place": "San Marcos ...",
+  "link": "https://www.csusm.edu"
+ },
+ {
+  "college": "Eastern Illinois University",
+  "place": "Charleston",
+  "link": "https://www.eiu.edu"
+ },
+ {
+  "college": "Skidmore College",
+  "place": "Saratoga Springs",
+  "link": "https://www.skidmore.edu"
+ },
+ {
+  "college": "Long Island University",
+  "place": "Brooklyn ...",
+  "link": "https://www.liu.edu"
+ },
+ {
+  "college": "St. Olaf College",
+  "place": "Northfield",
+  "link": "https://www.stolaf.edu"
+ },
+ {
+  "college": "Bates College",
+  "place": "Lewiston",
+  "link": "https://www.bates.edu"
+ },
+ {
+  "college": "Emerson College",
+  "place": "Boston",
+  "link": "https://emerson.edu"
+ },
+ {
+  "college": "University of Evansville",
+  "place": "Evansville",
+  "link": "https://www.evansville.edu"
+ },
+ {
+  "college": "Bentley University",
+  "place": "Waltham",
+  "link": "https://www.bentley.edu"
+ },
+ {
+  "college": "Indiana University of Pennsylvania",
+  "place": "Indiana",
+  "link": "https://www.iup.edu"
+ },
+ {
+  "college": "Lock Haven University",
+  "place": "Lock Haven ...",
+  "link": "https://www.lockhaven.edu"
+ },
+ {
+  "college": "Colorado College",
+  "place": "Colorado Springs ...",
+  "link": "https://www.coloradocollege.edu"
+ },
+ {
+  "college": "Clarkson University",
+  "place": "Potsdam ...",
+  "link": "https://www.clarkson.edu"
+ },
+ {
+  "college": "University of Louisiana at Lafayette",
+  "place": "Lafayette",
+  "link": "https://www.louisiana.edu"
+ },
+ {
+  "college": "Fairleigh Dickinson University",
+  "place": "Teaneck ...",
+  "link": "https://www.fdu.edu"
+ },
+ {
+  "college": "SUNY College of Environmental Science and Forestry",
+  "place": "Syracuse",
+  "link": "https://www.esf.edu"
+ },
+ {
+  "college": "Western Carolina University",
+  "place": "Cullowhee ...",
+  "link": "https://www.wcu.edu"
+ },
+ {
+  "college": "California State University, Stanislaus",
+  "place": "Turlock ...",
+  "link": "https://www.csustan.edu"
+ },
+ {
+  "college": "Union College",
+  "place": "Schenectady",
+  "link": "https://www.union.edu"
+ },
+ {
+  "college": "University of Wisconsin-La Crosse",
+  "place": "La Crosse",
+  "link": "https://www.uwlax.edu"
+ },
+ {
+  "college": "Shippensburg University of Pennsylvania",
+  "place": "Shippensburg",
+  "link": "https://www.ship.edu"
+ },
+ {
+  "college": "Bradley University",
+  "place": "Peoria",
+  "link": "https://www.bradley.edu"
+ },
+ {
+  "college": "Rider University",
+  "place": "Lawrenceville ...",
+  "link": "https://www.rider.edu"
+ },
+ {
+  "college": "The College of New Jersey",
+  "place": "Ewing",
+  "link": "https://tcnj.edu"
+ },
+ {
+  "college": "Western Illinois University",
+  "place": "Macomb ...",
+  "link": "http://www.wiu.edu"
+ },
+ {
+  "college": "West Chester University of Pennsylvania",
+  "place": "West Chester",
+  "link": "https://www.wcupa.edu"
+ },
+ {
+  "college": "North Carolina Agricultural and Technical State University",
+  "place": "Greensboro",
+  "link": "https://www.ncat.edu"
+ },
+ {
+  "college": "Connecticut College",
+  "place": "New London",
+  "link": "https://www.conncoll.edu"
+ },
+ {
+  "college": "Loyola University New Orleans",
+  "place": "New Orleans",
+  "link": "https://www.loyno.edu"
+ },
+ {
+  "college": "DePauw University",
+  "place": "Greencastle",
+  "link": "https://www.depauw.edu"
+ },
+ {
+  "college": "Azusa Pacific University",
+  "place": "Azusa",
+  "link": "https://www.apu.edu"
+ },
+ {
+  "college": "School of Visual Arts",
+  "place": "New York City",
+  "link": "https://sva.edu"
+ },
+ {
+  "college": "Occidental College",
+  "place": "Los Angeles",
+  "link": "https://www.oxy.edu"
+ },
+ {
+  "college": "Florida Gulf Coast University",
+  "place": "Fort Myers",
+  "link": "https://www.fgcu.edu"
+ },
+ {
+  "college": "Johnson and Wales University",
+  "place": "Providence ...",
+  "link": "https://www.jwu.edu"
+ },
+ {
+  "college": "University of Northern Colorado",
+  "place": "Greeley",
+  "link": "https://www.unco.edu"
+ },
+ {
+  "college": "Arkansas State University",
+  "place": "Jonesboro",
+  "link": "https://www.astate.edu"
+ },
+ {
+  "college": "Loyola University Maryland",
+  "place": "Baltimore",
+  "link": "https://www.loyola.edu"
+ },
+ {
+  "college": "Stephen F. Austin State University",
+  "place": "Nacogdoches",
+  "link": "https://www.sfasu.edu"
+ },
+ {
+  "college": "Northern Kentucky University",
+  "place": "Highland Heights ...",
+  "link": "https://www.nku.edu"
+ },
+ {
+  "college": "Sweet Briar College",
+  "place": "Sweet Briar",
+  "link": "https://sbc.edu"
+ },
+ {
+  "college": "Valparaiso University",
+  "place": "Valparaíso",
+  "link": "https://www.valpo.edu"
+ },
+ {
+  "college": "University of Hawaii at Manoa",
+  "place": "Honolulu",
+  "link": "https://manoa.hawaii.edu"
+ },
+ {
+  "college": "Pratt Institute",
+  "place": "Brooklyn",
+  "link": "https://www.pratt.edu"
+ },
+ {
+  "college": "University of Michigan-Dearborn",
+  "place": "Dearborn",
+  "link": "https://umdearborn.edu"
+ },
+ {
+  "college": "Drake University",
+  "place": "Des Moines",
+  "link": "https://www.drake.edu"
+ },
+ {
+  "college": "Xavier University",
+  "place": "Cincinnati",
+  "link": "https://www.xavier.edu"
+ },
+ {
+  "college": "University of West Florida",
+  "place": "Pensacola ...",
+  "link": "https://uwf.edu"
+ },
+ {
+  "college": "The Culinary Institute of America",
+  "place": "Hyde Park ...",
+  "link": "https://www.ciachef.edu"
+ },
+ {
+  "college": "Columbia College Chicago",
+  "place": "Chicago",
+  "link": "https://www.colum.edu"
+ },
+ {
+  "college": "The University of Tennessee at Chattanooga",
+  "place": "Chattanooga",
+  "link": "https://www.utc.edu"
+ },
+ {
+  "college": "SUNY Geneseo",
+  "place": "Geneseo",
+  "link": "https://www.geneseo.edu"
+ },
+ {
+  "college": "Butler University",
+  "place": "Indianapolis",
+  "link": "https://www.butler.edu"
+ },
+ {
+  "college": "University of California, Hastings College of the Law",
+  "place": "San Francisco",
+  "link": "https://www.uchastings.edu"
+ },
+ {
+  "college": "University of New Orleans",
+  "place": "New Orleans",
+  "link": "https://www.uno.edu"
+ },
+ {
+  "college": "Hope College",
+  "place": "Holland",
+  "link": "https://hope.edu"
+ },
+ {
+  "college": "University of Illinois at Springfield",
+  "place": "Springfield ...",
+  "link": "https://www.uis.edu"
+ },
+ {
+  "college": "University of Wisconsin-Oshkosh",
+  "place": "Oshkosh",
+  "link": "https://uwosh.edu"
+ },
+ {
+  "college": "Strayer University",
+  "place": "Washington ...",
+  "link": "https://www.strayer.edu"
+ },
+ {
+  "college": "Lafayette College",
+  "place": "Easton",
+  "link": "https://www.lafayette.edu"
+ },
+ {
+  "college": "Tennessee Tech University",
+  "place": "Cookeville",
+  "link": "https://www.tntech.edu"
+ },
+ {
+  "college": "Pitzer College",
+  "place": "Claremont",
+  "link": "https://www.pitzer.edu"
+ },
+ {
+  "college": "Hampshire College",
+  "place": "Amherst",
+  "link": "https://www.hampshire.edu"
+ },
+ {
+  "college": "Hobart and William Smith Colleges",
+  "place": "Geneva",
+  "link": "https://www2.hws.edu"
+ },
+ {
+  "college": "Naval Postgraduate School",
+  "place": "Monterey",
+  "link": "https://www.nps.edu"
+ },
+ {
+  "college": "Miami Dade College",
+  "place": "Miami",
+  "link": "https://www.mdc.edu"
+ },
+ {
+  "college": "St. Cloud State University",
+  "place": "St. Cloud",
+  "link": "https://www.stcloudstate.edu"
+ },
+ {
+  "college": "Franklin and Marshall College",
+  "place": "Lancaster",
+  "link": "https://www.fandm.edu"
+ },
+ {
+  "college": "Pacific University",
+  "place": "Forest Grove",
+  "link": "https://www.pacificu.edu"
+ },
+ {
+  "college": "Utah Valley University",
+  "place": "Orem ...",
+  "link": "https://www.uvu.edu"
+ },
+ {
+  "college": "West Texas A\u0026M University",
+  "place": "Canyon ...",
+  "link": "https://www.wtamu.edu"
+ },
+ {
+  "college": "University of Central Arkansas",
+  "place": "Conway",
+  "link": "https://uca.edu"
+ },
+ {
+  "college": "Siena College",
+  "place": "Loudonville",
+  "link": "https://www.siena.edu"
+ },
+ {
+  "college": "Louisiana Tech University",
+  "place": "Ruston",
+  "link": "https://www.latech.edu"
+ },
+ {
+  "college": "Bridgewater State University",
+  "place": "Bridgewater",
+  "link": "https://www.bridgew.edu"
+ },
+ {
+  "college": "Texas A\u0026M University-Corpus Christi",
+  "place": "Corpus Christi",
+  "link": "https://www.tamucc.edu"
+ },
+ {
+  "college": "State University of New York at New Paltz",
+  "place": "New Paltz",
+  "link": "https://www.newpaltz.edu"
+ },
+ {
+  "college": "SUNY Cortland",
+  "place": "Cortland",
+  "link": "https://www2.cortland.edu"
+ },
+ {
+  "college": "Rose-Hulman Institute of Technology",
+  "place": "Terre Haute",
+  "link": "https://www.rose-hulman.edu"
+ },
+ {
+  "college": "Drew University",
+  "place": "Madison",
+  "link": "https://drew.edu"
+ },
+ {
+  "college": "The Juilliard School",
+  "place": "New York City",
+  "link": "https://www.juilliard.edu"
+ },
+ {
+  "college": "DeVry University",
+  "place": "Chicago ...",
+  "link": "https://www.devry.edu"
+ },
+ {
+  "college": "Widener University",
+  "place": "Chester ...",
+  "link": "https://www.widener.edu"
+ },
+ {
+  "college": "University of Wisconsin-Whitewater",
+  "place": "Whitewater",
+  "link": "https://www.uww.edu"
+ },
+ {
+  "college": "Lehman College, CUNY",
+  "place": "The Bronx",
+  "link": "https://www.lehman.edu"
+ },
+ {
+  "college": "Fairfield University",
+  "place": "Fairfield",
+  "link": "https://www.fairfield.edu"
+ },
+ {
+  "college": "National Defense University",
+  "place": "Fort Lesley J McNair",
+  "link": "https://www.ndu.edu"
+ },
+ {
+  "college": "Purdue University Fort Wayne",
+  "place": "Fort Wayne",
+  "link": "https://www.pfw.edu"
+ },
+ {
+  "college": "Stockton University",
+  "place": "Galloway ...",
+  "link": "https://stockton.edu"
+ },
+ {
+  "college": "Seattle Pacific University",
+  "place": "Seattle",
+  "link": "https://spu.edu"
+ },
+ {
+  "college": "Mercer University",
+  "place": "Macon ...",
+  "link": "https://www.mercer.edu"
+ },
+ {
+  "college": "University of Mary Washington",
+  "place": "Fredericksburg",
+  "link": "https://www.umw.edu"
+ },
+ {
+  "college": "Whitman College",
+  "place": "Walla Walla",
+  "link": "https://www.whitman.edu"
+ },
+ {
+  "college": "ArtCenter College of Design",
+  "place": "Pasadena",
+  "link": "https://www.artcenter.edu"
+ },
+ {
+  "college": "Adelphi University",
+  "place": "Garden City",
+  "link": "https://www.adelphi.edu"
+ },
+ {
+  "college": "University of South Alabama",
+  "place": "Mobile",
+  "link": "https://www.southalabama.edu"
+ },
+ {
+  "college": "University of West Georgia",
+  "place": "Carrollton",
+  "link": "https://www.westga.edu"
+ },
+ {
+  "college": "Andrews University",
+  "place": "Berrien Springs",
+  "link": "https://www.andrews.edu"
+ },
+ {
+  "college": "Regent University",
+  "place": "Virginia Beach",
+  "link": "https://www.regent.edu"
+ },
+ {
+  "college": "University of Wisconsin-Stout",
+  "place": "Menomonie",
+  "link": "https://www.uwstout.edu"
+ },
+ {
+  "college": "University of Hartford",
+  "place": "West Hartford",
+  "link": "https://www.hartford.edu"
+ },
+ {
+  "college": "Eastern Washington University",
+  "place": "Cheney",
+  "link": "https://www.ewu.edu"
+ },
+ {
+  "college": "Plymouth State University",
+  "place": "Plymouth",
+  "link": "https://www.plymouth.edu"
+ },
+ {
+  "college": "Texas Tech University Health Sciences Center",
+  "place": "Lubbock ...",
+  "link": "https://www.ttuhsc.edu"
+ },
+ {
+  "college": "Beloit College",
+  "place": "Beloit",
+  "link": "https://www.beloit.edu"
+ },
+ {
+  "college": "California Institute of the Arts",
+  "place": "Valencia",
+  "link": "https://calarts.edu"
+ },
+ {
+  "college": "Claremont Graduate University",
+  "place": "Claremont ...",
+  "link": "https://www.cgu.edu"
+ },
+ {
+  "college": "Morgan State University",
+  "place": "Baltimore",
+  "link": "https://www.morgan.edu"
+ },
+ {
+  "college": "Belmont University",
+  "place": "Nashville",
+  "link": "https://www.belmont.edu"
+ },
+ {
+  "college": "The Cooper Union for the Advancement of Science and Art",
+  "place": "New York City",
+  "link": "https://cooper.edu"
+ },
+ {
+  "college": "Berea College",
+  "place": "Berea",
+  "link": "https://www.berea.edu"
+ },
+ {
+  "college": "Emporia State University",
+  "place": "Emporia",
+  "link": "https://www.emporia.edu"
+ },
+ {
+  "college": "California State University, East Bay",
+  "place": "Hayward ...",
+  "link": "https://www.csueastbay.edu"
+ },
+ {
+  "college": "Morehouse College",
+  "place": "Atlanta",
+  "link": "https://morehouse.edu"
+ },
+ {
+  "college": "New York Institute of Technology",
+  "place": "Old Westbury ...",
+  "link": "https://www.nyit.edu"
+ },
+ {
+  "college": "Icahn School of Medicine at Mount Sinai",
+  "place": "New York City",
+  "link": "https://icahn.mssm.edu"
+ },
+ {
+  "college": "Rollins College",
+  "place": "Winter Park",
+  "link": "https://www.rollins.edu"
+ },
+ {
+  "college": "University of Scranton",
+  "place": "Scranton",
+  "link": "https://www.scranton.edu"
+ },
+ {
+  "college": "Truman State University",
+  "place": "Kirksville",
+  "link": "https://www.truman.edu"
+ },
+ {
+  "college": "SUNY Upstate Medical University",
+  "place": "Syracuse",
+  "link": "https://www.upstate.edu"
+ },
+ {
+  "college": "Valdosta State University",
+  "place": "Valdosta",
+  "link": "https://www.valdosta.edu"
+ },
+ {
+  "college": "University of Arkansas for Medical Sciences",
+  "place": "Little Rock",
+  "link": "https://www.uams.edu"
+ },
+ {
+  "college": "Florida Agricultural and Mechanical University",
+  "place": "Tallahassee",
+  "link": "https://www.famu.edu"
+ },
+ {
+  "college": "Assumption College",
+  "place": "Worcester",
+  "link": "https://www.assumption.edu"
+ },
+ {
+  "college": "Hamline University",
+  "place": "Saint Paul",
+  "link": "https://www.hamline.edu"
+ },
+ {
+  "college": "Denison University",
+  "place": "Granville",
+  "link": "https://denison.edu"
+ },
+ {
+  "college": "Sewanee: The University of the South",
+  "place": "Sewanee",
+  "link": "https://www.sewanee.edu"
+ },
+ {
+  "college": "Hunter College, CUNY",
+  "place": "New York City",
+  "link": "https://hunter.cuny.edu"
+ },
+ {
+  "college": "Samford University",
+  "place": "Birmingham",
+  "link": "https://www.samford.edu"
+ },
+ {
+  "college": "The College of Wooster",
+  "place": "Wooster",
+  "link": "https://wooster.edu"
+ },
+ {
+  "college": "Georgetown College",
+  "place": "Georgetown",
+  "link": "http://www.georgetowncollege.edu"
+ },
+ {
+  "college": "Touro College",
+  "place": "New York City ...",
+  "link": "https://www.touro.edu"
+ },
+ {
+  "college": "Abilene Christian University",
+  "place": "Abilene",
+  "link": "https://acu.edu"
+ },
+ {
+  "college": "University of New England",
+  "place": "Biddeford ...",
+  "link": "https://www.une.edu"
+ },
+ {
+  "college": "Southeastern Louisiana University",
+  "place": "Hammond",
+  "link": "http://www.southeastern.edu"
+ },
+ {
+  "college": "Youngstown State University",
+  "place": "Youngstown",
+  "link": "https://ysu.edu"
+ },
+ {
+  "college": "Texas Woman's University",
+  "place": "Denton ...",
+  "link": "https://twu.edu"
+ },
+ {
+  "college": "Coastal Carolina University",
+  "place": "Conway ...",
+  "link": "https://www.coastal.edu"
+ },
+ {
+  "college": "Lawrence University",
+  "place": "Appleton",
+  "link": "https://www.lawrence.edu"
+ },
+ {
+  "college": "Frostburg State University",
+  "place": "Frostburg ...",
+  "link": "https://www.frostburg.edu"
+ },
+ {
+  "college": "Troy University",
+  "place": "Troy ...",
+  "link": "https://www.troy.edu"
+ },
+ {
+  "college": "Claremont McKenna College",
+  "place": "Claremont",
+  "link": "https://www.cmc.edu"
+ },
+ {
+  "college": "Metropolitan State University of Denver",
+  "place": "Denver",
+  "link": "https://www.msudenver.edu"
+ },
+ {
+  "college": "Valencia College",
+  "place": "Orlando",
+  "link": "https://valenciacollege.edu"
+ },
+ {
+  "college": "Tennessee State University",
+  "place": "Nashville",
+  "link": "https://www.tnstate.edu"
+ },
+ {
+  "college": "Tuskegee University",
+  "place": "Tuskegee",
+  "link": "https://www.tuskegee.edu"
+ },
+ {
+  "college": "Salisbury University",
+  "place": "Salisbury",
+  "link": "https://www.salisbury.edu"
+ },
+ {
+  "college": "Louisiana State University Health Sciences Center",
+  "place": "New Orleans ...",
+  "link": "https://www.lsuhsc.edu"
+ },
+ {
+  "college": "University of North Georgia",
+  "place": "Dahlonega",
+  "link": "https://ung.edu"
+ },
+ {
+  "college": "Christopher Newport University",
+  "place": "Newport News",
+  "link": "https://cnu.edu"
+ },
+ {
+  "college": "Academy of Art University",
+  "place": "San Francisco",
+  "link": "https://www.academyart.edu"
+ },
+ {
+  "college": "Pacific Lutheran University",
+  "place": "Tacoma",
+  "link": "https://www.plu.edu"
+ },
+ {
+  "college": "Fort Hays State University",
+  "place": "Hays",
+  "link": "https://www.fhsu.edu"
+ },
+ {
+  "college": "Rhode Island College",
+  "place": "Providence",
+  "link": "https://www.ric.edu"
+ },
+ {
+  "college": "Sarah Lawrence College",
+  "place": "Bronxville",
+  "link": "https://www.sarahlawrence.edu"
+ },
+ {
+  "college": "Illinois Wesleyan University",
+  "place": "Bloomington",
+  "link": "https://www.iwu.edu"
+ },
+ {
+  "college": "William Paterson University",
+  "place": "Wayne",
+  "link": "https://www.wpunj.edu"
+ },
+ {
+  "college": "The State University of New York at Potsdam",
+  "place": "Potsdam",
+  "link": "https://www.potsdam.edu"
+ },
+ {
+  "college": "University of North Carolina at Asheville",
+  "place": "Asheville",
+  "link": "https://www.unca.edu"
+ },
+ {
+  "college": "SUNY College at Oneonta",
+  "place": "Oneonta",
+  "link": "https://www.oneonta.edu"
+ },
+ {
+  "college": "Agnes Scott College",
+  "place": "Decatur",
+  "link": "https://www.agnesscott.edu"
+ },
+ {
+  "college": "University of Puget Sound",
+  "place": "Tacoma",
+  "link": "https://www.pugetsound.edu"
+ },
+ {
+  "college": "Maharishi International University",
+  "place": "Fairfield",
+  "link": "https://www.miu.edu"
+ },
+ {
+  "college": "Goucher College",
+  "place": "Towson",
+  "link": "https://www.goucher.edu"
+ },
+ {
+  "college": "Wabash College",
+  "place": "Crawfordsville",
+  "link": "https://www.wabash.edu"
+ },
+ {
+  "college": "Norwich University",
+  "place": "Northfield",
+  "link": "https://www.norwich.edu"
+ },
+ {
+  "college": "Rhodes College",
+  "place": "Memphis",
+  "link": "https://www.rhodes.edu"
+ },
+ {
+  "college": "United States Air Force Academy",
+  "place": "Colorado Springs",
+  "link": "https://www.usafa.af.mil"
+ },
+ {
+  "college": "Delaware State University",
+  "place": "Dover",
+  "link": "https://www.desu.edu"
+ },
+ {
+  "college": "Western Connecticut State University",
+  "place": "Danbury",
+  "link": "https://www.wcsu.edu"
+ },
+ {
+  "college": "Southeast Missouri State University",
+  "place": "Cape Girardeau",
+  "link": "https://semo.edu"
+ },
+ {
+  "college": "National University",
+  "place": "La Jolla",
+  "link": "https://www.nu.edu"
+ },
+ {
+  "college": "Gustavus Adolphus College",
+  "place": "St. Peter",
+  "link": "https://gustavus.edu"
+ },
+ {
+  "college": "Providence College",
+  "place": "Providence",
+  "link": "https://www.providence.edu"
+ },
+ {
+  "college": "Southern Utah University",
+  "place": "Cedar City",
+  "link": "https://www.suu.edu"
+ },
+ {
+  "college": "Winthrop University",
+  "place": "Rock Hill",
+  "link": "https://www.winthrop.edu"
+ },
+ {
+  "college": "Western Oregon University",
+  "place": "Monmouth",
+  "link": "https://wou.edu"
+ },
+ {
+  "college": "California State University, Monterey Bay",
+  "place": "Seaside",
+  "link": "https://csumb.edu"
+ },
+ {
+  "college": "University of Southern Indiana",
+  "place": "Evansville",
+  "link": "https://www.usi.edu"
+ },
+ {
+  "college": "University of Mississippi Medical Center",
+  "place": "Jackson",
+  "link": "https://www.umc.edu"
+ },
+ {
+  "college": "The University of Oklahoma Health Sciences Center",
+  "place": "Oklahoma City",
+  "link": "https://www.ouhsc.edu"
+ },
+ {
+  "college": "Champlain College",
+  "place": "Burlington ...",
+  "link": "https://www.champlain.edu"
+ },
+ {
+  "college": "Lake Superior State University",
+  "place": "Sault Ste. Marie",
+  "link": "https://www.lssu.edu"
+ },
+ {
+  "college": "Murray State University",
+  "place": "Murray ...",
+  "link": "https://www.murraystate.edu"
+ },
+ {
+  "college": "Kean University",
+  "place": "Union ...",
+  "link": "https://www.kean.edu"
+ },
+ {
+  "college": "Hampton University",
+  "place": "Hampton",
+  "link": "https://www.hamptonu.edu"
+ },
+ {
+  "college": "Spelman College",
+  "place": "Atlanta",
+  "link": "https://www.spelman.edu"
+ },
+ {
+  "college": "Hult International Business School",
+  "place": "Cambridge ...",
+  "link": "https://www.hult.edu"
+ },
+ {
+  "college": "Antioch University",
+  "place": "Yellow Springs ...",
+  "link": "https://www.antioch.edu"
+ },
+ {
+  "college": "Muhlenberg College",
+  "place": "Allentown",
+  "link": "https://www.muhlenberg.edu"
+ },
+ {
+  "college": "Lesley University",
+  "place": "Cambridge ...",
+  "link": "https://lesley.edu"
+ },
+ {
+  "college": "Broward College",
+  "place": "Fort Lauderdale",
+  "link": "https://www.broward.edu"
+ },
+ {
+  "college": "St. Lawrence University",
+  "place": "Canton",
+  "link": "https://www.stlawu.edu"
+ },
+ {
+  "college": "Cedarville University",
+  "place": "Cedarville",
+  "link": "https://www.cedarville.edu"
+ },
+ {
+  "college": "St. Catherine University",
+  "place": "Saint Paul",
+  "link": "https://www.stkate.edu"
+ },
+ {
+  "college": "University of Detroit Mercy",
+  "place": "Detroit",
+  "link": "https://www.udmercy.edu"
+ },
+ {
+  "college": "High Point University",
+  "place": "High Point",
+  "link": "https://www.highpoint.edu"
+ },
+ {
+  "college": "Le Moyne College",
+  "place": "Syracuse",
+  "link": "https://www.lemoyne.edu"
+ },
+ {
+  "college": "Seton Hill University",
+  "place": "Greensburg",
+  "link": "https://www.setonhill.edu"
+ },
+ {
+  "college": "Saint Anselm College",
+  "place": "Manchester",
+  "link": "https://www.anselm.edu"
+ },
+ {
+  "college": "Ohio Wesleyan University",
+  "place": "Delaware ...",
+  "link": "https://www.owu.edu"
+ },
+ {
+  "college": "University of New Haven",
+  "place": "West Haven ...",
+  "link": "https://www.newhaven.edu"
+ },
+ {
+  "college": "Milwaukee School of Engineering",
+  "place": "Milwaukee",
+  "link": "https://www.msoe.edu"
+ },
+ {
+  "college": "University of North Carolina at Pembroke",
+  "place": "Pembroke",
+  "link": "https://www.uncp.edu"
+ },
+ {
+  "college": "Messiah University",
+  "place": "Mechanicsburg",
+  "link": "https://www.messiah.edu"
+ },
+ {
+  "college": "Austin Peay State University",
+  "place": "Clarksville",
+  "link": "https://www.apsu.edu"
+ },
+ {
+  "college": "University of Indianapolis",
+  "place": "Indianapolis",
+  "link": "https://www.uindy.edu"
+ },
+ {
+  "college": "Bellarmine University",
+  "place": "Louisville",
+  "link": "https://www.bellarmine.edu"
+ },
+ {
+  "college": "Uniformed Services University of the Health Sciences",
+  "place": "Bethesda",
+  "link": "https://www.usuhs.edu"
+ },
+ {
+  "college": "The Citadel, The Military College of South Carolina",
+  "place": "Charleston",
+  "link": "https://citadel.edu"
+ },
+ {
+  "college": "SUNY Brockport",
+  "place": "Brockport",
+  "link": "https://www.brockport.edu"
+ },
+ {
+  "college": "La Salle University",
+  "place": "Philadelphia",
+  "link": "https://www.lasalle.edu"
+ },
+ {
+  "college": "Millersville University of Pennsylvania",
+  "place": "Millersville",
+  "link": "https://www.millersville.edu"
+ },
+ {
+  "college": "Northeastern Illinois University",
+  "place": "Chicago",
+  "link": "https://www.neiu.edu"
+ },
+ {
+  "college": "Roger Williams University",
+  "place": "Bristol",
+  "link": "https://www.rwu.edu"
+ },
+ {
+  "college": "Elmhurst University",
+  "place": "Elmhurst",
+  "link": "https://www.elmhurst.edu"
+ },
+ {
+  "college": "North Carolina Central University",
+  "place": "Durham",
+  "link": "https://www.nccu.edu"
+ },
+ {
+  "college": "Sacred Heart University",
+  "place": "Fairfield ...",
+  "link": "https://www.sacredheart.edu"
+ },
+ {
+  "college": "Georgia College and State University",
+  "place": "Milledgeville ...",
+  "link": "https://www.gcsu.edu"
+ },
+ {
+  "college": "Augsburg University",
+  "place": "Minneapolis",
+  "link": "https://www.augsburg.edu"
+ },
+ {
+  "college": "Bluffton University",
+  "place": "Bluffton",
+  "link": "https://www.bluffton.edu"
+ },
+ {
+  "college": "St Petersburg College",
+  "place": "Clearwater",
+  "link": "https://www.spcollege.edu"
+ },
+ {
+  "college": "Kettering University",
+  "place": "Flint",
+  "link": "https://www.kettering.edu"
+ },
+ {
+  "college": "Canisius College",
+  "place": "Buffalo",
+  "link": "https://www.canisius.edu"
+ },
+ {
+  "college": "Wheaton College, Massachusetts",
+  "place": "Norton",
+  "link": "https://wheatoncollege.edu"
+ },
+ {
+  "college": "University of Portland",
+  "place": "Portland",
+  "link": "https://www.up.edu"
+ },
+ {
+  "college": "Virginia Military Institute",
+  "place": "Lexington",
+  "link": "https://www.vmi.edu"
+ },
+ {
+  "college": "Carson-Newman University",
+  "place": "Jefferson City",
+  "link": "https://www.cn.edu"
+ },
+ {
+  "college": "The University of Tampa",
+  "place": "Tampa",
+  "link": "https://www.ut.edu"
+ },
+ {
+  "college": "Salem State University",
+  "place": "Salem",
+  "link": "https://www.salemstate.edu"
+ },
+ {
+  "college": "California College of the Arts",
+  "place": "San Francisco ...",
+  "link": "https://www.cca.edu"
+ },
+ {
+  "college": "Roosevelt University",
+  "place": "Chicago ...",
+  "link": "https://www.roosevelt.edu"
+ },
+ {
+  "college": "School of the Art Institute of Chicago",
+  "place": "Chicago",
+  "link": "https://www.saic.edu"
+ },
+ {
+  "college": "St. Edward's University",
+  "place": "Austin",
+  "link": "https://www.stedwards.edu"
+ },
+ {
+  "college": "Golden Gate University",
+  "place": "San Francisco ...",
+  "link": "https://www.ggu.edu"
+ },
+ {
+  "college": "Tarleton State University",
+  "place": "Stephenville ...",
+  "link": "https://www.tarleton.edu"
+ },
+ {
+  "college": "Longwood University",
+  "place": "Farmville",
+  "link": "http://www.longwood.edu"
+ },
+ {
+  "college": "Angelo State University",
+  "place": "San Angelo",
+  "link": "https://www.angelo.edu"
+ },
+ {
+  "college": "George Fox University",
+  "place": "Newberg",
+  "link": "https://www.georgefox.edu"
+ },
+ {
+  "college": "Campbell University",
+  "place": "Buies Creek",
+  "link": "https://www.campbell.edu"
+ },
+ {
+  "college": "Saint Michael's College",
+  "place": "Colchester ...",
+  "link": "https://www.smcvt.edu"
+ },
+ {
+  "college": "Regis University",
+  "place": "Denver",
+  "link": "https://www.regis.edu"
+ },
+ {
+  "college": "Southern Oregon University",
+  "place": "Ashland ...",
+  "link": "https://sou.edu"
+ },
+ {
+  "college": "Southern Connecticut State University",
+  "place": "New Haven",
+  "link": "https://www.southernct.edu"
+ },
+ {
+  "college": "Saint Mary's College of California",
+  "place": "Moraga",
+  "link": "https://www.stmarys-ca.edu"
+ },
+ {
+  "college": "Bloomsburg University of Pennsylvania",
+  "place": "Bloomsburg",
+  "link": "https://www.bloomu.edu"
+ },
+ {
+  "college": "Ramapo College of New Jersey",
+  "place": "Mahwah",
+  "link": "https://www.ramapo.edu"
+ },
+ {
+  "college": "John Carroll University",
+  "place": "University Heights",
+  "link": "https://www.jcu.edu"
+ },
+ {
+  "college": "Mercy College",
+  "place": "Dobbs Ferry",
+  "link": "https://www.mercy.edu"
+ },
+ {
+  "college": "Pittsburg State University",
+  "place": "Pittsburg",
+  "link": "https://www.pittstate.edu"
+ },
+ {
+  "college": "SUNY Empire State College",
+  "place": "Saratoga Springs",
+  "link": "https://www.esc.edu"
+ },
+ {
+  "college": "Elizabethtown College",
+  "place": "Elizabethtown",
+  "link": "https://www.etown.edu"
+ },
+ {
+  "college": "Albion College",
+  "place": "Albion",
+  "link": "https://www.albion.edu"
+ },
+ {
+  "college": "New York Law School",
+  "place": "New York City",
+  "link": "https://www.nyls.edu"
+ },
+ {
+  "college": "University of Nebraska at Kearney",
+  "place": "Kearney",
+  "link": "https://www.unk.edu"
+ },
+ {
+  "college": "Alfred University",
+  "place": "Alfred",
+  "link": "https://www.alfred.edu"
+ },
+ {
+  "college": "Fort Lewis College",
+  "place": "Durango",
+  "link": "https://www.fortlewis.edu"
+ },
+ {
+  "college": "SUNY Downstate Medical Center",
+  "place": "Brooklyn",
+  "link": "https://www.downstate.edu"
+ },
+ {
+  "college": "St. Mary's University",
+  "place": "San Antonio",
+  "link": "https://www.stmarytx.edu"
+ },
+ {
+  "college": "St. Bonaventure University",
+  "place": "St. Bonaventure",
+  "link": "https://www.sbu.edu"
+ },
+ {
+  "college": "Kalamazoo College",
+  "place": "Kalamazoo",
+  "link": "https://www.kzoo.edu"
+ },
+ {
+  "college": "Southwestern University",
+  "place": "Georgetown",
+  "link": "https://www.southwestern.edu"
+ },
+ {
+  "college": "Minnesota State University Moorhead",
+  "place": "Moorhead",
+  "link": "https://www.mnstate.edu"
+ },
+ {
+  "college": "Texas A\u0026M University-Commerce",
+  "place": "Commerce",
+  "link": "https://www.tamuc.edu"
+ },
+ {
+  "college": "North Central College",
+  "place": "Naperville ...",
+  "link": "https://www.northcentralcollege.edu"
+ },
+ {
+  "college": "Bethel University",
+  "place": "Saint Paul ...",
+  "link": "https://www.bethel.edu"
+ },
+ {
+  "college": "California State University Channel Islands",
+  "place": "Camarillo",
+  "link": "https://www.csuci.edu"
+ },
+ {
+  "college": "Maryland Institute College of Art",
+  "place": "Baltimore",
+  "link": "https://www.mica.edu"
+ },
+ {
+  "college": "Purchase College, State University of New York",
+  "place": "Purchase",
+  "link": "https://www.purchase.edu"
+ },
+ {
+  "college": "University of Redlands",
+  "place": "Redlands",
+  "link": "https://www.redlands.edu"
+ },
+ {
+  "college": "State University of New York at Fredonia",
+  "place": "Fredonia",
+  "link": "https://www.fredonia.edu"
+ },
+ {
+  "college": "Barry University",
+  "place": "Miami ...",
+  "link": "https://www.barry.edu"
+ },
+ {
+  "college": "California State University, Bakersfield",
+  "place": "Bakersfield",
+  "link": "https://www.csub.edu"
+ },
+ {
+  "college": "Ashland University",
+  "place": "Ashland",
+  "link": "https://www.ashland.edu"
+ },
+ {
+  "college": "Jacksonville State University",
+  "place": "Jacksonville",
+  "link": "https://www.jsu.edu"
+ },
+ {
+  "college": "The University of Tennessee Health Science Center",
+  "place": "Memphis",
+  "link": "https://www.uthsc.edu"
+ },
+ {
+  "college": "Baldwin Wallace University",
+  "place": "Berea",
+  "link": "https://www.bw.edu"
+ },
+ {
+  "college": "Saint Leo University",
+  "place": "Saint Leo ...",
+  "link": "https://www.saintleo.edu"
+ },
+ {
+  "college": "Arcadia University",
+  "place": "Glenside",
+  "link": "https://www.arcadia.edu"
+ },
+ {
+  "college": "Clark Atlanta University",
+  "place": "Atlanta",
+  "link": "https://www.cau.edu"
+ },
+ {
+  "college": "SUNY Polytechnic Institute",
+  "place": "Utica",
+  "link": "https://sunypoly.edu"
+ },
+ {
+  "college": "Texas Southern University",
+  "place": "Houston",
+  "link": "http://www.tsu.edu"
+ },
+ {
+  "college": "Goshen College",
+  "place": "Goshen",
+  "link": "https://www.goshen.edu"
+ },
+ {
+  "college": "Kutztown University of Pennsylvania",
+  "place": "Kutztown",
+  "link": "https://www.kutztown.edu"
+ },
+ {
+  "college": "Bryant University",
+  "place": "Smithfield",
+  "link": "https://www.bryant.edu"
+ },
+ {
+  "college": "University of Southern Maine",
+  "place": "Portland ...",
+  "link": "https://usm.maine.edu"
+ },
+ {
+  "college": "University of Wisconsin-Platteville",
+  "place": "Platteville",
+  "link": "https://www.uwplatt.edu"
+ },
+ {
+  "college": "Washington College",
+  "place": "Chestertown",
+  "link": "https://www.washcoll.edu"
+ },
+ {
+  "college": "Winona State University",
+  "place": "Winona",
+  "link": "https://www.winona.edu"
+ },
+ {
+  "college": "Bennington College",
+  "place": "Bennington",
+  "link": "https://www.bennington.edu"
+ },
+ {
+  "college": "Jackson State University",
+  "place": "Jackson",
+  "link": "https://www.jsums.edu"
+ },
+ {
+  "college": "California Lutheran University",
+  "place": "Thousand Oaks",
+  "link": "https://www.callutheran.edu"
+ },
+ {
+  "college": "Oral Roberts University",
+  "place": "Tulsa",
+  "link": "https://oru.edu"
+ },
+ {
+  "college": "The University of Texas at Tyler",
+  "place": "Tyler ...",
+  "link": "https://www.uttyler.edu"
+ },
+ {
+  "college": "Gordon College",
+  "place": "Wenham ...",
+  "link": "https://www.gordon.edu"
+ },
+ {
+  "college": "Knox College",
+  "place": "Galesburg ...",
+  "link": "https://www.knox.edu"
+ },
+ {
+  "college": "Dakota State University",
+  "place": "Madison ...",
+  "link": "https://dsu.edu"
+ },
+ {
+  "college": "Colorado Christian University",
+  "place": "Lakewood",
+  "link": "https://www.ccu.edu"
+ },
+ {
+  "college": "California Institute of Integral Studies",
+  "place": "San Francisco",
+  "link": "https://www.ciis.edu"
+ },
+ {
+  "college": "State University of New York College at Plattsburgh",
+  "place": "Plattsburgh ...",
+  "link": "https://www.plattsburgh.edu"
+ },
+ {
+  "college": "Ohio Northern University",
+  "place": "Ada",
+  "link": "https://www.onu.edu"
+ },
+ {
+  "college": "Indiana Wesleyan University",
+  "place": "Marion",
+  "link": "https://www.indwes.edu"
+ },
+ {
+  "college": "Luther College",
+  "place": "Decorah",
+  "link": "https://www.luther.edu"
+ },
+ {
+  "college": "Concordia College",
+  "place": "Moorhead",
+  "link": "https://www.concordiacollege.edu"
+ },
+ {
+  "college": "Roanoke College",
+  "place": "Salem",
+  "link": "https://www.roanoke.edu"
+ },
+ {
+  "college": "Wofford College",
+  "place": "Spartanburg",
+  "link": "https://www.wofford.edu"
+ },
+ {
+  "college": "University of Louisiana at Monroe",
+  "place": "Monroe",
+  "link": "https://www.ulm.edu"
+ },
+ {
+  "college": "Hood College",
+  "place": "Frederick",
+  "link": "https://www.hood.edu"
+ },
+ {
+  "college": "University of Wisconsin-Parkside",
+  "place": "Kenosha",
+  "link": "https://www.uwp.edu"
+ },
+ {
+  "college": "Franklin University",
+  "place": "Columbus ...",
+  "link": "https://www.franklin.edu"
+ },
+ {
+  "college": "Vermont Law School",
+  "place": "South Royalton",
+  "link": "https://www.vermontlaw.edu"
+ },
+ {
+  "college": "University of Central Missouri",
+  "place": "Warrensburg",
+  "link": "https://www.ucmo.edu"
+ },
+ {
+  "college": "Harding University",
+  "place": "Searcy ...",
+  "link": "https://www.harding.edu"
+ },
+ {
+  "college": "Chatham University",
+  "place": "Pittsburgh",
+  "link": "https://www.chatham.edu"
+ },
+ {
+  "college": "St. John Fisher University",
+  "place": "Rochester",
+  "link": "https://www.sjf.edu"
+ },
+ {
+  "college": "University of Hawaii-West Oahu",
+  "place": "Kapolei",
+  "link": "https://westoahu.hawaii.edu"
+ },
+ {
+  "college": "St. Mary's College of Maryland",
+  "place": "St. Mary's City",
+  "link": "https://www.smcm.edu"
+ },
+ {
+  "college": "Brooklyn Law School",
+  "place": "Brooklyn",
+  "link": "https://www.brooklaw.edu"
+ },
+ {
+  "college": "Saginaw Valley State University",
+  "place": "University Center",
+  "link": "https://www.svsu.edu"
+ },
+ {
+  "college": "Capital University",
+  "place": "Columbus",
+  "link": "https://www.capital.edu"
+ },
+ {
+  "college": "Northwest Missouri State University",
+  "place": "Maryville ...",
+  "link": "https://www.nwmissouri.edu"
+ },
+ {
+  "college": "Dominican University of California",
+  "place": "San Rafael",
+  "link": "https://www.dominican.edu"
+ },
+ {
+  "college": "Pennsylvania Academy of the Fine Arts",
+  "place": "Philadelphia",
+  "link": "https://www.pafa.org"
+ },
+ {
+  "college": "Morehouse School of Medicine",
+  "place": "Atlanta",
+  "link": "https://www.msm.edu"
+ },
+ {
+  "college": "Eastern Virginia Medical School",
+  "place": "Norfolk",
+  "link": "https://www.evms.edu"
+ },
+ {
+  "college": "Washburn University",
+  "place": "Topeka",
+  "link": "https://www.washburn.edu"
+ },
+ {
+  "college": "University of the Incarnate Word",
+  "place": "San Antonio",
+  "link": "https://www.uiw.edu"
+ },
+ {
+  "college": "Slippery Rock University of Pennsylvania",
+  "place": "Slippery Rock",
+  "link": "https://www.sru.edu"
+ },
+ {
+  "college": "Midwestern State University",
+  "place": "Wichita Falls",
+  "link": "https://msutexas.edu"
+ },
+ {
+  "college": "Augustana College",
+  "place": "Rock Island",
+  "link": "https://www.augustana.edu"
+ },
+ {
+  "college": "The University of the Arts",
+  "place": "Philadelphia",
+  "link": "https://www.uarts.edu"
+ },
+ {
+  "college": "Benedictine University",
+  "place": "Lisle",
+  "link": "https://www.ben.edu"
+ },
+ {
+  "college": "Susquehanna University",
+  "place": "Selinsgrove",
+  "link": "https://www.susqu.edu"
+ },
+ {
+  "college": "The College of St. Scholastica",
+  "place": "Duluth ...",
+  "link": "https://www.css.edu"
+ },
+ {
+  "college": "University of North Alabama",
+  "place": "Florence",
+  "link": "https://www.una.edu"
+ },
+ {
+  "college": "Prairie View A\u0026M University",
+  "place": "Prairie View ...",
+  "link": "https://www.pvamu.edu"
+ },
+ {
+  "college": "Bob Jones University",
+  "place": "Greenville",
+  "link": "https://www.bju.edu"
+ },
+ {
+  "college": "South Dakota School of Mines and Technology",
+  "place": "Rapid City",
+  "link": "https://www.sdsmt.edu"
+ },
+ {
+  "college": "University of Wisconsin-River Falls",
+  "place": "River Falls",
+  "link": "https://www.uwrf.edu"
+ },
+ {
+  "college": "Columbus State University",
+  "place": "Columbus",
+  "link": "https://www.columbusstate.edu"
+ },
+ {
+  "college": "University of St. Augustine for Health Sciences",
+  "place": "San Marcos ...",
+  "link": "https://www.usa.edu"
+ },
+ {
+  "college": "Merrimack College",
+  "place": "North Andover",
+  "link": "https://www.merrimack.edu"
+ },
+ {
+  "college": "Manhattan College",
+  "place": "Riverdale",
+  "link": "https://manhattan.edu"
+ },
+ {
+  "college": "Mississippi College",
+  "place": "Clinton",
+  "link": "https://www.mc.edu"
+ },
+ {
+  "college": "Olivet Nazarene University",
+  "place": "Bourbonnais",
+  "link": "https://www.olivet.edu"
+ },
+ {
+  "college": "St. Norbert College",
+  "place": "De Pere",
+  "link": "https://www.snc.edu"
+ },
+ {
+  "college": "Texas A\u0026M University-Kingsville",
+  "place": "Kingsville",
+  "link": "https://www.tamuk.edu"
+ },
+ {
+  "college": "Hendrix College",
+  "place": "Conway",
+  "link": "https://www.hendrix.edu"
+ },
+ {
+  "college": "University of Michigan-Flint",
+  "place": "Flint ...",
+  "link": "https://www.umflint.edu"
+ },
+ {
+  "college": "Colorado Mesa University",
+  "place": "Grand Junction",
+  "link": "https://www.coloradomesa.edu"
+ },
+ {
+  "college": "Bellevue University",
+  "place": "Bellevue ...",
+  "link": "https://www.bellevue.edu"
+ },
+ {
+  "college": "Centre College",
+  "place": "Danville",
+  "link": "https://www.centre.edu"
+ },
+ {
+  "college": "University of Bridgeport",
+  "place": "Bridgeport ...",
+  "link": "https://www.bridgeport.edu"
+ },
+ {
+  "college": "New Jersey City University",
+  "place": "Jersey City",
+  "link": "https://www.njcu.edu"
+ },
+ {
+  "college": "Wilkes University",
+  "place": "Wilkes-Barre",
+  "link": "https://www.wilkes.edu"
+ },
+ {
+  "college": "National Louis University",
+  "place": "Chicago ...",
+  "link": "https://nl.edu"
+ },
+ {
+  "college": "Auburn University at Montgomery",
+  "place": "Montgomery",
+  "link": "https://www.aum.edu"
+ },
+ {
+  "college": "Carthage College",
+  "place": "Kenosha",
+  "link": "https://www.carthage.edu"
+ },
+ {
+  "college": "Loma Linda University",
+  "place": "Loma Linda",
+  "link": "https://llu.edu"
+ },
+ {
+  "college": "Berry College",
+  "place": "Mount Berry",
+  "link": "https://www.berry.edu"
+ },
+ {
+  "college": "Fisk University",
+  "place": "Nashville",
+  "link": "https://www.fisk.edu"
+ },
+ {
+  "college": "North Park University",
+  "place": "Chicago",
+  "link": "https://www.northpark.edu"
+ },
+ {
+  "college": "University of Findlay",
+  "place": "Findlay",
+  "link": "https://www.findlay.edu"
+ },
+ {
+  "college": "Niagara University",
+  "place": "Niagara University",
+  "link": "https://www.niagara.edu"
+ },
+ {
+  "college": "Taylor University",
+  "place": "Upland ...",
+  "link": "https://www.taylor.edu"
+ },
+ {
+  "college": "Colorado Technical University",
+  "place": "Colorado Springs ...",
+  "link": "https://www.coloradotech.edu"
+ },
+ {
+  "college": "Ursinus College",
+  "place": "Collegeville",
+  "link": "https://www.ursinus.edu"
+ },
+ {
+  "college": "Xavier University of Louisiana",
+  "place": "New Orleans",
+  "link": "https://www.xula.edu"
+ },
+ {
+  "college": "University of the District of Columbia",
+  "place": "Washington",
+  "link": "https://www.udc.edu"
+ },
+ {
+  "college": "Hawaii Pacific University",
+  "place": "Honolulu",
+  "link": "https://www.hpu.edu"
+ },
+ {
+  "college": "University of Houston-Downtown",
+  "place": "Houston",
+  "link": "https://www.uhd.edu"
+ },
+ {
+  "college": "Utah Tech University",
+  "place": "St. George",
+  "link": "https://utahtech.edu"
+ },
+ {
+  "college": "Midwestern University",
+  "place": "Downers Grove ...",
+  "link": "https://www.midwestern.edu"
+ },
+ {
+  "college": "Allegheny College",
+  "place": "Meadville",
+  "link": "https://allegheny.edu"
+ },
+ {
+  "college": "Lander University",
+  "place": "Greenwood",
+  "link": "https://www.lander.edu"
+ },
+ {
+  "college": "Aurora University",
+  "place": "Aurora ...",
+  "link": "https://aurora.edu"
+ },
+ {
+  "college": "Western New England University",
+  "place": "Springfield ...",
+  "link": "https://www1.wne.edu"
+ },
+ {
+  "college": "Lawrence Technological University",
+  "place": "Southfield",
+  "link": "https://www.ltu.edu"
+ },
+ {
+  "college": "Otis College of Art and Design",
+  "place": "Los Angeles",
+  "link": "https://www.otis.edu"
+ },
+ {
+  "college": "SIT Graduate Institute",
+  "place": "Brattleboro",
+  "link": "https://www.sit.edu"
+ },
+ {
+  "college": "Keene State College",
+  "place": "Keene",
+  "link": "https://www.keene.edu"
+ },
+ {
+  "college": "Western University of Health Sciences",
+  "place": "Pomona",
+  "link": "https://www.westernu.edu"
+ },
+ {
+  "college": "Jacksonville University",
+  "place": "Jacksonville",
+  "link": "https://www.ju.edu"
+ },
+ {
+  "college": "Pennsylvania College of Technology",
+  "place": "Williamsport",
+  "link": "https://www.pct.edu"
+ },
+ {
+  "college": "Bowie State University",
+  "place": "Bowie",
+  "link": "https://www.bowiestate.edu"
+ },
+ {
+  "college": "Eckerd College",
+  "place": "Saint Petersburg ...",
+  "link": "https://www.eckerd.edu"
+ },
+ {
+  "college": "Arkansas Tech University",
+  "place": "Russellville",
+  "link": "https://www.atu.edu"
+ },
+ {
+  "college": "Albany Medical College",
+  "place": "Albany",
+  "link": "https://www.amc.edu"
+ },
+ {
+  "college": "Fayetteville State University",
+  "place": "Fayetteville",
+  "link": "https://www.uncfsu.edu"
+ },
+ {
+  "college": "University of Dallas",
+  "place": "Irving",
+  "link": "https://www.udallas.edu"
+ },
+ {
+  "college": "Springfield College",
+  "place": "Springfield",
+  "link": "https://springfield.edu"
+ },
+ {
+  "college": "Baruch College, CUNY",
+  "place": "New York City",
+  "link": "https://www.baruch.cuny.edu"
+ },
+ {
+  "college": "Florida Southern College",
+  "place": "Lakeland",
+  "link": "https://www.flsouthern.edu"
+ },
+ {
+  "college": "South University",
+  "place": "Savannah",
+  "link": "https://www.southuniversity.edu"
+ },
+ {
+  "college": "Lipscomb University",
+  "place": "Nashville",
+  "link": "https://www.lipscomb.edu"
+ },
+ {
+  "college": "Santa Fe College",
+  "place": "Gainesville",
+  "link": "https://www.sfcollege.edu"
+ },
+ {
+  "college": "Purdue University Northwest",
+  "place": "Hammond",
+  "link": "https://www.pnw.edu"
+ },
+ {
+  "college": "Southern University and A\u0026M College",
+  "place": "Baton Rouge",
+  "link": "https://www.subr.edu"
+ },
+ {
+  "college": "Salve Regina University",
+  "place": "Newport ...",
+  "link": "https://salve.edu"
+ },
+ {
+  "college": "Westmont College",
+  "place": "Santa Barbara",
+  "link": "https://www.westmont.edu"
+ },
+ {
+  "college": "Westminster College",
+  "place": "Salt Lake City",
+  "link": "https://westminstercollege.edu"
+ },
+ {
+  "college": "Concordia University Wisconsin",
+  "place": "Mequon",
+  "link": "https://www.cuw.edu"
+ },
+ {
+  "college": "Lewis University",
+  "place": "Romeoville",
+  "link": "https://www.lewisu.edu"
+ },
+ {
+  "college": "Lincoln Memorial University",
+  "place": "Harrogate",
+  "link": "https://www.lmunet.edu"
+ },
+ {
+  "college": "Texas A\u0026M International University",
+  "place": "Laredo",
+  "link": "https://www.tamiu.edu"
+ },
+ {
+  "college": "University of Houston-Clear Lake",
+  "place": "Houston ...",
+  "link": "https://www.uhcl.edu"
+ },
+ {
+  "college": "Regis College",
+  "place": "Weston",
+  "link": "https://www.regiscollege.edu"
+ },
+ {
+  "college": "Grove City College",
+  "place": "Grove City",
+  "link": "https://www.gcc.edu"
+ },
+ {
+  "college": "Juniata College",
+  "place": "Huntingdon",
+  "link": "https://www.juniata.edu"
+ },
+ {
+  "college": "Utica University",
+  "place": "Utica",
+  "link": "https://www.utica.edu"
+ },
+ {
+  "college": "McDaniel College",
+  "place": "Westminster ...",
+  "link": "https://www.mcdaniel.edu"
+ },
+ {
+  "college": "University of Lynchburg",
+  "place": "Lynchburg",
+  "link": "https://www.lynchburg.edu"
+ },
+ {
+  "college": "Bethune-Cookman University",
+  "place": "Daytona Beach",
+  "link": "https://www.cookman.edu"
+ },
+ {
+  "college": "Bastyr University",
+  "place": "Kenmore",
+  "link": "https://bastyr.edu"
+ },
+ {
+  "college": "Marietta College",
+  "place": "Marietta",
+  "link": "https://www.marietta.edu"
+ },
+ {
+  "college": "Lindenwood University",
+  "place": "St. Charles",
+  "link": "https://www.lindenwood.edu"
+ },
+ {
+  "college": "Augustana University",
+  "place": "Sioux Falls",
+  "link": "https://www.augie.edu"
+ },
+ {
+  "college": "Whittier College",
+  "place": "Whittier",
+  "link": "https://www.whittier.edu"
+ },
+ {
+  "college": "California Baptist University",
+  "place": "Riverside ...",
+  "link": "https://calbaptist.edu"
+ },
+ {
+  "college": "Muskingum University",
+  "place": "New Concord",
+  "link": "https://www.muskingum.edu"
+ },
+ {
+  "college": "Iona University",
+  "place": "New Rochelle",
+  "link": "https://www.iona.edu"
+ },
+ {
+  "college": "Brigham Young University-Hawaii",
+  "place": "Laie",
+  "link": "https://www.byuh.edu"
+ },
+ {
+  "college": "Eastern Mennonite University",
+  "place": "Harrisonburg ...",
+  "link": "https://emu.edu"
+ },
+ {
+  "college": "Massachusetts College of Art and Design",
+  "place": "Boston",
+  "link": "https://massart.edu"
+ },
+ {
+  "college": "Governors State University",
+  "place": "University Park",
+  "link": "https://www.govst.edu"
+ },
+ {
+  "college": "DeSales University",
+  "place": "Center Valley",
+  "link": "https://www.desales.edu"
+ },
+ {
+  "college": "The City College of New York",
+  "place": "New York City",
+  "link": "https://www.ccny.cuny.edu"
+ },
+ {
+  "college": "Oklahoma City University",
+  "place": "Oklahoma City",
+  "link": "https://www.okcu.edu"
+ },
+ {
+  "college": "King's College",
+  "place": "Wilkes-Barre",
+  "link": "https://www.kings.edu"
+ },
+ {
+  "college": "Moody Bible Institute",
+  "place": "Chicago",
+  "link": "https://www.moody.edu"
+ },
+ {
+  "college": "Moravian University",
+  "place": "Bethlehem",
+  "link": "https://www.moravian.edu"
+ },
+ {
+  "college": "Union University",
+  "place": "Jackson",
+  "link": "https://www.uu.edu"
+ },
+ {
+  "college": "Drury University",
+  "place": "Springfield ...",
+  "link": "https://www.drury.edu"
+ },
+ {
+  "college": "Queens University of Charlotte",
+  "place": "Charlotte",
+  "link": "https://www.queens.edu"
+ },
+ {
+  "college": "Bellevue College",
+  "place": "Bellevue",
+  "link": "https://www.bellevuecollege.edu"
+ },
+ {
+  "college": "St. Ambrose University",
+  "place": "Davenport",
+  "link": "http://www.sau.edu"
+ },
+ {
+  "college": "Lycoming College",
+  "place": "Williamsport",
+  "link": "https://www.lycoming.edu"
+ },
+ {
+  "college": "Eastern University",
+  "place": "St. Davids",
+  "link": "https://www.eastern.edu"
+ },
+ {
+  "college": "Franklin W. Olin College of Engineering",
+  "place": "Needham",
+  "link": "https://www.olin.edu"
+ },
+ {
+  "college": "Lake Forest College",
+  "place": "Lake Forest",
+  "link": "https://www.lakeforest.edu"
+ },
+ {
+  "college": "Texas A\u0026M University at Galveston",
+  "place": "Galveston",
+  "link": "https://www.tamug.edu"
+ },
+ {
+  "college": "Northwest Nazarene University",
+  "place": "Nampa",
+  "link": "https://www.nnu.edu"
+ },
+ {
+  "college": "Marymount University",
+  "place": "Arlington",
+  "link": "https://marymount.edu"
+ },
+ {
+  "college": "Indiana University South Bend",
+  "place": "South Bend ...",
+  "link": "https://www.iusb.edu"
+ },
+ {
+  "college": "Virginia State University",
+  "place": "Petersburg",
+  "link": "https://www.vsu.edu"
+ },
+ {
+  "college": "Stonehill College",
+  "place": "Easton",
+  "link": "https://www.stonehill.edu"
+ },
+ {
+  "college": "Eastern Oregon University",
+  "place": "La Grande",
+  "link": "https://www.eou.edu"
+ },
+ {
+  "college": "Eastern New Mexico University",
+  "place": "Portales",
+  "link": "https://www.enmu.edu"
+ },
+ {
+  "college": "Norfolk State University",
+  "place": "Norfolk",
+  "link": "https://www.nsu.edu"
+ },
+ {
+  "college": "Cornell College",
+  "place": "Mount Vernon",
+  "link": "https://www.cornellcollege.edu"
+ },
+ {
+  "college": "University of Central Oklahoma",
+  "place": "Edmond",
+  "link": "https://www.uco.edu"
+ },
+ {
+  "college": "Southern Adventist University",
+  "place": "Collegedale",
+  "link": "https://www.southern.edu"
+ },
+ {
+  "college": "Eastern Connecticut State University",
+  "place": "Willimantic",
+  "link": "https://www.easternct.edu"
+ },
+ {
+  "college": "Northern State University",
+  "place": "Aberdeen",
+  "link": "https://www.northern.edu"
+ },
+ {
+  "college": "Montana State University Billings",
+  "place": "Billings",
+  "link": "https://www.msubillings.edu"
+ },
+ {
+  "college": "Tougaloo College",
+  "place": "Tougaloo ...",
+  "link": "https://www.tougaloo.edu"
+ },
+ {
+  "college": "Meredith College",
+  "place": "Raleigh",
+  "link": "https://www.meredith.edu"
+ },
+ {
+  "college": "Winston-Salem State University",
+  "place": "Winston-Salem",
+  "link": "https://www.wssu.edu"
+ },
+ {
+  "college": "Keiser University",
+  "place": "Fort Lauderdale",
+  "link": "https://www.keiseruniversity.edu"
+ },
+ {
+  "college": "New College of Florida",
+  "place": "Sarasota",
+  "link": "https://www.ncf.edu"
+ },
+ {
+  "college": "University of Hawaii at Hilo",
+  "place": "Hilo",
+  "link": "https://hilo.hawaii.edu"
+ },
+ {
+  "college": "University of Massachusetts Global",
+  "place": "Irvine",
+  "link": "https://www.umassglobal.edu"
+ },
+ {
+  "college": "Gannon University",
+  "place": "Erie",
+  "link": "https://www.gannon.edu"
+ },
+ {
+  "college": "Dominican University",
+  "place": "River Forest",
+  "link": "https://www.dom.edu"
+ },
+ {
+  "college": "Flagler College",
+  "place": "St. Augustine ...",
+  "link": "https://www.flagler.edu"
+ },
+ {
+  "college": "Baker College",
+  "place": "Flint ...",
+  "link": "https://www.baker.edu"
+ },
+ {
+  "college": "Kentucky State University",
+  "place": "Frankfort",
+  "link": "https://www.kysu.edu"
+ },
+ {
+  "college": "Southwest Minnesota State University",
+  "place": "Marshall",
+  "link": "https://www.smsu.edu"
+ },
+ {
+  "college": "New York Medical College",
+  "place": "Valhalla",
+  "link": "https://www.nymc.edu"
+ },
+ {
+  "college": "University of La Verne",
+  "place": "La Verne ...",
+  "link": "https://laverne.edu"
+ },
+ {
+  "college": "Northeastern State University",
+  "place": "Tahlequah",
+  "link": "https://www.nsuok.edu"
+ },
+ {
+  "college": "Chicago State University",
+  "place": "Chicago",
+  "link": "https://www.csu.edu"
+ },
+ {
+  "college": "New England Conservatory",
+  "place": "Boston",
+  "link": "https://necmusic.edu"
+ },
+ {
+  "college": "Park University",
+  "place": "Parkville ...",
+  "link": "https://www.park.edu"
+ },
+ {
+  "college": "PennWest Clarion",
+  "place": "Clarion",
+  "link": "https://www.clarion.edu"
+ },
+ {
+  "college": "East Stroudsburg University",
+  "place": "East Stroudsburg",
+  "link": "https://www.esu.edu"
+ },
+ {
+  "college": "Northwestern State University of Louisiana",
+  "place": "Natchitoches",
+  "link": "https://www.nsula.edu"
+ },
+ {
+  "college": "Ringling College of Art and Design",
+  "place": "Sarasota",
+  "link": "https://www.ringling.edu"
+ },
+ {
+  "college": "York College of Pennsylvania",
+  "place": "York",
+  "link": "https://www.ycp.edu"
+ },
+ {
+  "college": "Wittenberg University",
+  "place": "Springfield",
+  "link": "https://www.wittenberg.edu"
+ },
+ {
+  "college": "Montana Tech",
+  "place": "Butte",
+  "link": "https://www.mtech.edu"
+ },
+ {
+  "college": "Herzing University",
+  "place": "Madison",
+  "link": "https://www.herzing.edu"
+ },
+ {
+  "college": "Shenandoah University",
+  "place": "Winchester",
+  "link": "https://www.su.edu"
+ },
+ {
+  "college": "Bemidji State University",
+  "place": "Bemidji",
+  "link": "https://www.bemidjistate.edu"
+ },
+ {
+  "college": "United States Merchant Marine Academy",
+  "place": "Kings Point ...",
+  "link": "https://www.usmma.edu"
+ },
+ {
+  "college": "Oregon Institute of Technology",
+  "place": "Klamath Falls",
+  "link": "https://www.oit.edu"
+ },
+ {
+  "college": "Christian Brothers University",
+  "place": "Memphis",
+  "link": "https://www.cbu.edu"
+ },
+ {
+  "college": "United States Coast Guard Academy",
+  "place": "New London",
+  "link": "https://www.uscga.edu"
+ },
+ {
+  "college": "Seminole State College of Florida",
+  "place": "Sanford",
+  "link": "https://www.seminolestate.edu"
+ },
+ {
+  "college": "Clayton State University",
+  "place": "Morrow",
+  "link": "https://www.clayton.edu"
+ },
+ {
+  "college": "Concordia University, St. Paul",
+  "place": "Saint Paul",
+  "link": "https://www.csp.edu"
+ },
+ {
+  "college": "Mercyhurst University",
+  "place": "Erie",
+  "link": "https://www.mercyhurst.edu"
+ },
+ {
+  "college": "Minneapolis College of Art and Design",
+  "place": "Minneapolis",
+  "link": "https://www.mcad.edu"
+ },
+ {
+  "college": "Robert Morris University",
+  "place": "Moon Township ...",
+  "link": "https://www.rmu.edu"
+ },
+ {
+  "college": "Wentworth Institute of Technology",
+  "place": "Boston",
+  "link": "https://wit.edu"
+ },
+ {
+  "college": "Florida State College at Jacksonville",
+  "place": "Jacksonville",
+  "link": "https://www.fscj.edu"
+ },
+ {
+  "college": "Bridgewater College",
+  "place": "Bridgewater",
+  "link": "https://www.bridgewater.edu"
+ },
+ {
+  "college": "Mitchell Hamline School of Law",
+  "place": "Saint Paul",
+  "link": "https://mitchellhamline.edu"
+ },
+ {
+  "college": "Linfield University",
+  "place": "McMinnville ...",
+  "link": "https://www.linfield.edu"
+ },
+ {
+  "college": "University of North Carolina School of the Arts",
+  "place": "Winston-Salem",
+  "link": "https://www.uncsa.edu"
+ },
+ {
+  "college": "Brooklyn College",
+  "place": "Brooklyn",
+  "link": "http://www.brooklyn.cuny.edu"
+ },
+ {
+  "college": "Alabama A\u0026M University",
+  "place": "Huntsville",
+  "link": "https://www.aamu.edu"
+ },
+ {
+  "college": "Austin College",
+  "place": "Sherman",
+  "link": "https://www.austincollege.edu"
+ },
+ {
+  "college": "Nazareth College",
+  "place": "Rochester",
+  "link": "https://www2.naz.edu"
+ },
+ {
+  "college": "Saint Mary's University of Minnesota",
+  "place": "Winona ...",
+  "link": "https://www.smumn.edu"
+ },
+ {
+  "college": "Franciscan University of Steubenville",
+  "place": "Steubenville",
+  "link": "https://franciscan.edu"
+ },
+ {
+  "college": "Concordia University Irvine",
+  "place": "Irvine",
+  "link": "https://www.cui.edu"
+ },
+ {
+  "college": "Point Loma Nazarene University",
+  "place": "San Diego ...",
+  "link": "https://www.pointloma.edu"
+ },
+ {
+  "college": "Western Colorado University",
+  "place": "Gunnison",
+  "link": "https://western.edu"
+ },
+ {
+  "college": "Manhattanville College",
+  "place": "Purchase",
+  "link": "https://www.mville.edu"
+ },
+ {
+  "college": "Spring Hill College",
+  "place": "Mobile",
+  "link": "https://www.shc.edu"
+ },
+ {
+  "college": "Alliant International University",
+  "place": "San Diego ...",
+  "link": "https://www.alliant.edu"
+ },
+ {
+  "college": "McNeese State University",
+  "place": "Lake Charles",
+  "link": "https://www.mcneese.edu"
+ },
+ {
+  "college": "PennWest Edinboro",
+  "place": "Edinboro",
+  "link": "https://www.edinboro.edu"
+ },
+ {
+  "college": "Indiana University Southeast",
+  "place": "New Albany",
+  "link": "https://www.ius.edu"
+ },
+ {
+  "college": "Dillard University",
+  "place": "New Orleans",
+  "link": "https://www.dillard.edu"
+ },
+ {
+  "college": "Mayo Clinic College of Medicine and Science",
+  "place": "Rochester",
+  "link": "https://college.mayo.edu"
+ },
+ {
+  "college": "Point Park University",
+  "place": "Pittsburgh",
+  "link": "https://www.pointpark.edu"
+ },
+ {
+  "college": "University of Northwestern - St. Paul",
+  "place": "Saint Paul ...",
+  "link": "https://unwsp.edu"
+ },
+ {
+  "college": "Hampden-Sydney College",
+  "place": "Hampden-Sydney",
+  "link": "https://www.hsc.edu"
+ },
+ {
+  "college": "Lynn University",
+  "place": "Boca Raton",
+  "link": "https://www.lynn.edu"
+ },
+ {
+  "college": "Hollins University",
+  "place": "Roanoke",
+  "link": "https://hollins.edu"
+ },
+ {
+  "college": "Curtis Institute of Music",
+  "place": "Philadelphia",
+  "link": "https://www.curtis.edu"
+ },
+ {
+  "college": "ECPI University",
+  "place": "Virginia Beach",
+  "link": "https://www.ecpi.edu"
+ },
+ {
+  "college": "Marian University",
+  "place": "Indianapolis",
+  "link": "https://www.marian.edu"
+ },
+ {
+  "college": "Millikin University",
+  "place": "Decatur",
+  "link": "https://millikin.edu"
+ },
+ {
+  "college": "Farmingdale State College",
+  "place": "Farmingdale",
+  "link": "https://www.farmingdale.edu"
+ },
+ {
+  "college": "St John's College",
+  "place": "Annapolis ...",
+  "link": "https://www.sjc.edu"
+ },
+ {
+  "college": "University of North Texas Health Science Center",
+  "place": "Fort Worth",
+  "link": "https://www.unthsc.edu"
+ },
+ {
+  "college": "The Graduate Center, CUNY",
+  "place": "New York City",
+  "link": "https://www.gc.cuny.edu"
+ },
+ {
+  "college": "Morehead State University",
+  "place": "Morehead ...",
+  "link": "https://www.moreheadstate.edu"
+ },
+ {
+  "college": "Westminster College, Pennsylvania",
+  "place": "New Wilmington",
+  "link": "https://www.westminster.edu"
+ },
+ {
+  "college": "Grambling State University",
+  "place": "Grambling",
+  "link": "https://www.gram.edu"
+ },
+ {
+  "college": "Warren Wilson College",
+  "place": "Swannanoa",
+  "link": "https://www.warren-wilson.edu"
+ },
+ {
+  "college": "Lincoln University",
+  "place": "Lincoln University",
+  "link": "https://www.lincoln.edu"
+ },
+ {
+  "college": "College of the Atlantic",
+  "place": "Bar Harbor",
+  "link": "https://www.coa.edu"
+ },
+ {
+  "college": "Rockhurst University",
+  "place": "Kansas City",
+  "link": "https://www.rockhurst.edu"
+ },
+ {
+  "college": "Guilford College",
+  "place": "Greensboro",
+  "link": "https://www.guilford.edu"
+ },
+ {
+  "college": "Wartburg College",
+  "place": "Waverly",
+  "link": "https://www.wartburg.edu"
+ },
+ {
+  "college": "Central College",
+  "place": "Pella",
+  "link": "https://central.edu"
+ },
+ {
+  "college": "Scripps College",
+  "place": "Claremont",
+  "link": "https://www.scrippscollege.edu"
+ },
+ {
+  "college": "St. Thomas University",
+  "place": "Miami Gardens",
+  "link": "https://www.stu.edu"
+ },
+ {
+  "college": "Wilmington University",
+  "place": "New Castle ...",
+  "link": "https://www.wilmu.edu"
+ },
+ {
+  "college": "Keck Graduate Institute",
+  "place": "Claremont",
+  "link": "https://www.kgi.edu"
+ },
+ {
+  "college": "Walsh University",
+  "place": "North Canton",
+  "link": "https://www.walsh.edu"
+ },
+ {
+  "college": "A.T. Still University",
+  "place": "Kirksville ...",
+  "link": "https://www.atsu.edu"
+ },
+ {
+  "college": "Whitworth University",
+  "place": "Spokane",
+  "link": "https://www.whitworth.edu"
+ },
+ {
+  "college": "Carroll University",
+  "place": "Waukesha ...",
+  "link": "https://www.carrollu.edu"
+ },
+ {
+  "college": "Simpson College",
+  "place": "Indianola",
+  "link": "https://simpson.edu"
+ },
+ {
+  "college": "Lewis-Clark State College",
+  "place": "Lewiston ...",
+  "link": "https://www.lcsc.edu"
+ },
+ {
+  "college": "Coe College",
+  "place": "Cedar Rapids",
+  "link": "https://www.coe.edu"
+ },
+ {
+  "college": "The American College of Financial Services",
+  "place": "Bryn Mawr",
+  "link": "https://www.theamericancollege.edu"
+ },
+ {
+  "college": "Des Moines University",
+  "place": "Des Moines",
+  "link": "https://www.dmu.edu"
+ },
+ {
+  "college": "The University of West Alabama",
+  "place": "Livingston",
+  "link": "https://www.uwa.edu"
+ },
+ {
+  "college": "Lebanon Valley College",
+  "place": "Annville",
+  "link": "https://www.lvc.edu"
+ },
+ {
+  "college": "Endicott College",
+  "place": "Beverly",
+  "link": "https://www.endicott.edu"
+ },
+ {
+  "college": "Columbia College",
+  "place": "Columbia",
+  "link": "https://www.ccis.edu"
+ },
+ {
+  "college": "Transylvania University",
+  "place": "Lexington",
+  "link": "https://www.transy.edu"
+ },
+ {
+  "college": "Hartwick College",
+  "place": "Oneonta",
+  "link": "https://www.hartwick.edu"
+ },
+ {
+  "college": "Fresno Pacific University",
+  "place": "Fresno ...",
+  "link": "https://www.fresno.edu"
+ },
+ {
+  "college": "San Francisco Art Institute",
+  "place": "San Francisco",
+  "link": "https://sfai.edu"
+ },
+ {
+  "college": "Concordia University Texas",
+  "place": "Austin",
+  "link": "https://www.concordia.edu"
+ },
+ {
+  "college": "St. Joseph's University",
+  "place": "Brooklyn ...",
+  "link": "https://www.sjny.edu"
+ },
+ {
+  "college": "Lee University",
+  "place": "Cleveland",
+  "link": "https://www.leeuniversity.edu"
+ },
+ {
+  "college": "College of Southern Nevada",
+  "place": "Las Vegas",
+  "link": "https://www.csn.edu"
+ },
+ {
+  "college": "Southeastern University",
+  "place": "Lakeland",
+  "link": "https://seu.edu"
+ },
+ {
+  "college": "Gwynedd Mercy University",
+  "place": "Gwynedd Valley",
+  "link": "https://www.gmercyu.edu"
+ },
+ {
+  "college": "Francis Marion University",
+  "place": "Florence",
+  "link": "https://www.fmarion.edu"
+ },
+ {
+  "college": "Wayne State College",
+  "place": "Wayne",
+  "link": "https://www.wsc.edu"
+ },
+ {
+  "college": "Saint Xavier University",
+  "place": "Chicago",
+  "link": "https://www.sxu.edu"
+ },
+ {
+  "college": "Framingham State University",
+  "place": "Framingham",
+  "link": "https://www.framingham.edu"
+ },
+ {
+  "college": "Charleston Southern University",
+  "place": "Charleston",
+  "link": "https://www.charlestonsouthern.edu"
+ },
+ {
+  "college": "John Brown University",
+  "place": "Siloam Springs",
+  "link": "https://www.jbu.edu"
+ },
+ {
+  "college": "Nicholls State University",
+  "place": "Thibodaux",
+  "link": "https://www.nicholls.edu"
+ },
+ {
+  "college": "Vincennes University",
+  "place": "Vincennes",
+  "link": "https://www.vinu.edu"
+ },
+ {
+  "college": "The University of Texas Permian Basin",
+  "place": "Odessa",
+  "link": "https://www.utpb.edu"
+ },
+ {
+  "college": "Spring Arbor University",
+  "place": "Spring Arbor",
+  "link": "https://www.arbor.edu"
+ },
+ {
+  "college": "University of Maryland Eastern Shore",
+  "place": "Princess Anne",
+  "link": "https://www.umes.edu"
+ },
+ {
+  "college": "Centenary College of Louisiana",
+  "place": "Shreveport",
+  "link": "https://www.centenary.edu"
+ },
+ {
+  "college": "Dallas Baptist University",
+  "place": "Dallas",
+  "link": "https://www.dbu.edu"
+ },
+ {
+  "college": "Unity College",
+  "place": "Unity",
+  "link": "https://unity.edu"
+ },
+ {
+  "college": "Meharry Medical College",
+  "place": "Nashville",
+  "link": "https://www.mmc.edu"
+ },
+ {
+  "college": "Rogers State University",
+  "place": "Claremore",
+  "link": "https://www.rsu.edu"
+ },
+ {
+  "college": "Albright College",
+  "place": "Reading",
+  "link": "https://www.albright.edu"
+ },
+ {
+  "college": "University of Wisconsin-Superior",
+  "place": "Superior",
+  "link": "https://www.uwsuper.edu"
+ },
+ {
+  "college": "Saint Mary's College",
+  "place": "Notre Dame ...",
+  "link": "https://www.saintmarys.edu"
+ },
+ {
+  "college": "Buena Vista University",
+  "place": "Storm Lake",
+  "link": "https://www.bvu.edu"
+ },
+ {
+  "college": "Washington \u0026 Jefferson College",
+  "place": "Washington",
+  "link": "https://www.washjeff.edu"
+ },
+ {
+  "college": "Bank Street College of Education",
+  "place": "New York City",
+  "link": "https://www.bankstreet.edu"
+ },
+ {
+  "college": "Seattle Central College",
+  "place": "Seattle",
+  "link": "https://seattlecentral.edu"
+ },
+ {
+  "college": "Metropolitan State University",
+  "place": "Saint Paul",
+  "link": "https://www.metrostate.edu"
+ },
+ {
+  "college": "Otterbein University",
+  "place": "Westerville",
+  "link": "https://www.otterbein.edu"
+ },
+ {
+  "college": "Cameron University",
+  "place": "Lawton ...",
+  "link": "https://www.cameron.edu"
+ },
+ {
+  "college": "Saint Vincent College",
+  "place": "Latrobe",
+  "link": "https://www.stvincent.edu"
+ },
+ {
+  "college": "Southern Nazarene University",
+  "place": "Bethany ...",
+  "link": "https://www.snu.edu"
+ },
+ {
+  "college": "Manchester University",
+  "place": "North Manchester ...",
+  "link": "https://www.manchester.edu"
+ },
+ {
+  "college": "Adrian College",
+  "place": "Adrian",
+  "link": "http://adrian.edu"
+ },
+ {
+  "college": "Marywood University",
+  "place": "Scranton",
+  "link": "http://www.marywood.edu"
+ },
+ {
+  "college": "Randolph-Macon College",
+  "place": "Ashland",
+  "link": "https://www.rmc.edu"
+ },
+ {
+  "college": "Lindsey Wilson College",
+  "place": "Columbia",
+  "link": "https://www.lindsey.edu"
+ },
+ {
+  "college": "University of St. Francis",
+  "place": "Joliet",
+  "link": "https://www.stfrancis.edu"
+ },
+ {
+  "college": "Shepherd University",
+  "place": "Shepherdstown",
+  "link": "https://www.shepherd.edu"
+ },
+ {
+  "college": "Wagner College",
+  "place": "Staten Island",
+  "link": "https://wagner.edu"
+ },
+ {
+  "college": "Carroll College",
+  "place": "Helena",
+  "link": "https://www.carroll.edu"
+ },
+ {
+  "college": "Nebraska Wesleyan University",
+  "place": "Lincoln ...",
+  "link": "https://www.nebrwesleyan.edu"
+ },
+ {
+  "college": "MCPHS University",
+  "place": "Boston ...",
+  "link": "https://www.mcphs.edu"
+ },
+ {
+  "college": "University of South Carolina-Upstate",
+  "place": "Spartanburg",
+  "link": "https://www.uscupstate.edu"
+ },
+ {
+  "college": "Louisiana State University in Shreveport",
+  "place": "Shreveport ...",
+  "link": "https://www.lsus.edu"
+ },
+ {
+  "college": "Palm Beach Atlantic University",
+  "place": "West Palm Beach ...",
+  "link": "https://www.pba.edu"
+ },
+ {
+  "college": "Capitol Technology University",
+  "place": "Laurel",
+  "link": "https://www.captechu.edu"
+ },
+ {
+  "college": "Colorado State University-Pueblo",
+  "place": "Pueblo ...",
+  "link": "https://www.csupueblo.edu"
+ },
+ {
+  "college": "Oglethorpe University",
+  "place": "Atlanta",
+  "link": "https://oglethorpe.edu"
+ },
+ {
+  "college": "Geneva College",
+  "place": "Beaver Falls",
+  "link": "https://www.geneva.edu"
+ },
+ {
+  "college": "Lincoln University, Missouri",
+  "place": "Jefferson City",
+  "link": "https://www.lincolnu.edu"
+ },
+ {
+  "college": "University of St. Thomas",
+  "place": "Houston",
+  "link": "https://www.stthom.edu"
+ },
+ {
+  "college": "Mount St. Joseph University",
+  "place": "Cincinnati",
+  "link": "https://www.msj.edu"
+ },
+ {
+  "college": "University of Mary Hardin-Baylor",
+  "place": "Belton",
+  "link": "https://www.umhb.edu"
+ },
+ {
+  "college": "Southeastern Oklahoma State University",
+  "place": "Durant",
+  "link": "https://www.se.edu"
+ },
+ {
+  "college": "Delta State University",
+  "place": "Cleveland",
+  "link": "https://www.deltastate.edu"
+ },
+ {
+  "college": "Alvernia University",
+  "place": "Reading",
+  "link": "https://www.alvernia.edu"
+ },
+ {
+  "college": "Palm Beach State College",
+  "place": "Lake Worth",
+  "link": "https://www.palmbeachstate.edu"
+ },
+ {
+  "college": "University of South Carolina-Aiken",
+  "place": "Aiken",
+  "link": "https://www.usca.edu"
+ },
+ {
+  "college": "Missouri Western State University",
+  "place": "St. Joseph",
+  "link": "https://www.missouriwestern.edu"
+ },
+ {
+  "college": "Alma College",
+  "place": "Alma",
+  "link": "https://www.alma.edu"
+ },
+ {
+  "college": "Chaminade University of Honolulu",
+  "place": "Honolulu",
+  "link": "https://chaminade.edu"
+ },
+ {
+  "college": "Houston Baptist University",
+  "place": "Houston",
+  "link": "https://hbu.edu"
+ },
+ {
+  "college": "Adams State University",
+  "place": "Alamosa",
+  "link": "https://www.adams.edu"
+ },
+ {
+  "college": "Naropa University",
+  "place": "Boulder",
+  "link": "https://www.naropa.edu"
+ },
+ {
+  "college": "Edgewood College",
+  "place": "Madison",
+  "link": "https://www.edgewood.edu"
+ },
+ {
+  "college": "Oklahoma Christian University",
+  "place": "Edmond ...",
+  "link": "https://www.oc.edu"
+ },
+ {
+  "college": "Morrisville State College",
+  "place": "Morrisville",
+  "link": "https://www.morrisville.edu"
+ },
+ {
+  "college": "Worcester State University",
+  "place": "Worcester",
+  "link": "https://www.worcester.edu"
+ },
+ {
+  "college": "Husson University",
+  "place": "Bangor",
+  "link": "https://www.husson.edu"
+ },
+ {
+  "college": "Ripon College",
+  "place": "Ripon",
+  "link": "https://ripon.edu"
+ },
+ {
+  "college": "Davenport University",
+  "place": "Grand Rapids ...",
+  "link": "https://www.davenport.edu"
+ },
+ {
+  "college": "New England College",
+  "place": "Henniker ...",
+  "link": "https://www.nec.edu"
+ },
+ {
+  "college": "Saint Martin's University",
+  "place": "Lacey",
+  "link": "https://www.stmartin.edu"
+ },
+ {
+  "college": "Southwestern Law School",
+  "place": "Los Angeles",
+  "link": "https://www.swlaw.edu"
+ },
+ {
+  "college": "South Texas College of Law",
+  "place": "Houston",
+  "link": "https://www.stcl.edu"
+ },
+ {
+  "college": "King University",
+  "place": "Bristol",
+  "link": "https://www.king.edu"
+ },
+ {
+  "college": "Fitchburg State University",
+  "place": "Fitchburg",
+  "link": "https://www.fitchburgstate.edu"
+ },
+ {
+  "college": "Boston Architectural College",
+  "place": "Boston",
+  "link": "https://the-bac.edu"
+ },
+ {
+  "college": "Trinity Washington University",
+  "place": "Washington",
+  "link": "https://www.trinitydc.edu"
+ },
+ {
+  "college": "The Sage Colleges",
+  "place": "Troy ...",
+  "link": "https://www.sage.edu"
+ },
+ {
+  "college": "Chamberlain University",
+  "place": "Addison ...",
+  "link": "https://www.chamberlain.edu"
+ },
+ {
+  "college": "University of Mary",
+  "place": "Bismarck",
+  "link": "https://www.umary.edu"
+ },
+ {
+  "college": "Upper Iowa University",
+  "place": "Fayette ...",
+  "link": "https://uiu.edu"
+ },
+ {
+  "college": "Shawnee State University",
+  "place": "Portsmouth",
+  "link": "https://www.shawnee.edu"
+ },
+ {
+  "college": "Indiana University Northwest",
+  "place": "Gary",
+  "link": "https://www.iun.edu"
+ },
+ {
+  "college": "Dordt University",
+  "place": "Sioux Center",
+  "link": "https://www.dordt.edu"
+ },
+ {
+  "college": "Western New Mexico University",
+  "place": "Silver City",
+  "link": "https://wnmu.edu"
+ },
+ {
+  "college": "College for Creative Studies",
+  "place": "Detroit",
+  "link": "https://www.collegeforcreativestudies.edu"
+ },
+ {
+  "college": "Presbyterian College",
+  "place": "Clinton",
+  "link": "https://www.presby.edu"
+ },
+ {
+  "college": "Alverno College",
+  "place": "Milwaukee",
+  "link": "https://www.alverno.edu"
+ },
+ {
+  "college": "La Sierra University",
+  "place": "Riverside",
+  "link": "https://lasierra.edu"
+ },
+ {
+  "college": "Pacific Union College",
+  "place": "Angwin",
+  "link": "https://www.puc.edu"
+ },
+ {
+  "college": "Sterling College",
+  "place": "Sterling",
+  "link": "https://www.sterling.edu"
+ },
+ {
+  "college": "Albany State University",
+  "place": "Albany",
+  "link": "https://www.asurams.edu"
+ },
+ {
+  "college": "D'Youville College",
+  "place": "Buffalo",
+  "link": "http://www.dyc.edu"
+ },
+ {
+  "college": "Southwestern Oklahoma State University",
+  "place": "Weatherford ...",
+  "link": "https://www.swosu.edu"
+ },
+ {
+  "college": "Northwood University",
+  "place": "Midland ...",
+  "link": "https://www.northwood.edu"
+ },
+ {
+  "college": "Alabama State University",
+  "place": "Montgomery",
+  "link": "https://www.alasu.edu"
+ },
+ {
+  "college": "Ottawa University",
+  "place": "Ottawa ...",
+  "link": "https://www.ottawa.edu"
+ },
+ {
+  "college": "Cornerstone University",
+  "place": "Grand Rapids",
+  "link": "https://www.cornerstone.edu"
+ },
+ {
+  "college": "Lenoir-Rhyne University",
+  "place": "Hickory",
+  "link": "https://www.lr.edu"
+ },
+ {
+  "college": "Vanguard University of Southern California",
+  "place": "Costa Mesa ...",
+  "link": "https://www.vanguard.edu"
+ },
+ {
+  "college": "Southwestern College",
+  "place": "Winfield",
+  "link": "https://www.sckans.edu"
+ },
+ {
+  "college": "Walla Walla University",
+  "place": "College Place",
+  "link": "https://www.wallawalla.edu"
+ },
+ {
+  "college": "Nichols College",
+  "place": "Dudley",
+  "link": "https://www.nichols.edu"
+ },
+ {
+  "college": "Aquinas College",
+  "place": "Grand Rapids",
+  "link": "https://www.aquinas.edu"
+ },
+ {
+  "college": "The College of Saint Rose",
+  "place": "Albany",
+  "link": "https://www.strose.edu"
+ },
+ {
+  "college": "Trinity International University",
+  "place": "Deerfield ...",
+  "link": "https://www.tiu.edu"
+ },
+ {
+  "college": "Hiram College",
+  "place": "Hiram",
+  "link": "https://www.hiram.edu"
+ },
+ {
+  "college": "California State University Maritime Academy",
+  "place": "Vallejo",
+  "link": "https://www.csum.edu"
+ },
+ {
+  "college": "Ouachita Baptist University",
+  "place": "Arkadelphia",
+  "link": "https://obu.edu"
+ },
+ {
+  "college": "Saint Francis University",
+  "place": "Loretto",
+  "link": "https://www.francis.edu"
+ },
+ {
+  "college": "Bennett College",
+  "place": "Greensboro",
+  "link": "https://www.bennett.edu"
+ },
+ {
+  "college": "Bethel College",
+  "place": "North Newton",
+  "link": "https://www.bethelks.edu"
+ },
+ {
+  "college": "McKendree University",
+  "place": "Lebanon",
+  "link": "https://www.mckendree.edu"
+ },
+ {
+  "college": "Birmingham-Southern College",
+  "place": "Birmingham",
+  "link": "https://www.bsc.edu"
+ },
+ {
+  "college": "Molloy University",
+  "place": "Rockville Centre",
+  "link": "https://www.molloy.edu"
+ },
+ {
+  "college": "Grace College",
+  "place": "Winona Lake ...",
+  "link": "https://www.grace.edu"
+ },
+ {
+  "college": "Edward Waters University",
+  "place": "Jacksonville",
+  "link": "https://www.ew.edu"
+ },
+ {
+  "college": "Daemen College",
+  "place": "Amherst",
+  "link": "https://www.daemen.edu"
+ },
+ {
+  "college": "College of the Ozarks",
+  "place": "Point Lookout",
+  "link": "https://www.cofo.edu"
+ },
+ {
+  "college": "Viterbo University",
+  "place": "La Crosse",
+  "link": "https://www.viterbo.edu"
+ },
+ {
+  "college": "PennWest California",
+  "place": "California",
+  "link": "https://www.calu.edu"
+ },
+ {
+  "college": "Paul Smith's College",
+  "place": "Paul Smiths",
+  "link": "https://www.paulsmiths.edu"
+ },
+ {
+  "college": "Maine Maritime Academy",
+  "place": "Castine",
+  "link": "http://mainemaritime.edu"
+ },
+ {
+  "college": "Maine College of Art",
+  "place": "Portland",
+  "link": "https://www.meca.edu"
+ },
+ {
+  "college": "San Francisco Conservatory of Music",
+  "place": "San Francisco",
+  "link": "https://sfcm.edu"
+ },
+ {
+  "college": "West Virginia State University",
+  "place": "Institute",
+  "link": "https://www.wvstateu.edu"
+ },
+ {
+  "college": "Manhattan School of Music",
+  "place": "New York City",
+  "link": "https://www.msmnyc.edu"
+ },
+ {
+  "college": "Trine University",
+  "place": "Angola",
+  "link": "https://www.trine.edu"
+ },
+ {
+  "college": "Notre Dame of Maryland University",
+  "place": "Baltimore",
+  "link": "https://www.ndm.edu"
+ },
+ {
+  "college": "John Jay College of Criminal Justice",
+  "place": "New York City",
+  "link": "http://www.jjay.cuny.edu"
+ },
+ {
+  "college": "Doane University",
+  "place": "Crete",
+  "link": "https://www.doane.edu"
+ },
+ {
+  "college": "Virginia Wesleyan University",
+  "place": "Virginia Beach",
+  "link": "https://www.vwu.edu"
+ },
+ {
+  "college": "Roberts Wesleyan College",
+  "place": "Rochester",
+  "link": "https://www.roberts.edu"
+ },
+ {
+  "college": "Black Hills State University",
+  "place": "Spearfish",
+  "link": "https://www.bhsu.edu"
+ },
+ {
+  "college": "Millsaps College",
+  "place": "Jackson",
+  "link": "https://www.millsaps.edu"
+ },
+ {
+  "college": "Emmanuel College",
+  "place": "Boston",
+  "link": "https://www.emmanuel.edu"
+ },
+ {
+  "college": "New Mexico Highlands University",
+  "place": "Las Vegas",
+  "link": "https://www.nmhu.edu"
+ },
+ {
+  "college": "New England Law | Boston",
+  "place": "Boston",
+  "link": "https://www.nesl.edu"
+ },
+ {
+  "college": "Benedictine College",
+  "place": "Atchison",
+  "link": "https://www.benedictine.edu"
+ },
+ {
+  "college": "LeTourneau University",
+  "place": "Longview",
+  "link": "https://www.letu.edu"
+ },
+ {
+  "college": "Brenau University",
+  "place": "Gainesville",
+  "link": "https://www.brenau.edu"
+ },
+ {
+  "college": "Mississippi University for Women",
+  "place": "Columbus",
+  "link": "https://www.muw.edu"
+ },
+ {
+  "college": "Carlow University",
+  "place": "Pittsburgh",
+  "link": "https://www.carlow.edu"
+ },
+ {
+  "college": "Daytona State College",
+  "place": "Daytona Beach",
+  "link": "https://www.daytonastate.edu"
+ },
+ {
+  "college": "South Carolina State University",
+  "place": "Orangeburg",
+  "link": "https://scsu.edu"
+ },
+ {
+  "college": "Quincy University",
+  "place": "Quincy",
+  "link": "https://www.quincy.edu"
+ },
+ {
+  "college": "Houghton College",
+  "place": "Houghton ...",
+  "link": "https://www.houghton.edu"
+ },
+ {
+  "college": "East Central University",
+  "place": "Ada",
+  "link": "https://www.ecok.edu"
+ },
+ {
+  "college": "North Carolina Wesleyan University",
+  "place": "Rocky Mount ...",
+  "link": "https://ncwc.edu"
+ },
+ {
+  "college": "Alfred State College",
+  "place": "Alfred",
+  "link": "https://www.alfredstate.edu"
+ },
+ {
+  "college": "Rosalind Franklin University of Medicine and Science",
+  "place": "North Chicago",
+  "link": "https://www.rosalindfranklin.edu"
+ },
+ {
+  "college": "Mount St. Mary's University",
+  "place": "Emmitsburg ...",
+  "link": "https://msmary.edu"
+ },
+ {
+  "college": "Life University",
+  "place": "Marietta",
+  "link": "https://www.life.edu"
+ },
+ {
+  "college": "Mansfield University of Pennsylvania",
+  "place": "Mansfield",
+  "link": "https://www.mansfield.edu"
+ },
+ {
+  "college": "Savannah State University",
+  "place": "Savannah",
+  "link": "https://www.savannahstate.edu"
+ },
+ {
+  "college": "Belhaven University",
+  "place": "Jackson",
+  "link": "https://www.belhaven.edu"
+ },
+ {
+  "college": "Alaska Pacific University",
+  "place": "Anchorage",
+  "link": "https://www.alaskapacific.edu"
+ },
+ {
+  "college": "Greenville University",
+  "place": "Greenville",
+  "link": "https://www.greenville.edu"
+ },
+ {
+  "college": "West Coast University-Los Angeles",
+  "place": "North Hollywood",
+  "link": "https://westcoastuniversity.edu"
+ },
+ {
+  "college": "Our Lady of the Lake University",
+  "place": "San Antonio",
+  "link": "https://www.ollusa.edu"
+ },
+ {
+  "college": "Northern Vermont University",
+  "place": "Johnson ...",
+  "link": "https://www.northernvermont.edu"
+ },
+ {
+  "college": "Henderson State University",
+  "place": "Arkadelphia",
+  "link": "https://www.hsu.edu"
+ },
+ {
+  "college": "William Carey University",
+  "place": "Hattiesburg ...",
+  "link": "https://www.wmcarey.edu"
+ },
+ {
+  "college": "Concordia University, Nebraska",
+  "place": "Seward",
+  "link": "https://www.cune.edu"
+ },
+ {
+  "college": "Cardinal Stritch University",
+  "place": "Milwaukee",
+  "link": "https://www.stritch.edu"
+ },
+ {
+  "college": "Campbellsville University",
+  "place": "Campbellsville",
+  "link": "https://www.campbellsville.edu"
+ },
+ {
+  "college": "Chadron State College",
+  "place": "Chadron",
+  "link": "https://www.csc.edu"
+ },
+ {
+  "college": "Bard College at Simon's Rock",
+  "place": "Great Barrington",
+  "link": "https://simons-rock.edu"
+ },
+ {
+  "college": "Loras College",
+  "place": "Dubuque",
+  "link": "https://www.loras.edu"
+ },
+ {
+  "college": "Southern California Institute of Architecture",
+  "place": "Los Angeles",
+  "link": "https://www.sciarc.edu"
+ },
+ {
+  "college": "Elmira College",
+  "place": "Elmira",
+  "link": "https://www.elmira.edu"
+ },
+ {
+  "college": "Faulkner University",
+  "place": "Montgomery",
+  "link": "https://www.faulkner.edu"
+ },
+ {
+  "college": "Graceland University",
+  "place": "Lamoni",
+  "link": "https://www.graceland.edu"
+ },
+ {
+  "college": "Pfeiffer University",
+  "place": "Misenheimer",
+  "link": "https://www.pfeiffer.edu"
+ },
+ {
+  "college": "Cedar Crest College",
+  "place": "Allentown",
+  "link": "https://www.cedarcrest.edu"
+ },
+ {
+  "college": "Misericordia University",
+  "place": "Dallas",
+  "link": "https://www.misericordia.edu"
+ },
+ {
+  "college": "Albany Law School",
+  "place": "Albany",
+  "link": "https://www.albanylaw.edu"
+ },
+ {
+  "college": "American Jewish University",
+  "place": "Los Angeles ...",
+  "link": "https://www.aju.edu"
+ },
+ {
+  "college": "Delaware Valley University",
+  "place": "Doylestown",
+  "link": "https://delval.edu"
+ },
+ {
+  "college": "Emory \u0026 Henry College",
+  "place": "Emory ...",
+  "link": "https://www.ehc.edu"
+ },
+ {
+  "college": "Saint Peter's University",
+  "place": "Jersey City",
+  "link": "https://www.saintpeters.edu"
+ },
+ {
+  "college": "University of Montevallo",
+  "place": "Montevallo",
+  "link": "https://www.montevallo.edu"
+ },
+ {
+  "college": "Cleveland Institute of Art",
+  "place": "Cleveland",
+  "link": "https://www.cia.edu"
+ },
+ {
+  "college": "Heidelberg University",
+  "place": "Tiffin",
+  "link": "https://www.heidelberg.edu"
+ },
+ {
+  "college": "Middle Georgia State University",
+  "place": "Macon",
+  "link": "https://www.mga.edu"
+ },
+ {
+  "college": "University of Sioux Falls",
+  "place": "Sioux Falls",
+  "link": "https://www.usiouxfalls.edu"
+ },
+ {
+  "college": "Clarke University",
+  "place": "Dubuque",
+  "link": "https://www.clarke.edu"
+ },
+ {
+  "college": "Massachusetts College of Liberal Arts",
+  "place": "North Adams",
+  "link": "https://www.mcla.edu"
+ },
+ {
+  "college": "City University of Seattle",
+  "place": "Seattle ...",
+  "link": "https://www.cityu.edu"
+ },
+ {
+  "college": "Northwestern College",
+  "place": "Orange City",
+  "link": "https://www.nwciowa.edu"
+ },
+ {
+  "college": "Athens State University",
+  "place": "Athens",
+  "link": "https://www.athens.edu"
+ },
+ {
+  "college": "Huntington University",
+  "place": "Huntington ...",
+  "link": "https://www.huntington.edu"
+ },
+ {
+  "college": "SUNY Cobleskill",
+  "place": "Cobleskill",
+  "link": "https://www.cobleskill.edu"
+ },
+ {
+  "college": "University of Houston-Victoria",
+  "place": "Victoria",
+  "link": "https://www.uhv.edu"
+ },
+ {
+  "college": "Fort Valley State University",
+  "place": "Fort Valley",
+  "link": "https://www.fvsu.edu"
+ },
+ {
+  "college": "Anderson University, Indiana",
+  "place": "Anderson ...",
+  "link": "https://anderson.edu"
+ },
+ {
+  "college": "South Texas College",
+  "place": "McAllen",
+  "link": "https://www.southtexascollege.edu"
+ },
+ {
+  "college": "Asbury University",
+  "place": "Wilmore",
+  "link": "https://www.asbury.edu"
+ },
+ {
+  "college": "Bay Path University",
+  "place": "Longmeadow",
+  "link": "https://www.baypath.edu"
+ },
+ {
+  "college": "Mary Baldwin University",
+  "place": "Staunton",
+  "link": "https://marybaldwin.edu"
+ },
+ {
+  "college": "Texas Wesleyan University",
+  "place": "Fort Worth",
+  "link": "https://txwes.edu"
+ },
+ {
+  "college": "Goddard College",
+  "place": "Plainfield ...",
+  "link": "https://www.goddard.edu"
+ },
+ {
+  "college": "Central State University",
+  "place": "Wilberforce",
+  "link": "https://www.centralstate.edu"
+ },
+ {
+  "college": "Wilson College",
+  "place": "Chambersburg",
+  "link": "https://www.wilson.edu"
+ },
+ {
+  "college": "Coppin State University",
+  "place": "Baltimore",
+  "link": "https://www.coppin.edu"
+ },
+ {
+  "college": "Gardner-Webb University",
+  "place": "Boiling Springs ...",
+  "link": "https://gardner-webb.edu"
+ },
+ {
+  "college": "Alcorn State University",
+  "place": "Lorman",
+  "link": "https://www.alcorn.edu"
+ },
+ {
+  "college": "Queens College, City University of New York",
+  "place": "New York City",
+  "link": "https://www.qc.cuny.edu"
+ },
+ {
+  "college": "Mount Mercy University",
+  "place": "Cedar Rapids",
+  "link": "https://www.mtmercy.edu"
+ },
+ {
+  "college": "Sul Ross State University",
+  "place": "Alpine",
+  "link": "https://www.sulross.edu"
+ },
+ {
+  "college": "Neumann University",
+  "place": "Aston",
+  "link": "https://www.neumann.edu"
+ },
+ {
+  "college": "Montreat College",
+  "place": "Montreat ...",
+  "link": "https://www.montreat.edu"
+ },
+ {
+  "college": "Lyon College",
+  "place": "Batesville",
+  "link": "https://www.lyon.edu"
+ },
+ {
+  "college": "Prescott College",
+  "place": "Prescott",
+  "link": "https://www.prescott.edu"
+ },
+ {
+  "college": "Snow College",
+  "place": "Ephraim",
+  "link": "https://www.snow.edu"
+ },
+ {
+  "college": "Monroe College",
+  "place": "The Bronx ...",
+  "link": "https://www.monroecollege.edu"
+ },
+ {
+  "college": "Post University",
+  "place": "Waterbury",
+  "link": "https://post.edu"
+ },
+ {
+  "college": "Bryant and Stratton College",
+  "place": "Buffalo ...",
+  "link": "https://www.bryantstratton.edu"
+ },
+ {
+  "college": "Virginia Union University",
+  "place": "Richmond",
+  "link": "https://www.vuu.edu"
+ },
+ {
+  "college": "The Institute of World Politics",
+  "place": "Washington",
+  "link": "https://www.iwp.edu"
+ },
+ {
+  "college": "Missouri Southern State University",
+  "place": "Joplin",
+  "link": "https://www.mssu.edu"
+ },
+ {
+  "college": "University of Dubuque",
+  "place": "Dubuque",
+  "link": "https://www.dbq.edu"
+ },
+ {
+  "college": "Polk State College",
+  "place": "Winter Haven",
+  "link": "https://www.polk.edu"
+ },
+ {
+  "college": "Curry College",
+  "place": "Milton",
+  "link": "https://www.curry.edu"
+ },
+ {
+  "college": "Wheeling University",
+  "place": "Wheeling",
+  "link": "https://wheeling.edu"
+ },
+ {
+  "college": "Indiana Institute of Technology",
+  "place": "Fort Wayne ...",
+  "link": "https://www.indianatech.edu"
+ },
+ {
+  "college": "California Western School of Law",
+  "place": "San Diego",
+  "link": "https://www.cwsl.edu"
+ },
+ {
+  "college": "Northland College",
+  "place": "Ashland",
+  "link": "https://www.northland.edu"
+ },
+ {
+  "college": "New York City College of Technology, CUNY",
+  "place": "Brooklyn",
+  "link": "http://www.citytech.cuny.edu"
+ },
+ {
+  "college": "Evangel University",
+  "place": "Springfield",
+  "link": "https://www.evangel.edu"
+ },
+ {
+  "college": "Spalding University",
+  "place": "Louisville",
+  "link": "https://spalding.edu"
+ },
+ {
+  "college": "American International College",
+  "place": "Springfield",
+  "link": "https://www.aic.edu"
+ },
+ {
+  "college": "Concordia University Chicago",
+  "place": "River Forest",
+  "link": "https://www.cuchicago.edu"
+ },
+ {
+  "college": "Samuel Merritt University",
+  "place": "Oakland",
+  "link": "https://www.samuelmerritt.edu"
+ },
+ {
+  "college": "Soka University of America",
+  "place": "Aliso Viejo",
+  "link": "https://www.soka.edu"
+ },
+ {
+  "college": "Louisiana State University Health Sciences Center-Shreveport",
+  "place": "Shreveport",
+  "link": "https://www.lsuhs.edu"
+ },
+ {
+  "college": "Bloomfield College",
+  "place": "Bloomfield",
+  "link": "https://bloomfield.edu"
+ },
+ {
+  "college": "Cornish College of the Arts",
+  "place": "Seattle",
+  "link": "https://www.cornish.edu"
+ },
+ {
+  "college": "Felician University",
+  "place": "Lodi ...",
+  "link": "https://www.felician.edu"
+ },
+ {
+  "college": "Wayland Baptist University",
+  "place": "Plainview ...",
+  "link": "https://www.wbu.edu"
+ },
+ {
+  "college": "Methodist University",
+  "place": "Fayetteville",
+  "link": "https://www.methodist.edu"
+ },
+ {
+  "college": "Franklin Pierce University",
+  "place": "Rindge ...",
+  "link": "https://www.franklinpierce.edu"
+ },
+ {
+  "college": "Ave Maria University",
+  "place": "Ave Maria",
+  "link": "https://www.avemaria.edu"
+ },
+ {
+  "college": "Thomas Aquinas College",
+  "place": "Santa Paula",
+  "link": "https://www.thomasaquinas.edu"
+ },
+ {
+  "college": "State College of Florida-Manatee-Sarasota",
+  "place": "Bradenton",
+  "link": "https://www.scf.edu"
+ },
+ {
+  "college": "Caldwell University",
+  "place": "Caldwell",
+  "link": "https://www.caldwell.edu"
+ },
+ {
+  "college": "Cabrini University",
+  "place": "Radnor",
+  "link": "https://www.cabrini.edu"
+ },
+ {
+  "college": "Dakota Wesleyan University",
+  "place": "Mitchell",
+  "link": "https://www.dwu.edu"
+ },
+ {
+  "college": "Southern Arkansas University",
+  "place": "Magnolia",
+  "link": "https://web.saumag.edu"
+ },
+ {
+  "college": "Oklahoma Baptist University",
+  "place": "Shawnee",
+  "link": "https://www.okbu.edu"
+ },
+ {
+  "college": "Trinity Christian College",
+  "place": "Palos Heights",
+  "link": "https://www.trnty.edu"
+ },
+ {
+  "college": "Florida SouthWestern State College",
+  "place": "Fort Myers",
+  "link": "https://www.fsw.edu"
+ },
+ {
+  "college": "McMurry University",
+  "place": "Abilene",
+  "link": "https://mcm.edu"
+ },
+ {
+  "college": "Baker University",
+  "place": "Baldwin City",
+  "link": "https://www.bakeru.edu"
+ },
+ {
+  "college": "Catawba College",
+  "place": "Salisbury",
+  "link": "https://catawba.edu"
+ },
+ {
+  "college": "St. Francis College",
+  "place": "Brooklyn Heights",
+  "link": "https://www.sfc.edu"
+ },
+ {
+  "college": "Centenary University",
+  "place": "Hackettstown",
+  "link": "https://www.centenaryuniversity.edu"
+ },
+ {
+  "college": "Malone University",
+  "place": "Canton",
+  "link": "https://www.malone.edu"
+ },
+ {
+  "college": "William Jewell College",
+  "place": "Liberty",
+  "link": "https://jewell.edu"
+ },
+ {
+  "college": "Anderson University",
+  "place": "Anderson",
+  "link": "https://andersonuniversity.edu"
+ },
+ {
+  "college": "Northwest University",
+  "place": "Kirkland ...",
+  "link": "https://www.northwestu.edu"
+ },
+ {
+  "college": "University of Mount Union",
+  "place": "Alliance",
+  "link": "https://www.mountunion.edu"
+ },
+ {
+  "college": "Ferrum College",
+  "place": "Ferrum",
+  "link": "https://www.ferrum.edu"
+ },
+ {
+  "college": "Elizabeth City State University",
+  "place": "Elizabeth City",
+  "link": "http://www.ecsu.edu"
+ },
+ {
+  "college": "Avila University",
+  "place": "Kansas City",
+  "link": "https://www.avila.edu"
+ },
+ {
+  "college": "Wells College",
+  "place": "Aurora",
+  "link": "https://www.wells.edu"
+ },
+ {
+  "college": "Immaculata University",
+  "place": "Immaculata ...",
+  "link": "https://www.immaculata.edu"
+ },
+ {
+  "college": "Westminster College, Missouri",
+  "place": "Fulton",
+  "link": "https://www.wcmo.edu"
+ },
+ {
+  "college": "Rocky Mountain College",
+  "place": "Billings",
+  "link": "https://www.rocky.edu"
+ },
+ {
+  "college": "University of the Cumberlands",
+  "place": "Williamsburg",
+  "link": "https://www.ucumberlands.edu"
+ },
+ {
+  "college": "New England Institute of Technology",
+  "place": "East Greenwich",
+  "link": "https://www.neit.edu"
+ },
+ {
+  "college": "Georgia Gwinnett College",
+  "place": "Lawrenceville",
+  "link": "https://www.ggc.edu"
+ },
+ {
+  "college": "SUNY Maritime College",
+  "place": "Throggs Neck",
+  "link": "https://www.sunymaritime.edu"
+ },
+ {
+  "college": "Rosemont College",
+  "place": "Rosemont",
+  "link": "https://www.rosemont.edu"
+ },
+ {
+  "college": "Stevenson University",
+  "place": "Stevenson ...",
+  "link": "https://www.stevenson.edu"
+ },
+ {
+  "college": "Morningside College",
+  "place": "Sioux City",
+  "link": "https://www.morningside.edu"
+ },
+ {
+  "college": "Georgian Court University",
+  "place": "Lakewood",
+  "link": "https://georgian.edu"
+ },
+ {
+  "college": "Minot State University",
+  "place": "Minot",
+  "link": "https://www.minotstateu.edu"
+ },
+ {
+  "college": "Cleveland Institute of Music",
+  "place": "Cleveland",
+  "link": "https://www.cim.edu"
+ },
+ {
+  "college": "University of Jamestown",
+  "place": "Jamestown",
+  "link": "https://www.uj.edu"
+ },
+ {
+  "college": "Mount Saint Mary College",
+  "place": "Newburgh",
+  "link": "https://www.msmc.edu"
+ },
+ {
+  "college": "Stephens College",
+  "place": "Columbia",
+  "link": "https://www.stephens.edu"
+ },
+ {
+  "college": "Lourdes University",
+  "place": "Sylvania",
+  "link": "https://www.lourdes.edu"
+ },
+ {
+  "college": "University of South Carolina-Beaufort",
+  "place": "Bluffton",
+  "link": "https://www.uscb.edu"
+ },
+ {
+  "college": "University of Maine at Machias",
+  "place": "Machias",
+  "link": "https://machias.edu"
+ },
+ {
+  "college": "Northeast Ohio Medical University",
+  "place": "Rootstown",
+  "link": "https://www.neomed.edu"
+ },
+ {
+  "college": "MidAmerica Nazarene University",
+  "place": "Olathe",
+  "link": "https://www.mnu.edu"
+ },
+ {
+  "college": "Friends University",
+  "place": "Wichita ...",
+  "link": "https://www.friends.edu"
+ },
+ {
+  "college": "West Liberty University",
+  "place": "West Liberty",
+  "link": "https://westliberty.edu"
+ },
+ {
+  "college": "Franklin College",
+  "place": "Franklin",
+  "link": "https://franklincollege.edu"
+ },
+ {
+  "college": "Dalton State College",
+  "place": "Dalton",
+  "link": "https://www.daltonstate.edu"
+ },
+ {
+  "college": "Trevecca Nazarene University",
+  "place": "Nashville",
+  "link": "https://www.trevecca.edu"
+ },
+ {
+  "college": "Georgia Southwestern State University",
+  "place": "Americus",
+  "link": "https://www.gsw.edu"
+ },
+ {
+  "college": "Converse College",
+  "place": "Spartanburg",
+  "link": "https://www.converse.edu"
+ },
+ {
+  "college": "Mississippi Valley State University",
+  "place": "Itta Bena",
+  "link": "https://www.mvsu.edu"
+ },
+ {
+  "college": "Colby-Sawyer College",
+  "place": "New London",
+  "link": "http://colby-sawyer.edu"
+ },
+ {
+  "college": "Grand View University",
+  "place": "Des Moines",
+  "link": "https://www.grandview.edu"
+ },
+ {
+  "college": "SUNY College at Old Westbury",
+  "place": "Old Westbury",
+  "link": "https://www.oldwestbury.edu"
+ },
+ {
+  "college": "The College of Idaho",
+  "place": "Caldwell",
+  "link": "https://www.collegeofidaho.edu"
+ },
+ {
+  "college": "Randolph College",
+  "place": "Lynchburg",
+  "link": "https://www.randolphcollege.edu"
+ },
+ {
+  "college": "Louisiana College",
+  "place": "Pineville",
+  "link": "https://lcuniversity.edu"
+ },
+ {
+  "college": "Massachusetts Maritime Academy",
+  "place": "Buzzards Bay",
+  "link": "https://www.maritime.edu"
+ },
+ {
+  "college": "Columbia International University",
+  "place": "Columbia",
+  "link": "https://www.ciu.edu"
+ },
+ {
+  "college": "Bryan College",
+  "place": "Dayton ...",
+  "link": "https://www.bryan.edu"
+ },
+ {
+  "college": "Southwestern Adventist University",
+  "place": "Keene",
+  "link": "https://www.swau.edu"
+ },
+ {
+  "college": "Huntingdon College",
+  "place": "Montgomery",
+  "link": "https://www.huntingdon.edu"
+ },
+ {
+  "college": "College of Saint Mary",
+  "place": "Omaha",
+  "link": "https://www.csm.edu"
+ },
+ {
+  "college": "The Chicago School of Professional Psychology",
+  "place": "Los Angeles ...",
+  "link": "https://www.thechicagoschool.edu"
+ },
+ {
+  "college": "Cambridge College",
+  "place": "Boston ...",
+  "link": "https://www.cambridgecollege.edu"
+ },
+ {
+  "college": "The Master's University",
+  "place": "Santa Clarita",
+  "link": "https://www.masters.edu"
+ },
+ {
+  "college": "University of Maine at Augusta",
+  "place": "Augusta",
+  "link": "https://www.uma.edu"
+ },
+ {
+  "college": "Lasell University",
+  "place": "Newton",
+  "link": "https://www.lasell.edu"
+ },
+ {
+  "college": "Covenant College",
+  "place": "Lookout Mountain",
+  "link": "https://www.covenant.edu"
+ },
+ {
+  "college": "Bismarck State College",
+  "place": "Bismarck",
+  "link": "https://bismarckstate.edu"
+ },
+ {
+  "college": "Wisconsin Lutheran College",
+  "place": "Milwaukee",
+  "link": "https://www.wlc.edu"
+ },
+ {
+  "college": "Charles R. Drew University of Medicine and Science",
+  "place": "Los Angeles",
+  "link": "https://www.cdrewu.edu"
+ },
+ {
+  "college": "Thomas Edison State University",
+  "place": "Trenton",
+  "link": "https://www.tesu.edu"
+ },
+ {
+  "college": "Rivier University",
+  "place": "Nashua",
+  "link": "https://www.rivier.edu"
+ },
+ {
+  "college": "Cheyney University of Pennsylvania",
+  "place": "Cheyney",
+  "link": "https://cheyney.edu"
+ },
+ {
+  "college": "AdventHealth University",
+  "place": "Orlando",
+  "link": "https://www.ahu.edu"
+ },
+ {
+  "college": "Holy Names University",
+  "place": "Oakland",
+  "link": "https://hnu.edu"
+ },
+ {
+  "college": "Langston University",
+  "place": "Langston",
+  "link": "https://www.langston.edu"
+ },
+ {
+  "college": "Albertus Magnus College",
+  "place": "New Haven",
+  "link": "https://www.albertus.edu"
+ },
+ {
+  "college": "Shorter University",
+  "place": "Rome",
+  "link": "https://www.shorter.edu"
+ },
+ {
+  "college": "Oakwood University",
+  "place": "Huntsville",
+  "link": "https://oakwood.edu"
+ },
+ {
+  "college": "Illinois College",
+  "place": "Jacksonville",
+  "link": "https://www.ic.edu"
+ },
+ {
+  "college": "Johnson C. Smith University",
+  "place": "Charlotte",
+  "link": "https://www.jcsu.edu"
+ },
+ {
+  "college": "University of Science and Arts of Oklahoma",
+  "place": "Chickasha",
+  "link": "https://usao.edu"
+ },
+ {
+  "college": "SUNY Canton",
+  "place": "Canton",
+  "link": "https://www.canton.edu"
+ },
+ {
+  "college": "Thomas More University",
+  "place": "Crestview Hills",
+  "link": "https://www.thomasmore.edu"
+ },
+ {
+  "college": "National American University",
+  "place": "Rapid City ...",
+  "link": "https://www.national.edu"
+ },
+ {
+  "college": "Hardin-Simmons University",
+  "place": "Abilene",
+  "link": "https://www.hsutx.edu"
+ },
+ {
+  "college": "Harrisburg University of Science and Technology",
+  "place": "Harrisburg",
+  "link": "https://www.harrisburgu.edu"
+ },
+ {
+  "college": "Air Force Institute of Technology",
+  "place": "Wright-Patterson AFB",
+  "link": "https://www.afit.edu"
+ },
+ {
+  "college": "Lakeland University",
+  "place": "Plymouth",
+  "link": "https://lakeland.edu"
+ },
+ {
+  "college": "Berkeley College",
+  "place": "New York City ...",
+  "link": "https://berkeleycollege.edu"
+ },
+ {
+  "college": "Woodbury University",
+  "place": "Burbank ...",
+  "link": "https://woodbury.edu"
+ },
+ {
+  "college": "Shaw University",
+  "place": "Raleigh",
+  "link": "https://www.shawu.edu"
+ },
+ {
+  "college": "Moore College of Art and Design",
+  "place": "Philadelphia",
+  "link": "https://moore.edu"
+ },
+ {
+  "college": "Adler University",
+  "place": "Chicago ...",
+  "link": "https://www.adler.edu"
+ },
+ {
+  "college": "Lancaster Bible College",
+  "place": "Lancaster",
+  "link": "https://www.lbc.edu"
+ },
+ {
+  "college": "Thomas Jefferson School of Law",
+  "place": "San Diego",
+  "link": "https://www.tjsl.edu"
+ },
+ {
+  "college": "Central Methodist University",
+  "place": "Fayette",
+  "link": "https://www.centralmethodist.edu"
+ },
+ {
+  "college": "Lees-McRae College",
+  "place": "Banner Elk",
+  "link": "https://www.lmc.edu"
+ },
+ {
+  "college": "Mount Mary University",
+  "place": "Milwaukee",
+  "link": "https://mtmary.edu"
+ },
+ {
+  "college": "Kansas City Art Institute",
+  "place": "Kansas City",
+  "link": "https://kcai.edu"
+ },
+ {
+  "college": "Saint Augustine's University",
+  "place": "Raleigh",
+  "link": "https://www.st-aug.edu"
+ },
+ {
+  "college": "Crown College",
+  "place": "St. Bonifacius ...",
+  "link": "https://www.crown.edu"
+ },
+ {
+  "college": "Fontbonne University",
+  "place": "St. Louis",
+  "link": "https://www.fontbonne.edu"
+ },
+ {
+  "college": "University of Silicon Valley",
+  "place": "San Jose ...",
+  "link": "https://usv.edu"
+ },
+ {
+  "college": "West Virginia Wesleyan College",
+  "place": "Buckhannon",
+  "link": "https://www.wvwc.edu"
+ },
+ {
+  "college": "University of Saint Joseph",
+  "place": "West Hartford",
+  "link": "https://www.usj.edu"
+ },
+ {
+  "college": "Penn State College of Medicine",
+  "place": "Hershey",
+  "link": "https://med.psu.edu"
+ },
+ {
+  "college": "Milligan University",
+  "place": "Elizabethton ...",
+  "link": "https://www.milligan.edu"
+ },
+ {
+  "college": "Saint Mary-of-the-Woods College",
+  "place": "Saint Mary of the Woods",
+  "link": "https://www.smwc.edu"
+ },
+ {
+  "college": "Fielding Graduate University",
+  "place": "Santa Barbara",
+  "link": "https://www.fielding.edu"
+ },
+ {
+  "college": "Huston-Tillotson University",
+  "place": "Austin",
+  "link": "https://htu.edu"
+ },
+ {
+  "college": "Averett University",
+  "place": "Danville ...",
+  "link": "https://www.averett.edu"
+ },
+ {
+  "college": "Waynesburg University",
+  "place": "Waynesburg",
+  "link": "https://www.waynesburg.edu"
+ },
+ {
+  "college": "University of Advancing Technology",
+  "place": "Tempe",
+  "link": "https://www.uat.edu"
+ },
+ {
+  "college": "Castleton University",
+  "place": "Castleton",
+  "link": "https://www.castleton.edu"
+ },
+ {
+  "college": "Rocky Mountain College of Art and Design",
+  "place": "Lakewood",
+  "link": "https://www.rmcad.edu"
+ },
+ {
+  "college": "University of Arkansas at Monticello",
+  "place": "Monticello",
+  "link": "https://www.uamont.edu"
+ },
+ {
+  "college": "University of Arkansas at Pine Bluff",
+  "place": "Pine Bluff",
+  "link": "http://www.uapb.edu"
+ },
+ {
+  "college": "Goodwin University",
+  "place": "East Hartford",
+  "link": "https://www.goodwin.edu"
+ },
+ {
+  "college": "Tusculum University",
+  "place": "Greeneville",
+  "link": "https://www.tusculum.edu"
+ },
+ {
+  "college": "Fairmont State University",
+  "place": "Fairmont",
+  "link": "https://www.fairmontstate.edu"
+ },
+ {
+  "college": "Concord University",
+  "place": "Athens",
+  "link": "https://www.concord.edu"
+ },
+ {
+  "college": "Southern Wesleyan University",
+  "place": "Central",
+  "link": "https://www.swu.edu"
+ },
+ {
+  "college": "Benedict College",
+  "place": "Columbia",
+  "link": "https://www.benedict.edu"
+ },
+ {
+  "college": "SUNY Delhi",
+  "place": "Delhi",
+  "link": "https://www.delhi.edu"
+ },
+ {
+  "college": "Eastern Nazarene College",
+  "place": "Quincy",
+  "link": "https://enc.edu"
+ },
+ {
+  "college": "Ohio Dominican University",
+  "place": "Columbus",
+  "link": "https://www.ohiodominican.edu"
+ },
+ {
+  "college": "Keuka College",
+  "place": "Keuka Park",
+  "link": "https://www.keuka.edu"
+ },
+ {
+  "college": "Madonna University",
+  "place": "Livonia ...",
+  "link": "https://www.madonna.edu"
+ },
+ {
+  "college": "University of Pikeville",
+  "place": "Pikeville",
+  "link": "https://www.upike.edu"
+ },
+ {
+  "college": "Dean College",
+  "place": "Franklin",
+  "link": "https://www.dean.edu"
+ },
+ {
+  "college": "Piedmont College",
+  "place": "Demorest",
+  "link": "https://www.piedmont.edu"
+ },
+ {
+  "college": "Oklahoma Wesleyan University",
+  "place": "Bartlesville",
+  "link": "https://www.okwu.edu"
+ },
+ {
+  "college": "Anna Maria College",
+  "place": "Paxton",
+  "link": "https://annamaria.edu"
+ },
+ {
+  "college": "Newberry College",
+  "place": "Newberry",
+  "link": "https://www.newberry.edu"
+ },
+ {
+  "college": "William James College",
+  "place": "Newton",
+  "link": "https://www.williamjames.edu"
+ },
+ {
+  "college": "Columbia College, South Carolina",
+  "place": "Columbia",
+  "link": "https://www.columbiasc.edu"
+ },
+ {
+  "college": "Kansas City University",
+  "place": "Kansas City",
+  "link": "https://www.kansascity.edu"
+ },
+ {
+  "college": "Chestnut Hill College",
+  "place": "Philadelphia",
+  "link": "https://www.chc.edu"
+ },
+ {
+  "college": "College of Central Florida",
+  "place": "Ocala",
+  "link": "https://www.cf.edu"
+ },
+ {
+  "college": "Southern University at New Orleans",
+  "place": "New Orleans",
+  "link": "https://www.suno.edu"
+ },
+ {
+  "college": "McPherson College",
+  "place": "McPherson",
+  "link": "https://www.mcpherson.edu"
+ },
+ {
+  "college": "Voorhees University",
+  "place": "Denmark",
+  "link": "https://www.voorhees.edu"
+ },
+ {
+  "college": "University of Arkansas - Fort Smith",
+  "place": "Fort Smith",
+  "link": "https://uafs.edu"
+ },
+ {
+  "college": "Wingate University",
+  "place": "Wingate",
+  "link": "https://www.wingate.edu"
+ },
+ {
+  "college": "University of Charleston",
+  "place": "Charleston",
+  "link": "https://www.ucwv.edu"
+ },
+ {
+  "college": "Limestone University",
+  "place": "Gaffney",
+  "link": "https://www.limestone.edu"
+ },
+ {
+  "college": "Medaille University",
+  "place": "Buffalo ...",
+  "link": "https://www.medaille.edu"
+ },
+ {
+  "college": "Warner Pacific College",
+  "place": "Portland",
+  "link": "https://www.warnerpacific.edu"
+ },
+ {
+  "college": "Claflin University",
+  "place": "Orangeburg",
+  "link": "https://www.claflin.edu"
+ },
+ {
+  "college": "Texas Lutheran University",
+  "place": "Seguin",
+  "link": "https://www.tlu.edu"
+ },
+ {
+  "college": "Lake Washington Institute of Technology",
+  "place": "Kirkland",
+  "link": "https://www.lwtech.edu"
+ },
+ {
+  "college": "Lubbock Christian University",
+  "place": "Lubbock",
+  "link": "https://lcu.edu"
+ },
+ {
+  "college": "Tabor College",
+  "place": "Hillsboro",
+  "link": "https://tabor.edu"
+ },
+ {
+  "college": "John F. Kennedy University",
+  "place": "Pleasant Hill ...",
+  "link": "https://www.jfku.edu"
+ },
+ {
+  "college": "Vermont Technical College",
+  "place": "Randolph",
+  "link": "https://www.vtc.edu"
+ },
+ {
+  "college": "Brevard College",
+  "place": "Brevard",
+  "link": "https://brevard.edu"
+ },
+ {
+  "college": "United States Sports Academy",
+  "place": "Daphne",
+  "link": "https://ussa.edu"
+ },
+ {
+  "college": "William Jessup University",
+  "place": "Rocklin ...",
+  "link": "https://jessup.edu"
+ },
+ {
+  "college": "Buffalo State College",
+  "place": "Buffalo",
+  "link": "https://suny.buffalostate.edu"
+ },
+ {
+  "college": "William Peace University",
+  "place": "Raleigh",
+  "link": "https://www.peace.edu"
+ },
+ {
+  "college": "Valley City State University",
+  "place": "Valley City",
+  "link": "https://www.vcsu.edu"
+ },
+ {
+  "college": "Montana State University-Northern",
+  "place": "Havre ...",
+  "link": "http://www.msun.edu"
+ },
+ {
+  "college": "Texas A\u0026M University-Texarkana",
+  "place": "Texarkana",
+  "link": "https://www.tamut.edu"
+ },
+ {
+  "college": "Belmont Abbey College",
+  "place": "Belmont",
+  "link": "https://belmontabbeycollege.edu"
+ },
+ {
+  "college": "Mount Vernon Nazarene University",
+  "place": "Mount Vernon ...",
+  "link": "https://www.mvnu.edu"
+ },
+ {
+  "college": "Columbus College of Art and Design",
+  "place": "Columbus",
+  "link": "https://www.ccad.edu"
+ },
+ {
+  "college": "MGH Institute of Health Professions",
+  "place": "Boston",
+  "link": "https://www.mghihp.edu"
+ },
+ {
+  "college": "Columbia Basin College",
+  "place": "Pasco",
+  "link": "https://www.columbiabasin.edu"
+ },
+ {
+  "college": "Peru State College",
+  "place": "Peru",
+  "link": "https://www.peru.edu"
+ },
+ {
+  "college": "College of Mount Saint Vincent",
+  "place": "The Bronx",
+  "link": "https://mountsaintvincent.edu"
+ },
+ {
+  "college": "Notre Dame College",
+  "place": "Cleveland",
+  "link": "https://www.notredamecollege.edu"
+ },
+ {
+  "college": "Southwest Baptist University",
+  "place": "Bolivar ...",
+  "link": "https://www.sbuniv.edu"
+ },
+ {
+  "college": "Midway University",
+  "place": "Midway",
+  "link": "https://www.midway.edu"
+ },
+ {
+  "college": "Thomas College",
+  "place": "Waterville",
+  "link": "https://www.thomas.edu"
+ },
+ {
+  "college": "Chowan University",
+  "place": "Murfreesboro",
+  "link": "https://www.chowan.edu"
+ },
+ {
+  "college": "Gulf Coast State College",
+  "place": "Panama City",
+  "link": "https://www.gulfcoast.edu"
+ },
+ {
+  "college": "Milwaukee Institute of Art and Design",
+  "place": "Milwaukee",
+  "link": "https://www.miad.edu"
+ },
+ {
+  "college": "Newman University",
+  "place": "Wichita ...",
+  "link": "https://newmanu.edu"
+ },
+ {
+  "college": "Landmark College",
+  "place": "Putney",
+  "link": "https://www.landmark.edu"
+ },
+ {
+  "college": "College of Our Lady of the Elms",
+  "place": "Chicopee",
+  "link": "https://www.elms.edu"
+ },
+ {
+  "college": "The University of Montana Western",
+  "place": "Dillon",
+  "link": "https://www.umwestern.edu"
+ },
+ {
+  "college": "Palo Alto University",
+  "place": "Palo Alto",
+  "link": "https://www.paloaltou.edu"
+ },
+ {
+  "college": "Southwestern Assemblies of God University",
+  "place": "Waxahachie",
+  "link": "https://www.sagu.edu"
+ },
+ {
+  "college": "The University of Virginia's College at Wise",
+  "place": "Wise",
+  "link": "https://www.uvawise.edu"
+ },
+ {
+  "college": "Hastings College",
+  "place": "Hastings",
+  "link": "https://www.hastings.edu"
+ },
+ {
+  "college": "Louisiana State University of Alexandria",
+  "place": "Alexandria",
+  "link": "http://www.lsua.edu"
+ },
+ {
+  "college": "Ursuline College",
+  "place": "Pepper Pike",
+  "link": "https://www.ursuline.edu"
+ },
+ {
+  "college": "Cranbrook Academy of Art",
+  "place": "Bloomfield Hills",
+  "link": "https://cranbrookart.edu"
+ },
+ {
+  "college": "Saint Joseph's College of Maine",
+  "place": "Standish ...",
+  "link": "https://www.sjcme.edu"
+ },
+ {
+  "college": "Briar Cliff University",
+  "place": "Sioux City",
+  "link": "https://www.briarcliff.edu"
+ },
+ {
+  "college": "Wesleyan College",
+  "place": "Macon ...",
+  "link": "https://www.wesleyancollege.edu"
+ },
+ {
+  "college": "Reinhardt University",
+  "place": "Waleska",
+  "link": "https://www.reinhardt.edu"
+ },
+ {
+  "college": "Wiley College",
+  "place": "Marshall",
+  "link": "https://www.wileyc.edu"
+ },
+ {
+  "college": "Erskine College",
+  "place": "Due West",
+  "link": "https://www.erskine.edu"
+ },
+ {
+  "college": "Walsh College",
+  "place": "Troy",
+  "link": "https://walshcollege.edu"
+ },
+ {
+  "college": "Heritage University",
+  "place": "Toppenish",
+  "link": "https://www.heritage.edu"
+ },
+ {
+  "college": "Talladega College",
+  "place": "Talladega",
+  "link": "https://www.talladega.edu"
+ },
+ {
+  "college": "Great Basin College",
+  "place": "Elko ...",
+  "link": "https://www.gbcnv.edu"
+ },
+ {
+  "college": "Marymount Manhattan College",
+  "place": "New York City",
+  "link": "https://www.mmm.edu"
+ },
+ {
+  "college": "Maryville College",
+  "place": "Maryville",
+  "link": "https://www.maryvillecollege.edu"
+ },
+ {
+  "college": "East Texas Baptist University",
+  "place": "Marshall",
+  "link": "https://www.etbu.edu"
+ },
+ {
+  "college": "University of Mobile",
+  "place": "Mobile",
+  "link": "https://umobile.edu"
+ },
+ {
+  "college": "Mars Hill University",
+  "place": "Mars Hill",
+  "link": "https://www.mhu.edu"
+ },
+ {
+  "college": "LaGrange College",
+  "place": "LaGrange",
+  "link": "https://www.lagrange.edu"
+ },
+ {
+  "college": "Hebrew College",
+  "place": "Newton Centre",
+  "link": "https://hebrewcollege.edu"
+ },
+ {
+  "college": "Multnomah University",
+  "place": "Portland ...",
+  "link": "https://www.multnomah.edu"
+ },
+ {
+  "college": "Finlandia University",
+  "place": "Hancock",
+  "link": "https://www.finlandia.edu"
+ },
+ {
+  "college": "Bluefield College",
+  "place": "Bluefield",
+  "link": "https://www.bluefield.edu"
+ },
+ {
+  "college": "Hodges University",
+  "place": "Naples",
+  "link": "https://www.hodges.edu"
+ },
+ {
+  "college": "Indian River State College",
+  "place": "Fort Pierce ...",
+  "link": "https://irsc.edu"
+ },
+ {
+  "college": "Kentucky Wesleyan College",
+  "place": "Owensboro",
+  "link": "https://kwc.edu"
+ },
+ {
+  "college": "Monmouth College",
+  "place": "Monmouth",
+  "link": "https://www.monmouthcollege.edu"
+ },
+ {
+  "college": "The University of Texas Health Science Center at Tyler",
+  "place": "Tyler",
+  "link": "https://www.uthct.edu"
+ },
+ {
+  "college": "Mount Saint Mary's University",
+  "place": "Los Angeles",
+  "link": "https://www.msmu.edu"
+ },
+ {
+  "college": "Sullivan University",
+  "place": "Louisville ...",
+  "link": "https://www.sullivan.edu"
+ },
+ {
+  "college": "The King's College",
+  "place": "New York City",
+  "link": "https://www.tkc.edu"
+ },
+ {
+  "college": "National University of Health Sciences",
+  "place": "Lombard ...",
+  "link": "https://www.nuhs.edu"
+ },
+ {
+  "college": "Alderson Broaddus University",
+  "place": "Philippi",
+  "link": "https://ab.edu"
+ },
+ {
+  "college": "Northwestern Health Sciences University",
+  "place": "Bloomington",
+  "link": "https://www.nwhealth.edu"
+ },
+ {
+  "college": "East Georgia State College",
+  "place": "Swainsboro ...",
+  "link": "https://www.ega.edu"
+ },
+ {
+  "college": "Barton College",
+  "place": "Wilson",
+  "link": "https://www.barton.edu"
+ },
+ {
+  "college": "Oklahoma Panhandle State University",
+  "place": "Goodwell",
+  "link": "http://www.opsu.edu"
+ },
+ {
+  "college": "Brescia University",
+  "place": "Owensboro",
+  "link": "https://www.brescia.edu"
+ },
+ {
+  "college": "University of Rio Grande",
+  "place": "Rio Grande",
+  "link": "https://www.rio.edu"
+ },
+ {
+  "college": "Coker University",
+  "place": "Hartsville",
+  "link": "https://www.coker.edu"
+ },
+ {
+  "college": "Culver-Stockton College",
+  "place": "Canton",
+  "link": "https://culver.edu"
+ },
+ {
+  "college": "Tiffin University",
+  "place": "Tiffin ...",
+  "link": "https://www.tiffin.edu"
+ },
+ {
+  "college": "Freed-Hardeman University",
+  "place": "Henderson",
+  "link": "https://www.fhu.edu"
+ },
+ {
+  "college": "University of Northwestern Ohio",
+  "place": "Lima",
+  "link": "https://www.unoh.edu"
+ },
+ {
+  "college": "South College",
+  "place": "Knoxville",
+  "link": "https://www.south.edu"
+ },
+ {
+  "college": "Olivet College",
+  "place": "Olivet",
+  "link": "https://www.olivetcollege.edu"
+ },
+ {
+  "college": "Defiance College",
+  "place": "Defiance",
+  "link": "http://www.defiance.edu"
+ },
+ {
+  "college": "Sterling College, Vermont",
+  "place": "Craftsbury Common",
+  "link": "https://www.sterlingcollege.edu"
+ },
+ {
+  "college": "Corban University",
+  "place": "Salem",
+  "link": "https://www.corban.edu"
+ },
+ {
+  "college": "Nebraska Methodist College",
+  "place": "Omaha",
+  "link": "https://www.methodistcollege.edu"
+ },
+ {
+  "college": "Miles College",
+  "place": "Fairfield",
+  "link": "https://www.miles.edu"
+ },
+ {
+  "college": "SUNY College of Optometry",
+  "place": "New York City",
+  "link": "https://www.sunyopt.edu"
+ },
+ {
+  "college": "Logan University",
+  "place": "Chesterfield",
+  "link": "https://www.logan.edu"
+ },
+ {
+  "college": "University of the Potomac",
+  "place": "Washington ...",
+  "link": "https://potomac.edu"
+ },
+ {
+  "college": "Waldorf University",
+  "place": "Forest City",
+  "link": "https://www.waldorf.edu"
+ },
+ {
+  "college": "Bethel University",
+  "place": "Mishawaka",
+  "link": "https://www.betheluniversity.edu"
+ },
+ {
+  "college": "Judson University",
+  "place": "Elgin ...",
+  "link": "https://www.judsonu.edu"
+ },
+ {
+  "college": "Mount Aloysius College",
+  "place": "Cresson",
+  "link": "https://www.mtaloy.edu"
+ },
+ {
+  "college": "Cleary University",
+  "place": "Howell ...",
+  "link": "https://www.cleary.edu"
+ },
+ {
+  "college": "Cumberland University",
+  "place": "Lebanon",
+  "link": "https://www.cumberland.edu"
+ },
+ {
+  "college": "Maranatha Baptist University",
+  "place": "Watertown",
+  "link": "https://www.mbu.edu"
+ },
+ {
+  "college": "Hope International University",
+  "place": "Fullerton",
+  "link": "https://www.hiu.edu"
+ },
+ {
+  "college": "Salem College",
+  "place": "Winston-Salem",
+  "link": "https://www.salem.edu"
+ },
+ {
+  "college": "Marian University, Wisconsin",
+  "place": "Fond du Lac",
+  "link": "https://www.marianuniversity.edu"
+ },
+ {
+  "college": "Hilbert College",
+  "place": "Hamburg",
+  "link": "https://www.hilbert.edu"
+ },
+ {
+  "college": "Howard Payne University",
+  "place": "Brownwood",
+  "link": "https://www.hputx.edu"
+ },
+ {
+  "college": "North Central University",
+  "place": "Minneapolis",
+  "link": "https://www.northcentral.edu"
+ },
+ {
+  "college": "Toccoa Falls College",
+  "place": "Toccoa Falls ...",
+  "link": "https://tfc.edu"
+ },
+ {
+  "college": "Wilmington College",
+  "place": "Wilmington",
+  "link": "https://www.wilmington.edu"
+ },
+ {
+  "college": "University of Mount Olive",
+  "place": "Mount Olive ...",
+  "link": "https://umo.edu"
+ },
+ {
+  "college": "Cazenovia College",
+  "place": "Cazenovia",
+  "link": "https://www.cazenovia.edu"
+ },
+ {
+  "college": "Saint Elizabeth University",
+  "place": "Morristown",
+  "link": "https://www.steu.edu"
+ },
+ {
+  "college": "Notre Dame de Namur University",
+  "place": "Belmont",
+  "link": "https://www.ndnu.edu"
+ },
+ {
+  "college": "William Woods University",
+  "place": "Fulton",
+  "link": "https://www.williamwoods.edu"
+ },
+ {
+  "college": "Clarks Summit University",
+  "place": "Clarks Summit",
+  "link": "https://www.clarkssummitu.edu"
+ },
+ {
+  "college": "Harris-Stowe State University",
+  "place": "St. Louis",
+  "link": "https://www.hssu.edu"
+ },
+ {
+  "college": "Dickinson State University",
+  "place": "Dickinson",
+  "link": "https://dickinsonstate.edu"
+ },
+ {
+  "college": "University of the Ozarks",
+  "place": "Clarksville",
+  "link": "https://ozarks.edu"
+ },
+ {
+  "college": "Midland College",
+  "place": "Midland",
+  "link": "https://www.midland.edu"
+ },
+ {
+  "college": "Arizona Christian University",
+  "place": "Phoenix",
+  "link": "https://www.arizonachristian.edu"
+ },
+ {
+  "college": "Concordia University Ann Arbor",
+  "place": "Ann Arbor",
+  "link": "https://www.cuaa.edu"
+ },
+ {
+  "college": "Paine College",
+  "place": "Augusta",
+  "link": "https://www.paine.edu"
+ },
+ {
+  "college": "Menlo College",
+  "place": "Atherton ...",
+  "link": "https://www.menlo.edu"
+ },
+ {
+  "college": "Keystone College",
+  "place": "La Plume",
+  "link": "https://www.keystone.edu"
+ },
+ {
+  "college": "North Greenville University",
+  "place": "Tigerville",
+  "link": "https://ngu.edu"
+ },
+ {
+  "college": "Mayville State University",
+  "place": "Mayville",
+  "link": "https://mayvillestate.edu"
+ },
+ {
+  "college": "St. Thomas Aquinas College",
+  "place": "Sparkill",
+  "link": "https://www.stac.edu"
+ },
+ {
+  "college": "Wilberforce University",
+  "place": "Wilberforce",
+  "link": "https://wilberforce.edu"
+ },
+ {
+  "college": "Florida National University",
+  "place": "Hialeah",
+  "link": "https://www.fnu.edu"
+ },
+ {
+  "college": "La Roche University",
+  "place": "Pittsburgh",
+  "link": "https://www.laroche.edu"
+ },
+ {
+  "college": "Abraham Baldwin Agricultural College",
+  "place": "Tifton",
+  "link": "https://www.abac.edu"
+ },
+ {
+  "college": "Kansas Wesleyan University",
+  "place": "Salina",
+  "link": "https://www.kwu.edu"
+ },
+ {
+  "college": "Saybrook University",
+  "place": "Pasadena",
+  "link": "https://www.saybrook.edu"
+ },
+ {
+  "college": "Western Nevada College",
+  "place": "Carson City",
+  "link": "https://www.wnc.edu"
+ },
+ {
+  "college": "University of Western States",
+  "place": "Portland",
+  "link": "https://www.uws.edu"
+ },
+ {
+  "college": "NewSchool of Architecture and Design",
+  "place": "San Diego",
+  "link": "https://newschoolarch.edu"
+ },
+ {
+  "college": "Northwest Florida State College",
+  "place": "Niceville",
+  "link": "https://www.nwfsc.edu"
+ },
+ {
+  "college": "Relay Graduate School of Education",
+  "place": "New York City",
+  "link": "https://www.relay.edu"
+ },
+ {
+  "college": "University of Maine at Presque Isle",
+  "place": "Presque Isle ...",
+  "link": "https://www.umpi.edu"
+ },
+ {
+  "college": "LeMoyne-Owen College",
+  "place": "Memphis",
+  "link": "https://www.loc.edu"
+ },
+ {
+  "college": "Missouri Valley College",
+  "place": "Marshall",
+  "link": "https://www.moval.edu"
+ },
+ {
+  "college": "Vaughn College of Aeronautics and Technology",
+  "place": "Flushing",
+  "link": "https://www.vaughn.edu"
+ },
+ {
+  "college": "College of Staten Island",
+  "place": "Staten Island",
+  "link": "https://www.csi.cuny.edu"
+ },
+ {
+  "college": "Alliance University",
+  "place": "New York City",
+  "link": "https://allianceu.edu"
+ },
+ {
+  "college": "Clarkson College",
+  "place": "Omaha",
+  "link": "https://www.clarksoncollege.edu"
+ },
+ {
+  "college": "Salus University",
+  "place": "Elkins Park ...",
+  "link": "https://www.salus.edu"
+ },
+ {
+  "college": "Holy Family University",
+  "place": "Philadelphia",
+  "link": "https://www.holyfamily.edu"
+ },
+ {
+  "college": "Granite State College",
+  "place": "Concord",
+  "link": "https://www.granite.edu"
+ },
+ {
+  "college": "Stillman College",
+  "place": "Tuscaloosa",
+  "link": "https://stillman.edu"
+ },
+ {
+  "college": "Hannibal-LaGrange University",
+  "place": "Hannibal",
+  "link": "https://www.hlg.edu"
+ },
+ {
+  "college": "Southern Virginia University",
+  "place": "Buena Vista",
+  "link": "https://svu.edu"
+ },
+ {
+  "college": "Northwestern Oklahoma State University",
+  "place": "Alva ...",
+  "link": "https://www.nwosu.edu"
+ },
+ {
+  "college": "Brazosport College",
+  "place": "Lake Jackson",
+  "link": "https://www.brazosport.edu"
+ },
+ {
+  "college": "Texas A\u0026M University-San Antonio",
+  "place": "San Antonio",
+  "link": "https://www.tamusa.edu"
+ },
+ {
+  "college": "Martin Luther College",
+  "place": "New Ulm",
+  "link": "https://mlc-wels.edu"
+ },
+ {
+  "college": "Pine Manor College",
+  "place": "Chestnut Hill",
+  "link": "https://www.pmc.edu"
+ },
+ {
+  "college": "Indiana University East",
+  "place": "Richmond",
+  "link": "https://www.iue.edu"
+ },
+ {
+  "college": "Sierra Nevada University",
+  "place": "Incline Village",
+  "link": "https://www.sierranevada.edu"
+ },
+ {
+  "college": "Beacon College",
+  "place": "Leesburg",
+  "link": "https://www.beaconcollege.edu"
+ },
+ {
+  "college": "Thiel College",
+  "place": "Greenville",
+  "link": "https://www.thiel.edu"
+ },
+ {
+  "college": "Cairn University",
+  "place": "Langhorne ...",
+  "link": "https://cairn.edu"
+ },
+ {
+  "college": "William Penn University",
+  "place": "Oskaloosa",
+  "link": "https://www.wmpenn.edu"
+ },
+ {
+  "college": "Union Institute \u0026 University",
+  "place": "Cincinnati",
+  "link": "https://myunion.edu"
+ },
+ {
+  "college": "Union College, Nebraska",
+  "place": "Lincoln",
+  "link": "https://ucollege.edu"
+ },
+ {
+  "college": "Union College, Kentucky",
+  "place": "Barbourville",
+  "link": "https://www.unionky.edu"
+ },
+ {
+  "college": "New York Academy of Art",
+  "place": "New York City",
+  "link": "https://nyaa.edu"
+ },
+ {
+  "college": "West Virginia University at Parkersburg",
+  "place": "Parkersburg",
+  "link": "https://www.wvup.edu"
+ },
+ {
+  "college": "Eureka College",
+  "place": "Eureka ...",
+  "link": "https://www.eureka.edu"
+ },
+ {
+  "college": "Goldey-Beacom College",
+  "place": "Wilmington",
+  "link": "https://www.gbc.edu"
+ },
+ {
+  "college": "Centralia College",
+  "place": "Centralia",
+  "link": "http://www.centralia.edu"
+ },
+ {
+  "college": "Missouri Baptist University",
+  "place": "St. Louis",
+  "link": "https://www.mobap.edu"
+ },
+ {
+  "college": "Parker University",
+  "place": "Dallas",
+  "link": "https://www.parker.edu"
+ },
+ {
+  "college": "Florida Memorial University",
+  "place": "Miami Gardens",
+  "link": "https://www.fmuniv.edu"
+ },
+ {
+  "college": "Siena Heights University",
+  "place": "Adrian",
+  "link": "https://www.sienaheights.edu"
+ },
+ {
+  "college": "Pacifica Graduate Institute",
+  "place": "Carpinteria ...",
+  "link": "https://www.pacifica.edu"
+ },
+ {
+  "college": "Albany College of Pharmacy and Health Sciences",
+  "place": "Albany",
+  "link": "https://www.acphs.edu"
+ },
+ {
+  "college": "York College, City University of New York",
+  "place": "Jamaica",
+  "link": "https://www.york.cuny.edu"
+ },
+ {
+  "college": "LIM College",
+  "place": "New York City",
+  "link": "https://www.limcollege.edu"
+ },
+ {
+  "college": "Ohio Christian University",
+  "place": "Circleville",
+  "link": "https://www.ohiochristian.edu"
+ },
+ {
+  "college": "Lane College",
+  "place": "Jackson",
+  "link": "https://www.lanecollege.edu"
+ },
+ {
+  "college": "York College",
+  "place": "York",
+  "link": "https://www.york.edu"
+ },
+ {
+  "college": "University of Health Sciences and Pharmacy in St. Louis",
+  "place": "St. Louis",
+  "link": "https://www.uhsp.edu"
+ },
+ {
+  "college": "Rockford University",
+  "place": "Rockford ...",
+  "link": "https://www.rockford.edu"
+ },
+ {
+  "college": "Maryland University of Integrative Health",
+  "place": "Laurel",
+  "link": "https://muih.edu"
+ },
+ {
+  "college": "Gordon State College",
+  "place": "Barnesville",
+  "link": "https://www.gordonstate.edu"
+ },
+ {
+  "college": "Schreiner University",
+  "place": "Kerrville",
+  "link": "https://schreiner.edu"
+ },
+ {
+  "college": "Dunwoody College of Technology",
+  "place": "Minneapolis",
+  "link": "https://dunwoody.edu"
+ },
+ {
+  "college": "St Andrews University",
+  "place": "Laurinburg",
+  "link": "https://www.sa.edu"
+ },
+ {
+  "college": "Ozark Christian College",
+  "place": "Joplin",
+  "link": "https://occ.edu"
+ },
+ {
+  "college": "Mitchell College",
+  "place": "New London",
+  "link": "https://mitchell.edu"
+ },
+ {
+  "college": "Lincoln College",
+  "place": "Lincoln",
+  "link": "https://lincolncollege.edu"
+ },
+ {
+  "college": "Bluefield State College",
+  "place": "Bluefield",
+  "link": "https://bluefieldstate.edu"
+ },
+ {
+  "college": "Blackburn College",
+  "place": "Carlinville",
+  "link": "https://blackburn.edu"
+ },
+ {
+  "college": "University of Providence",
+  "place": "Great Falls",
+  "link": "https://www.uprovidence.edu"
+ },
+ {
+  "college": "Dominican University",
+  "place": "Orangeburg",
+  "link": "https://www.duny.edu"
+ },
+ {
+  "college": "University of Saint Francis",
+  "place": "Fort Wayne ...",
+  "link": "https://www.sf.edu"
+ },
+ {
+  "college": "College of Coastal Georgia",
+  "place": "Brunswick",
+  "link": "https://www.ccga.edu"
+ },
+ {
+  "college": "Midland University",
+  "place": "Fremont",
+  "link": "https://www.midlandu.edu"
+ },
+ {
+  "college": "Brewton-Parker College",
+  "place": "Mount Vernon",
+  "link": "https://www.bpc.edu"
+ },
+ {
+  "college": "Young Harris College",
+  "place": "Young Harris",
+  "link": "https://www.yhc.edu"
+ },
+ {
+  "college": "Southern University Law Center",
+  "place": "Baton Rouge",
+  "link": "https://www.sulc.edu"
+ },
+ {
+  "college": "Bethany College",
+  "place": "Bethany",
+  "link": "https://www.bethanywv.edu"
+ },
+ {
+  "college": "Metropolitan College of New York",
+  "place": "New York City",
+  "link": "https://www.mcny.edu"
+ },
+ {
+  "college": "University of Saint Mary",
+  "place": "Leavenworth ...",
+  "link": "https://www.stmary.edu"
+ },
+ {
+  "college": "University of Maine at Fort Kent",
+  "place": "Fort Kent",
+  "link": "https://www.umfk.edu"
+ },
+ {
+  "college": "Touro University California",
+  "place": "Vallejo",
+  "link": "https://tu.edu"
+ },
+ {
+  "college": "Pensacola State College",
+  "place": "Pensacola",
+  "link": "https://www.pensacolastate.edu"
+ },
+ {
+  "college": "St. Johns River State College",
+  "place": "Palatka",
+  "link": "https://www.sjrstate.edu"
+ },
+ {
+  "college": "Livingstone College",
+  "place": "Salisbury",
+  "link": "http://livingstone.edu"
+ },
+ {
+  "college": "New York School of Interior Design",
+  "place": "New York City",
+  "link": "https://www.nysid.edu"
+ },
+ {
+  "college": "Rochester University",
+  "place": "Rochester Hills",
+  "link": "https://rochesteru.edu"
+ },
+ {
+  "college": "University of Alaska Southeast",
+  "place": "Juneau ...",
+  "link": "https://uas.alaska.edu"
+ },
+ {
+  "college": "Calumet College of St. Joseph",
+  "place": "Whiting",
+  "link": "https://www.ccsj.edu"
+ },
+ {
+  "college": "Greensboro College",
+  "place": "Greensboro",
+  "link": "https://www.greensboro.edu"
+ },
+ {
+  "college": "Alice Lloyd College",
+  "place": "Pippa Passes",
+  "link": "https://www.alc.edu"
+ },
+ {
+  "college": "Cottey College",
+  "place": "Nevada",
+  "link": "https://cottey.edu"
+ },
+ {
+  "college": "Montserrat College of Art",
+  "place": "Beverly",
+  "link": "https://www.montserrat.edu"
+ },
+ {
+  "college": "Rust College",
+  "place": "Holly Springs",
+  "link": "https://www.rustcollege.edu"
+ },
+ {
+  "college": "Warner University",
+  "place": "Lake Wales",
+  "link": "https://warner.edu"
+ },
+ {
+  "college": "Bethany Lutheran College",
+  "place": "Mankato",
+  "link": "https://blc.edu"
+ },
+ {
+  "college": "Oakland City University",
+  "place": "Oakland City",
+  "link": "https://www.oak.edu"
+ },
+ {
+  "college": "Washington Adventist University",
+  "place": "Takoma Park",
+  "link": "https://www.wau.edu"
+ },
+ {
+  "college": "Holy Cross College",
+  "place": "Notre Dame",
+  "link": "https://www.hcc-nd.edu"
+ },
+ {
+  "college": "University of the West",
+  "place": "Rosemead",
+  "link": "https://www.uwest.edu"
+ },
+ {
+  "college": "Truett McConnell University",
+  "place": "Cleveland",
+  "link": "https://truett.edu"
+ },
+ {
+  "college": "Bethany College, Kansas",
+  "place": "Lindsborg",
+  "link": "https://www.bethanylb.edu"
+ },
+ {
+  "college": "Texas College",
+  "place": "Tyler",
+  "link": "https://www.texascollege.edu"
+ },
+ {
+  "college": "Mid-America Christian University",
+  "place": "Oklahoma City",
+  "link": "https://www.macu.edu"
+ },
+ {
+  "college": "Amberton University",
+  "place": "Garland",
+  "link": "https://www.amberton.edu"
+ },
+ {
+  "college": "Davis and Elkins College",
+  "place": "Elkins",
+  "link": "https://www.dewv.edu"
+ },
+ {
+  "college": "Johnson University",
+  "place": "Knoxville ...",
+  "link": "https://johnsonu.edu"
+ },
+ {
+  "college": "Faith Baptist Bible College and Theological Seminary",
+  "place": "Ankeny",
+  "link": "https://faith.edu"
+ },
+ {
+  "college": "Barclay College",
+  "place": "Haviland",
+  "link": "https://www.barclaycollege.edu"
+ },
+ {
+  "college": "Glenville State College",
+  "place": "Glenville",
+  "link": "https://www.glenville.edu"
+ },
+ {
+  "college": "Indiana University Kokomo",
+  "place": "Kokomo",
+  "link": "https://www.iuk.edu"
+ },
+ {
+  "college": "Bethel University, Tennessee",
+  "place": "McKenzie",
+  "link": "https://www.bethelu.edu"
+ },
+ {
+  "college": "Benjamin Franklin Institute of Technology",
+  "place": "Boston",
+  "link": "https://www.bfit.edu"
+ },
+ {
+  "college": "Bay State College",
+  "place": "Boston ...",
+  "link": "https://www.baystate.edu"
+ },
+ {
+  "college": "Cleveland University-Kansas City",
+  "place": "Overland Park",
+  "link": "https://www.cleveland.edu"
+ },
+ {
+  "college": "Jarvis Christian University",
+  "place": "Hawkins",
+  "link": "https://www.jarvis.edu"
+ },
+ {
+  "college": "University of the Southwest",
+  "place": "Hobbs",
+  "link": "https://www.usw.edu"
+ },
+ {
+  "college": "Roseman University of Health Sciences",
+  "place": "Henderson",
+  "link": "https://www.roseman.edu"
+ },
+ {
+  "college": "University of Alaska Anchorage",
+  "place": "Anchorage",
+  "link": "https://www.uaa.alaska.edu"
+ },
+ {
+  "college": "Northern New Mexico College",
+  "place": "Espanola ...",
+  "link": "https://nnmc.edu"
+ },
+ {
+  "college": "Lake Erie College",
+  "place": "Painesville",
+  "link": "https://www.lec.edu"
+ },
+ {
+  "college": "New York College of Podiatric Medicine",
+  "place": "New York City",
+  "link": "https://www.nycpm.edu"
+ },
+ {
+  "college": "South Georgia State College",
+  "place": "Douglas",
+  "link": "https://www.sgsc.edu"
+ },
+ {
+  "college": "Vermont College of Fine Arts",
+  "place": "Montpelier",
+  "link": "https://vcfa.edu"
+ },
+ {
+  "college": "Philander Smith College",
+  "place": "Little Rock",
+  "link": "https://www.philander.edu"
+ },
+ {
+  "college": "Dallas Christian College",
+  "place": "Dallas",
+  "link": "https://www.dallas.edu"
+ },
+ {
+  "college": "Central Christian College of Kansas",
+  "place": "McPherson",
+  "link": "https://www.centralchristian.edu"
+ },
+ {
+  "college": "Mount Marty University",
+  "place": "Yankton",
+  "link": "https://www.mountmarty.edu"
+ },
+ {
+  "college": "Webb Institute",
+  "place": "Glen Cove",
+  "link": "https://www.webb.edu"
+ },
+ {
+  "college": "Nevada State College",
+  "place": "Henderson",
+  "link": "https://nsc.edu"
+ },
+ {
+  "college": "Art Academy of Cincinnati",
+  "place": "Cincinnati",
+  "link": "https://www.artacademy.edu"
+ },
+ {
+  "college": "Simpson University",
+  "place": "Redding",
+  "link": "https://www.simpsonu.edu"
+ },
+ {
+  "college": "Holy Apostles College and Seminary",
+  "place": "Cromwell",
+  "link": "https://holyapostles.edu"
+ },
+ {
+  "college": "West Virginia School of Osteopathic Medicine",
+  "place": "Lewisburg",
+  "link": "https://www.wvsom.edu"
+ },
+ {
+  "college": "Adler Graduate School",
+  "place": "Minnetonka",
+  "link": "https://www.alfredadler.edu"
+ },
+ {
+  "college": "Morris College",
+  "place": "Sumter",
+  "link": "https://www.morris.edu"
+ },
+ {
+  "college": "Mercy College of Health Sciences",
+  "place": "Des Moines",
+  "link": "https://www.mchs.edu"
+ },
+ {
+  "college": "Southern College of Optometry",
+  "place": "Memphis",
+  "link": "https://www.sco.edu"
+ },
+ {
+  "college": "Iowa Wesleyan University",
+  "place": "Mount Pleasant",
+  "link": "https://www.iw.edu"
+ },
+ {
+  "college": "Fisher College",
+  "place": "Boston ...",
+  "link": "https://www.fisher.edu"
+ },
+ {
+  "college": "Everglades University",
+  "place": "Boca Raton ...",
+  "link": "https://www.evergladesuniversity.edu"
+ },
+ {
+  "college": "Arkansas Baptist College",
+  "place": "Little Rock",
+  "link": "https://www.arkansasbaptist.edu"
+ },
+ {
+  "college": "Bacone College",
+  "place": "Muskogee",
+  "link": "https://www.bacone.edu"
+ },
+ {
+  "college": "Bushnell University",
+  "place": "Eugene",
+  "link": "https://www.bushnell.edu"
+ },
+ {
+  "college": "Emmaus Bible College",
+  "place": "Dubuque",
+  "link": "https://www.emmaus.edu"
+ },
+ {
+  "college": "Rush University",
+  "place": "Chicago",
+  "link": "https://www.rushu.rush.edu"
+ },
+ {
+  "college": "Boston Graduate School of Psychoanalysis",
+  "place": "Brookline ...",
+  "link": "https://bgsp.edu"
+ },
+ {
+  "college": "Villa Maria College",
+  "place": "Buffalo",
+  "link": "https://www.villa.edu"
+ },
+ {
+  "college": "Central Penn College",
+  "place": "Summerdale",
+  "link": "https://www.centralpenn.edu"
+ },
+ {
+  "college": "Life Pacific University",
+  "place": "San Dimas ...",
+  "link": "https://lifepacific.edu"
+ },
+ {
+  "college": "Pacific Oaks College",
+  "place": "Pasadena",
+  "link": "https://www.pacificoaks.edu"
+ },
+ {
+  "college": "Peirce College",
+  "place": "Philadelphia",
+  "link": "https://www.peirce.edu"
+ },
+ {
+  "college": "Webber International University",
+  "place": "Babson Park",
+  "link": "https://www.webber.edu"
+ },
+ {
+  "college": "Manhattan Christian College",
+  "place": "Manhattan",
+  "link": "https://mccks.edu"
+ },
+ {
+  "college": "The University of Tennessee Southern",
+  "place": "Pulaski",
+  "link": "https://utsouthern.edu"
+ },
+ {
+  "college": "University of Holy Cross",
+  "place": "New Orleans",
+  "link": "https://uhcno.edu"
+ },
+ {
+  "college": "Lincoln Christian University",
+  "place": "Lincoln",
+  "link": "https://lincolnchristian.edu"
+ },
+ {
+  "college": "Principia College",
+  "place": "Elsah",
+  "link": "http://www.principiacollege.edu"
+ },
+ {
+  "college": "Blessing-Rieman College of Nursing and Health Sciences",
+  "place": "Quincy",
+  "link": "https://www.brcn.edu"
+ },
+ {
+  "college": "Marshall B. Ketchum University",
+  "place": "Fullerton ...",
+  "link": "https://www.ketchum.edu"
+ },
+ {
+  "college": "Mount Carmel College of Nursing",
+  "place": "Columbus",
+  "link": "https://www.mccn.edu"
+ },
+ {
+  "college": "American Baptist College",
+  "place": "Nashville",
+  "link": "https://abcnash.edu"
+ },
+ {
+  "college": "Mercy College of Ohio",
+  "place": "Toledo",
+  "link": "https://mercycollege.edu"
+ },
+ {
+  "college": "Tennessee Wesleyan University",
+  "place": "Athens ...",
+  "link": "https://www.tnwesleyan.edu"
+ },
+ {
+  "college": "Humphreys University",
+  "place": "Stockton",
+  "link": "https://www.humphreys.edu"
+ },
+ {
+  "college": "Central Baptist College",
+  "place": "Conway",
+  "link": "https://www.cbc.edu"
+ },
+ {
+  "college": "Blue Mountain College",
+  "place": "Blue Mountain",
+  "link": "https://bmc.edu"
+ },
+ {
+  "college": "Florida College",
+  "place": "Temple Terrace",
+  "link": "https://www.floridacollege.edu"
+ },
+ {
+  "college": "Pennsylvania College of Art and Design",
+  "place": "Lancaster",
+  "link": "https://pcad.edu"
+ },
+ {
+  "college": "Emmanuel College, Georgia",
+  "place": "Franklin Springs",
+  "link": "https://ec.edu"
+ },
+ {
+  "college": "Massachusetts School of Law",
+  "place": "Andover",
+  "link": "https://www.mslaw.edu"
+ },
+ {
+  "college": "Carolina University",
+  "place": "Winston Salem ...",
+  "link": "https://carolinau.edu"
+ },
+ {
+  "college": "Presentation College",
+  "place": "Aberdeen",
+  "link": "https://www.presentation.edu"
+ },
+ {
+  "college": "Nazarene Bible College",
+  "place": "Colorado Springs",
+  "link": "https://www.nbc.edu"
+ },
+ {
+  "college": "The School of Architecture",
+  "place": "Cosanti",
+  "link": "https://tsoa.edu"
+ },
+ {
+  "college": "Illinois College of Optometry",
+  "place": "Chicago",
+  "link": "https://www.ico.edu"
+ },
+ {
+  "college": "Salem University",
+  "place": "Salem",
+  "link": "https://www.salemu.edu"
+ },
+ {
+  "college": "University of Valley Forge",
+  "place": "Phoenixville",
+  "link": "https://valleyforge.edu"
+ },
+ {
+  "college": "Rocky Vista University",
+  "place": "Parker",
+  "link": "https://www.rvu.edu"
+ },
+ {
+  "college": "New England College of Optometry",
+  "place": "Boston",
+  "link": "https://www.neco.edu"
+ },
+ {
+  "college": "Gratz College",
+  "place": "Melrose Park",
+  "link": "https://www.gratz.edu"
+ },
+ {
+  "college": "Kentucky Christian University",
+  "place": "Grayson",
+  "link": "https://www.kcu.edu"
+ },
+ {
+  "college": "American Film Institute Conservatory",
+  "place": "Los Angeles",
+  "link": "https://conservatory.afi.com"
+ },
+ {
+  "college": "Chipola College",
+  "place": "Marianna",
+  "link": "https://www.chipola.edu"
+ },
+ {
+  "college": "San Diego Christian College",
+  "place": "Santee",
+  "link": "https://sdcc.edu"
+ },
+ {
+  "college": "Thomas More College of Liberal Arts",
+  "place": "Merrimack",
+  "link": "https://thomasmorecollege.edu"
+ },
+ {
+  "college": "Kettering College",
+  "place": "Kettering",
+  "link": "https://kc.edu"
+ },
+ {
+  "college": "Franciscan Missionaries of Our Lady University",
+  "place": "Baton Rouge",
+  "link": "https://franu.edu"
+ },
+ {
+  "college": "Thomas University",
+  "place": "Thomasville",
+  "link": "https://www.thomasu.edu"
+ },
+ {
+  "college": "Laguna College of Art and Design",
+  "place": "Laguna Beach",
+  "link": "https://lcad.edu"
+ },
+ {
+  "college": "Central Christian College of the Bible",
+  "place": "Moberly ...",
+  "link": "https://cccb.edu"
+ },
+ {
+  "college": "Appalachian College of Pharmacy",
+  "place": "Oakwood",
+  "link": "https://www.acp.edu"
+ },
+ {
+  "college": "Appalachian Bible College",
+  "place": "Mount Hope",
+  "link": "https://abc.edu"
+ },
+ {
+  "college": "John Paul the Great Catholic University",
+  "place": "Escondido",
+  "link": "https://jpcatholic.edu"
+ },
+ {
+  "college": "Florida Gateway College",
+  "place": "Lake City",
+  "link": "https://www.fgc.edu"
+ },
+ {
+  "college": "Trinity College of Florida",
+  "place": "Trinity",
+  "link": "https://www.trinitycollege.edu"
+ },
+ {
+  "college": "Allen University",
+  "place": "Columbia",
+  "link": "https://allenuniversity.edu"
+ },
+ {
+  "college": "Atlanta Metropolitan State College",
+  "place": "Atlanta",
+  "link": "https://www.atlm.edu"
+ },
+ {
+  "college": "Criswell College",
+  "place": "Dallas",
+  "link": "https://www.criswell.edu"
+ },
+ {
+  "college": "Kuyper College",
+  "place": "Grand Rapids",
+  "link": "https://www.kuyper.edu"
+ },
+ {
+  "college": "Donnelly College",
+  "place": "Kansas City",
+  "link": "https://www.donnelly.edu"
+ },
+ {
+  "college": "Aquinas College, Tennessee",
+  "place": "Nashville",
+  "link": "https://www.aquinascollege.edu"
+ },
+ {
+  "college": "Allen College",
+  "place": "Waterloo",
+  "link": "https://www.allencollege.edu"
+ },
+ {
+  "college": "Pontifical Faculty of the Immaculate Conception",
+  "place": "Washington",
+  "link": "https://dhs.edu"
+ },
+ {
+  "college": "Columbia College Hollywood",
+  "place": "Tarzana",
+  "link": "https://columbiacollege.edu"
+ },
+ {
+  "college": "Calvary University",
+  "place": "Kansas City",
+  "link": "https://www.calvary.edu"
+ },
+ {
+  "college": "Five Towns College",
+  "place": "Dix Hills",
+  "link": "https://www.ftc.edu"
+ },
+ {
+  "college": "Welch College",
+  "place": "Gallatin",
+  "link": "https://welch.edu"
+ },
+ {
+  "college": "Williams Baptist University",
+  "place": "Walnut Ridge",
+  "link": "https://williamsbu.edu"
+ },
+ {
+  "college": "Trocaire College",
+  "place": "Buffalo",
+  "link": "https://trocaire.edu"
+ },
+ {
+  "college": "VanderCook College of Music",
+  "place": "Chicago",
+  "link": "https://www.vandercook.edu"
+ },
+ {
+  "college": "Westfield State University",
+  "place": "Westfield",
+  "link": "https://www.westfield.ma.edu"
+ },
+ {
+  "college": "Point University",
+  "place": "West Point",
+  "link": "https://point.edu"
+ },
+ {
+  "college": "Bryn Athyn College",
+  "place": "Bryn Athyn",
+  "link": "https://brynathyn.edu"
+ },
+ {
+  "college": "Medgar Evers College",
+  "place": "Brooklyn",
+  "link": "https://www.mec.cuny.edu"
+ },
+ {
+  "college": "Grace Christian University",
+  "place": "Wyoming",
+  "link": "https://gracechristian.edu"
+ },
+ {
+  "college": "Heritage Christian University",
+  "place": "Florence",
+  "link": "https://www.hcu.edu"
+ },
+ {
+  "college": "University of Maine at Farmington",
+  "place": "Farmington",
+  "link": "https://www.umf.maine.edu"
+ },
+ {
+  "college": "Pardee RAND Graduate School",
+  "place": "Santa Monica",
+  "link": "https://www.prgs.edu"
+ },
+ {
+  "college": "The College of Westchester",
+  "place": "White Plains",
+  "link": "https://www.cw.edu"
+ },
+ {
+  "college": "Conway School of Landscape Design",
+  "place": "Northampton",
+  "link": "https://csld.edu"
+ },
+ {
+  "college": "San Joaquin College of Law",
+  "place": "Clovis",
+  "link": "https://www.sjcl.edu"
+ },
+ {
+  "college": "Cox College",
+  "place": "Springfield",
+  "link": "https://coxcollege.edu"
+ },
+ {
+  "college": "Magdalen College of the Liberal Arts",
+  "place": "Warner",
+  "link": "https://magdalen.edu"
+ },
+ {
+  "college": "Dominican School of Philosophy \u0026 Theology",
+  "place": "Berkeley",
+  "link": "https://www.dspt.edu"
+ },
+ {
+  "college": "CUNY School of Law",
+  "place": "Long Island City",
+  "link": "https://www.law.cuny.edu"
+ },
+ {
+  "college": "United States University",
+  "place": "San Diego",
+  "link": "https://www.usuniversity.edu"
+ },
+ {
+  "college": "Maria College",
+  "place": "Albany",
+  "link": "https://mariacollege.edu"
+ },
+ {
+  "college": "Alaska Bible College",
+  "place": "Palmer",
+  "link": "https://www.akbible.edu"
+ },
+ {
+  "college": "The Baptist College of Florida",
+  "place": "Graceville ...",
+  "link": "https://www.baptistcollege.edu"
+ },
+ {
+  "college": "Dharma Realm Buddhist University",
+  "place": "Ukiah",
+  "link": "https://www.drbu.edu"
+ },
+ {
+  "college": "Baptist Health Sciences University",
+  "place": "Memphis",
+  "link": "https://www.baptistu.edu"
+ },
+ {
+  "college": "College of Biblical Studies",
+  "place": "Houston ...",
+  "link": "https://www.cbshouston.edu"
+ },
+ {
+  "college": "Trinity Bible College",
+  "place": "Ellendale",
+  "link": "https://www.trinitybiblecollege.edu"
+ },
+ {
+  "college": "Sofia University",
+  "place": "Palo Alto",
+  "link": "https://www.sofia.edu"
+ },
+ {
+  "college": "Boise Bible College",
+  "place": "Boise ...",
+  "link": "https://boisebible.edu"
+ },
+ {
+  "college": "East-West University",
+  "place": "Chicago",
+  "link": "https://www.eastwest.edu"
+ },
+ {
+  "college": "Michigan School of Psychology",
+  "place": "Farmington Hills",
+  "link": "https://msp.edu"
+ },
+ {
+  "college": "Bryan College of Health Sciences",
+  "place": "Lincoln",
+  "link": "https://www.bryanhealthcollege.edu"
+ },
+ {
+  "college": "Great Lakes Christian College",
+  "place": "Lansing",
+  "link": "https://www.glcc.edu"
+ },
+ {
+  "college": "Oak Hills Christian College",
+  "place": "Bemidji",
+  "link": "https://www.oakhills.edu"
+ },
+ {
+  "college": "Pennsylvania College of Health Sciences",
+  "place": "Lancaster",
+  "link": "https://www.pacollege.edu"
+ },
+ {
+  "college": "The Wright Institute",
+  "place": "Berkeley",
+  "link": "https://www.wi.edu"
+ },
+ {
+  "college": "Oak Point University",
+  "place": "Chicago",
+  "link": "https://oakpoint.edu"
+ },
+ {
+  "college": "Goldfarb School of Nursing at Barnes-Jewish College",
+  "place": "St. Louis",
+  "link": "https://www.barnesjewishcollege.edu"
+ },
+ {
+  "college": "Southwestern Christian University",
+  "place": "Bethany ...",
+  "link": "https://swcu.edu"
+ },
+ {
+  "college": "Labouré College",
+  "place": "Milton",
+  "link": "https://www.laboure.edu"
+ },
+ {
+  "college": "Martin University",
+  "place": "Indianapolis",
+  "link": "https://www.martin.edu"
+ },
+ {
+  "college": "God's Bible School and College",
+  "place": "Cincinnati",
+  "link": "https://www.gbs.edu"
+ },
+ {
+  "college": "Mid-Atlantic Christian University",
+  "place": "Elizabeth City",
+  "link": "https://www.macuniversity.edu"
+ },
+ {
+  "college": "Rocky Mountain University of Health Professions",
+  "place": "Provo",
+  "link": "https://rm.edu"
+ },
+ {
+  "college": "Lake Forest Graduate School of Management",
+  "place": "Lake Forest",
+  "link": "https://lfgsm.edu"
+ },
+ {
+  "college": "Beulah Heights University",
+  "place": "Atlanta",
+  "link": "https://beulah.edu"
+ },
+ {
+  "college": "Jamestown Business College",
+  "place": "Jamestown",
+  "link": "https://www.jbc.edu"
+ },
+ {
+  "college": "Davis College",
+  "place": "Johnson City ...",
+  "link": "https://davisny.edu"
+ },
+ {
+  "college": "The King's University",
+  "place": "Southlake",
+  "link": "https://www.tku.edu"
+ },
+ {
+  "college": "Clear Creek Baptist Bible College",
+  "place": "Pineville",
+  "link": "https://www.ccbbc.edu"
+ },
+ {
+  "college": "Boricua College",
+  "place": "New York City",
+  "link": "https://www.boricuacollege.edu"
+ },
+ {
+  "college": "Pillar College",
+  "place": "Newark ...",
+  "link": "https://pillar.edu"
+ },
+ {
+  "college": "Southwestern College, Santa Fe",
+  "place": "Santa Fe",
+  "link": "https://www.swc.edu"
+ },
+ {
+  "college": "Saint Augustine College",
+  "place": "Chicago",
+  "link": "https://www.staugustine.edu"
+ },
+ {
+  "college": "Bellin College",
+  "place": "Green Bay",
+  "link": "https://www.bellincollege.edu"
+ },
+ {
+  "college": "Arlington Baptist University",
+  "place": "Arlington",
+  "link": "https://www.abu.edu"
+ },
+ {
+  "college": "Baptist University of the Americas",
+  "place": "San Antonio",
+  "link": "https://www.bua.edu"
+ },
+ {
+  "college": "Middle Tennessee School of Anesthesia",
+  "place": "Madison",
+  "link": "https://mtsa.edu"
+ },
+ {
+  "college": "Baptist Bible College",
+  "place": "Springfield",
+  "link": "https://gobbc.edu"
+ },
+ {
+  "college": "Lakeview College of Nursing",
+  "place": "Danville",
+  "link": "https://lakeviewcol.edu"
+ },
+ {
+  "college": "Northpoint Bible College",
+  "place": "Haverhill",
+  "link": "https://northpoint.edu"
+ },
+ {
+  "college": "Plaza College",
+  "place": "New York City",
+  "link": "https://www.plazacollege.edu"
+ },
+ {
+  "college": "The University of West Los Angeles",
+  "place": "Inglewood",
+  "link": "https://uwla.edu"
+ },
+ {
+  "college": "New Hope Christian College",
+  "place": "Eugene",
+  "link": "https://www.newhope.edu"
+ },
+ {
+  "college": "Ecclesia College",
+  "place": "Springdale",
+  "link": "https://ecollege.edu"
+ },
+ {
+  "college": "Bethesda University",
+  "place": "Anaheim",
+  "link": "https://www.buc.edu"
+ },
+ {
+  "college": "St. Louis Christian College",
+  "place": "Florissant",
+  "link": "https://stlchristian.edu"
+ },
+ {
+  "college": "Trinity College of Nursing \u0026 Health Sciences",
+  "place": "Rock Island",
+  "link": "https://www.trinitycollegeqc.edu"
+ },
+ {
+  "college": "Providence Christian College",
+  "place": "Pasadena",
+  "link": "https://www.providencecc.edu"
+ },
+ {
+  "college": "Denver College of Nursing",
+  "place": "Denver",
+  "link": "https://www.denvercollegeofnursing.edu"
+ },
+ {
+  "college": "Crowley's Ridge College",
+  "place": "Paragould",
+  "link": "https://crc.edu"
+ },
+ {
+  "college": "Methodist College",
+  "place": "Peoria",
+  "link": "https://www.methodistcol.edu"
+ },
+ {
+  "college": "Wade College",
+  "place": "Dallas",
+  "link": "https://www.wadecollege.edu"
+ },
+ {
+  "college": "Good Samaritan College of Nursing and Health Science",
+  "place": "Cincinnati",
+  "link": "https://www.gscollege.edu"
+ },
+ {
+  "college": "Research College of Nursing",
+  "place": "Kansas City",
+  "link": "https://researchcollege.edu"
+ },
+ {
+  "college": "Helene Fuld College of Nursing",
+  "place": "New York City",
+  "link": "https://www.helenefuld.edu"
+ },
+ {
+  "college": "Richmont Graduate University",
+  "place": "Chattanooga",
+  "link": "https://www.richmont.edu"
+ },
+ {
+  "college": "Tri-State Bible College",
+  "place": "South Point ...",
+  "link": "https://tsbc.edu"
+ },
+ {
+  "college": "WON Institute of Graduate Studies",
+  "place": "Glenside",
+  "link": "https://www.woninstitute.edu"
+ },
+ {
+  "college": "Southeastern Baptist College",
+  "place": "Laurel",
+  "link": "https://southeasternbaptist.edu"
+ },
+ {
+  "college": "Indiana University Fort Wayne",
+  "place": "Fort Wayne",
+  "link": "https://www.iufw.edu"
+ },
+ {
+  "college": "Wisconsin School of Professional Psychology",
+  "place": "Milwaukee",
+  "link": "https://www.wspp.edu"
+ },
+ {
+  "college": "Geisinger Commonwealth School of Medicine",
+  "place": "Scranton",
+  "link": "https://www.geisinger.edu/education"
+ },
+ {
+  "college": "Cabarrus College of Health Sciences",
+  "place": "Concord",
+  "link": "https://atriumhealth.org/education/cabarrus-college-of-health-sciences"
+ },
+ {
+  "college": "Saint Anthony College of Nursing",
+  "place": "Rockford",
+  "link": "https://www.osfhealthcare.org/sacn/"
+ },
+ {
+  "college": "Irell and Manella Graduate School of Biological Sciences",
+  "place": "Duarte",
+  "link": "https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences"
+ },
+ {
+  "college": "Antioch University Santa Barbara",
+  "place": "Santa Barbara",
+  "link": "https://www.antioch.edu/santa-barbara/"
+ },
+ {
+  "college": "Antioch University Los Angeles",
+  "place": "Culver City",
+  "link": "https://www.antioch.edu/los-angeles/"
+ },
+ {
+  "college": "Antioch University New England",
+  "place": "Keene",
+  "link": "https://www.antioch.edu/new-england/"
+ },
+ {
+  "college": "Saint Francis Medical Center College of Nursing",
+  "place": "Peoria",
+  "link": "https://www.osfhealthcare.org/sfmccon/"
+ },
+ {
+  "college": "Ohio University-Chillicothe",
+  "place": "Chillicothe",
+  "link": "https://www.ohio.edu/chillicothe/"
+ },
+ {
+  "college": "Ohio University Southern",
+  "place": "Ironton",
+  "link": "https://www.ohio.edu/southern"
+ },
+ {
+  "college": "Antioch University Seattle",
+  "place": "Seattle",
+  "link": "https://www.antioch.edu/seattle/"
+ },
+ {
+  "college": "Paul Quinn College",
+  "place": "Dallas",
+  "link": "https://pqc-edu.squarespace.com"
+ },
+ {
+  "college": "Add University",
+  "place": "",
+  "link": "/about/add.htm"
+ }
+]

@@ -12,19 +12,20 @@ import (
 	"github.com/tealeg/xlsx"
 )
 
-type item struct {
-	Count   int    `json:"count"`
-	Name    string `json:"name"`
-	Place   string `json:"place"`
-	Type    string `json:"type"`
-	Contact string `json:"contact"`
-}
+// type item struct {
+// 	Count   int    `json:"count"`
+// 	Name    string `json:"name"`
+// 	Place   string `json:"place"`
+// 	Type    string `json:"type"`
+// 	Contact string `json:"contact"`
+// }
 
 var (
+	Xlfile     *xlsx.File
+	fileOpen   = false
 	flag       bool
 	initial    string
 	count      int
-	datas      []item
 	totalPages = 100
 	sheetName  = "sheet1"
 	fileName   = "data"
@@ -49,6 +50,8 @@ func main() {
 	fmt.Scan(&fileName)
 	fmt.Println("Sheet Name :")
 	fmt.Scan(&sheetName)
+
+	file := createFile(sheetName)
 
 	c := colly.NewCollector(
 		colly.UserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0"),
@@ -94,7 +97,8 @@ func main() {
 		count++
 		clgName := h.ChildText("h3[title]")
 		if initial == clgName {
-			writeXLSX(datas)
+			fmt.Println("college repeated :", initial, clgName)
+			SaveFile(fileName, file)
 			os.Exit(0)
 		}
 		place := h.ChildText("span._5588")
@@ -112,31 +116,32 @@ func main() {
 			initial = clgName
 		}
 
-		err := c2.Visit("https://www.shiksha.com" + link)
-		if err != nil {
-			fmt.Println("error in visiting subpage :", err.Error())
-			os.Exit(0)
+		if link != "" {
+			err := c2.Visit("https://www.shiksha.com" + link)
+			if err != nil {
+				fmt.Println("error in visiting subpage :", err.Error())
+				// os.Exit(0)
+				link = ""
+			}
 		}
-
-		item := item{
-			Count:   count,
-			Name:    clgName,
-			Place:   place,
-			Type:    types,
-			Contact: contact,
+		if !fileOpen {
+			Xlfile = openFile(fileName)
+			fileOpen = true
 		}
-		datas = append(datas, item)
-		clgName = ""
-		place = ""
-		types = ""
-		contact = ""
-
+		row := newRow(Xlfile)
+		row.AddCell().SetValue(clgName)
+		row.AddCell().SetValue(place)
+		row.AddCell().SetValue(types)
+		row.AddCell().SetValue(contact)
 	})
+
+	
 
 	for i := 0; i < totalPages; i++ {
 		if i != 0 {
 			params = strconv.Itoa(i + 1)
 			params = "-" + params + tailLink
+			fmt.Println("\t<><><><><><><><><><><><><><><><><><><><><><><><>\n\n\tVisiting Page :", i+1)
 		} else {
 			params = params + tailLink
 		}
@@ -147,7 +152,7 @@ func main() {
 		}
 	}
 	if !flag {
-		writeXLSX(datas)
+		SaveFile(fileName, file)
 	}
 }
 
@@ -161,7 +166,7 @@ func main() {
 // 	os.WriteFile(fileName+".json", file, 0644)
 // }
 
-func writeXLSX(data []item) {
+func createFile(sheetname string) *xlsx.File {
 	file := xlsx.NewFile()
 	sheet, err := file.AddSheet(sheetName)
 	if err != nil {
@@ -173,16 +178,29 @@ func writeXLSX(data []item) {
 	row.AddCell().SetValue("District")
 	row.AddCell().SetValue("Type")
 	row.AddCell().SetValue("Contact")
+	SaveFile(fileName, file)
+	return file
+}
 
-	for _, r := range data {
-		row := sheet.AddRow()
-		row.AddCell().SetValue(r.Name)
-		row.AddCell().SetValue(r.Place)
-		row.AddCell().SetValue(r.Type)
-		row.AddCell().SetValue(r.Contact)
+func openFile(filename string) *xlsx.File {
+	xlFile, err := xlsx.OpenFile(filename + ".xlsx")
+	if err != nil {
+		fmt.Println(err)
+		return nil
 	}
+	// Get the first sheet
+	// sheet := xlFile.Sheets[0]
+	return xlFile
 
-	err = file.Save(fileName + ".xlsx")
+}
+
+func newRow(file *xlsx.File) *xlsx.Row {
+	sheet := file.Sheets[0]
+	return sheet.AddRow()
+}
+
+func SaveFile(fileName string, file *xlsx.File) {
+	err := file.Save(fileName + ".xlsx")
 	if err != nil {
 		log.Println(err)
 		panic(err)
