@@ -12,18 +12,17 @@ import (
 	"github.com/tealeg/xlsx"
 )
 
-// type item struct {
-// 	Count   int    `json:"count"`
-// 	Name    string `json:"name"`
-// 	Place   string `json:"place"`
-// 	Type    string `json:"type"`
-// 	Contact string `json:"contact"`
-// }
+type item struct {
+	Count   int    `json:"count"`
+	Name    string `json:"name"`
+	Place   string `json:"place"`
+	Type    string `json:"type"`
+	Contact string `json:"contact"`
+}
 
 var (
+	data       []item
 	Xlfile     *xlsx.File
-	fileOpen   = false
-	flag       bool
 	initial    string
 	count      int
 	totalPages = 100
@@ -50,8 +49,6 @@ func main() {
 	fmt.Scan(&fileName)
 	fmt.Println("Sheet Name :")
 	fmt.Scan(&sheetName)
-
-	file := createFile(sheetName)
 
 	c := colly.NewCollector(
 		colly.UserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0"),
@@ -98,7 +95,8 @@ func main() {
 		clgName := h.ChildText("h3[title]")
 		if initial == clgName {
 			fmt.Println("college repeated :", initial, clgName)
-			SaveFile(fileName, file)
+			// insert and save
+			createAndSaveFile(sheetName, data)
 			os.Exit(0)
 		}
 		place := h.ChildText("span._5588")
@@ -124,18 +122,16 @@ func main() {
 				link = ""
 			}
 		}
-		if !fileOpen {
-			Xlfile = openFile(fileName)
-			fileOpen = true
+		details := item{
+			Name:    clgName,
+			Place:   place,
+			Type:    types,
+			Contact: contact,
 		}
-		row := newRow(Xlfile)
-		row.AddCell().SetValue(clgName)
-		row.AddCell().SetValue(place)
-		row.AddCell().SetValue(types)
-		row.AddCell().SetValue(contact)
+		data = append(data, details)
+		// make it empty
+		contact = ""
 	})
-
-	
 
 	for i := 0; i < totalPages; i++ {
 		if i != 0 {
@@ -151,9 +147,6 @@ func main() {
 			// os.Exit(0)
 		}
 	}
-	if !flag {
-		SaveFile(fileName, file)
-	}
 }
 
 // func writeJSON(data []item) {
@@ -166,7 +159,7 @@ func main() {
 // 	os.WriteFile(fileName+".json", file, 0644)
 // }
 
-func createFile(sheetname string) *xlsx.File {
+func createAndSaveFile(sheetname string, datas []item) {
 	file := xlsx.NewFile()
 	sheet, err := file.AddSheet(sheetName)
 	if err != nil {
@@ -178,29 +171,14 @@ func createFile(sheetname string) *xlsx.File {
 	row.AddCell().SetValue("District")
 	row.AddCell().SetValue("Type")
 	row.AddCell().SetValue("Contact")
-	SaveFile(fileName, file)
-	return file
-}
-
-func openFile(filename string) *xlsx.File {
-	xlFile, err := xlsx.OpenFile(filename + ".xlsx")
-	if err != nil {
-		fmt.Println(err)
-		return nil
+	for _, i := range datas {
+		row := sheet.AddRow()
+		row.AddCell().SetValue(i.Name)
+		row.AddCell().SetValue(i.Place)
+		row.AddCell().SetValue(i.Type)
+		row.AddCell().SetValue(i.Contact)
 	}
-	// Get the first sheet
-	// sheet := xlFile.Sheets[0]
-	return xlFile
-
-}
-
-func newRow(file *xlsx.File) *xlsx.Row {
-	sheet := file.Sheets[0]
-	return sheet.AddRow()
-}
-
-func SaveFile(fileName string, file *xlsx.File) {
-	err := file.Save(fileName + ".xlsx")
+	err = file.Save(fileName + ".xlsx")
 	if err != nil {
 		log.Println(err)
 		panic(err)
