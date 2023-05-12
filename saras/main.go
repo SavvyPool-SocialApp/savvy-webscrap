@@ -31,8 +31,6 @@ func main() {
 	// Set the URL to send the form value request to
 	url := "https://saras.cbse.gov.in/saras/AffiliatedList/ListOfSchdirReport"
 
-	// Define the form data to be sent
-
 	// Attach a callback function to the OnResponse event
 	c.OnResponse(func(r *colly.Response) {
 		fmt.Println("Status Code:", r.StatusCode)
